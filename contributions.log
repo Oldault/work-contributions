@@ -1281,3 +1281,4 @@
 [2025-10-21T23:19:53+02:00] change port for prod
 [2025-10-21T23:41:24+02:00] add script for prod
 [2025-10-21T23:47:26+02:00] simplify deploy
+[2025-10-21T23:49:55+02:00] server script deploy
