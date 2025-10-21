@@ -1284,3 +1284,4 @@
 [2025-10-21T23:49:55+02:00] server script deploy
 [2025-10-21T23:55:39+02:00] change to full docker
 [2025-10-21T23:58:33+02:00] clean deploy script
+[2025-10-22T00:06:03+02:00] fix deploy
