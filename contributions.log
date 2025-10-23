@@ -1299,3 +1299,4 @@
 [2025-10-23T14:51:56+02:00] fix superadmin create user
 [2025-10-23T15:14:57+02:00] use cache for search-history
 [2025-10-23T15:54:16+02:00] add missing field in detail view
+[2025-10-23T16:30:45+02:00] add hsitory research
