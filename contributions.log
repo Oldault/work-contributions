@@ -1378,3 +1378,4 @@
 [2025-11-24T16:22:03+01:00] improve site
 [2025-11-24T18:53:09+01:00] some change in listings
 [2025-11-25T14:45:29+01:00] change saving listings data
+[2025-11-26T14:49:22+01:00] Add CFNEWS watchlist functionality with CRUD operations and integrate CFNEWS API for searching operations
