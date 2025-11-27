@@ -1391,3 +1391,4 @@
 [2025-11-27T14:55:35+01:00] fix cors origin
 [2025-11-27T14:58:36+01:00] fix superadmin page without organisation
 [2025-11-27T15:10:00+01:00] add creation of organisation
+[2025-11-27T17:20:50+01:00] add cypher for api token
