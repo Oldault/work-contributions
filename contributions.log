@@ -1393,3 +1393,4 @@
 [2025-11-27T15:10:00+01:00] add creation of organisation
 [2025-11-27T17:20:50+01:00] add cypher for api token
 [2025-11-27T17:27:54+01:00] fix show api token preview
+[2025-11-27T17:37:02+01:00] try fix for cfnews token
