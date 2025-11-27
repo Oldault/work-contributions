@@ -1380,3 +1380,4 @@
 [2025-11-25T14:45:29+01:00] change saving listings data
 [2025-11-26T14:49:22+01:00] Add CFNEWS watchlist functionality with CRUD operations and integrate CFNEWS API for searching operations
 [2025-11-26T15:12:19+01:00] Enhance ActivitySectorTab and EventsNewsTab components with improved data handling and user feedback. Added loading state for missing Pappers data and unified event display for BODACC and CFNEWS, including filtering and sorting functionalities.
+[2025-11-27T13:49:20+01:00] Update configuration management for Pappers and CFNEWS APIs, including dynamic handling of API keys and credits. Enhance user settings page with new tabs for account management, password changes, and API configurations. Implement loading states and validation for API keys.
