@@ -1388,3 +1388,4 @@
 [2025-11-27T14:43:36+01:00] change deploy script
 [2025-11-27T14:51:47+01:00] add debug for login
 [2025-11-27T14:53:59+01:00] add script for superadmin
+[2025-11-27T14:55:35+01:00] fix cors origin
