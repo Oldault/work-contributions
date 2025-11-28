@@ -1398,3 +1398,4 @@
 [2025-11-27T17:54:13+01:00] show credit information cfnews
 [2025-11-27T18:03:01+01:00] fix some pb with api key
 [2025-11-27T18:19:08+01:00] fix show credits numbers pappers
+[2025-11-28T11:47:09+01:00] update environment configuration and enhance error handling in API client
