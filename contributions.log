@@ -1419,3 +1419,4 @@
 [2025-12-10T22:10:38+01:00] fix navigation
 [2025-12-11T14:55:53+01:00] fix some front
 [2025-12-11T15:00:59+01:00] fix cors for new sub-domain
+[2025-12-11T15:07:42+01:00] add zustand to all pages
