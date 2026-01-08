@@ -1458,3 +1458,4 @@
 [2026-01-08T10:49:27+01:00] Merge branch 'dev'
 [2026-01-08T11:31:14+01:00] fix: ajouter toutes les migrations SQL manquantes et corriger .gitignore
 [2026-01-08T11:31:45+01:00] add script for test redeploy from scratch
+[2026-01-08T11:59:52+01:00] fix browser cache
