@@ -8,3 +8,4 @@
 [2026-01-08 17:44:50 +0100] feat: add React Query provider with devtools
 [2026-01-08 17:45:31 +0100] feat: add auth context with login/logout
 [2026-01-08 17:46:06 +0100] feat: add root layout with providers and dark theme
+[2026-01-08 17:46:51 +0100] feat: add login page
