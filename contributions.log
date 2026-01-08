@@ -22,3 +22,4 @@
 [2026-01-08 18:29:50 +0100] Implement Phase 6: Listings management
 [2026-01-08 18:35:13 +0100] Implement Phases 7-9: Surveillance, News, Settings
 [2026-01-08 21:23:52 +0100] Fix unescaped entities in JSX components
+[2026-01-08 21:24:09 +0100] Remove unused imports across components
