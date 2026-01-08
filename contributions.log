@@ -24,3 +24,4 @@
 [2026-01-08 21:23:52 +0100] Fix unescaped entities in JSX components
 [2026-01-08 21:24:09 +0100] Remove unused imports across components
 [2026-01-08 21:24:19 +0100] Fix empty interface type in command.tsx
+[2026-01-08 21:24:31 +0100] Fix React hooks ESLint warnings
