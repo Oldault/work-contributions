@@ -4,3 +4,4 @@
 [2026-01-08 17:41:07 +0100] feat: initialize Next.js 14 project for frontend-v4
 [2026-01-08 17:42:38 +0100] feat: add core dependencies (react-query, ag-grid, shadcn)
 [2026-01-08 17:43:19 +0100] feat: configure tailwind with dark mode and AG Grid overrides
+[2026-01-08 17:44:00 +0100] feat: add API client with auth support
