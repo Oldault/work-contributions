@@ -15,3 +15,4 @@
 [2026-01-08 17:57:21 +0100] feat: add AG Grid data grid wrapper component
 [2026-01-08 18:00:04 +0100] feat: add column type definitions and cell renderers
 [2026-01-08 18:01:35 +0100] feat: add filter bar component with active filter chips
+[2026-01-08 18:03:55 +0100] feat: add company grid with mock data to recherche page
