@@ -35,5 +35,3 @@ journalctl --user -u sync-work-commits.service
 ## Configuration
 
 - **Schedule:** Daily at 11:00 PM
-- **Work repo:** `/home/sxmon/Documents/TailorLead/tailorleadv3`
-- **Script location:** `~/.local/bin/sync-work-commits.sh`
