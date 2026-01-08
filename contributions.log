@@ -2,3 +2,4 @@
 [2026-01-08 17:24:46 +0100] Add frontend v4 design document
 [2026-01-08 17:29:29 +0100] Add frontend v4 implementation plan
 [2026-01-08 17:41:07 +0100] feat: initialize Next.js 14 project for frontend-v4
+[2026-01-08 17:42:38 +0100] feat: add core dependencies (react-query, ag-grid, shadcn)
