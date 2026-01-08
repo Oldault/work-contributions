@@ -12,3 +12,4 @@
 [2026-01-08 17:48:07 +0100] feat: add shell layout with header, sidebar, and keyboard shortcuts
 [2026-01-08 17:49:00 +0100] feat: add recherche page placeholder and root redirect
 [2026-01-08 17:50:58 +0100] feat: add command palette with Ctrl+K shortcut
+[2026-01-08 17:57:21 +0100] feat: add AG Grid data grid wrapper component
