@@ -10,3 +10,4 @@
 [2026-01-08 17:46:06 +0100] feat: add root layout with providers and dark theme
 [2026-01-08 17:46:51 +0100] feat: add login page
 [2026-01-08 17:48:07 +0100] feat: add shell layout with header, sidebar, and keyboard shortcuts
+[2026-01-08 17:49:00 +0100] feat: add recherche page placeholder and root redirect
