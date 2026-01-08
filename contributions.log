@@ -1459,3 +1459,4 @@
 [2026-01-08T11:31:14+01:00] fix: ajouter toutes les migrations SQL manquantes et corriger .gitignore
 [2026-01-08T11:31:45+01:00] add script for test redeploy from scratch
 [2026-01-08T11:59:52+01:00] fix browser cache
+[2026-01-08T12:07:34+01:00] delete useless scritps
