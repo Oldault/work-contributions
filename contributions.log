@@ -1477,3 +1477,4 @@
 [2026-01-09T16:45:29+01:00] Add Recherche page
 [2026-01-09T16:45:42+01:00] Add Recherche route to app router
 [2026-01-09T16:45:54+01:00] Add sub-navigation support to FiltersSidebar
+[2026-01-09T16:46:06+01:00] Use integrated sub-nav in Sauvegardes page
