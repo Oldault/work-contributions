@@ -34,3 +34,4 @@
 [2026-01-10 11:13:51 +0100] Add ListingsVeilleTab and RecherchesVeilleTab components
 [2026-01-10 11:14:05 +0100] Add portfolio change detection to FundWatchlistTab
 [2026-01-10 11:14:19 +0100] Refactor Surveillance page with new tabbed veille structure
+[2026-01-10 12:30:06 +0100] Fix Docker setup for fresh clone workflow
