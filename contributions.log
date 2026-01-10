@@ -65,3 +65,4 @@
 [2026-01-10 17:20:12 +0100] feat: add CollapsibleRow component with animations
 [2026-01-10 17:21:15 +0100] feat: add stagger animation and toast progress CSS utilities
 [2026-01-10 20:51:17 +0100] chore: update favicon to use SVG logo
+[2026-01-10 20:51:28 +0100] fix: add localhost:3006 to CORS allowed origins
