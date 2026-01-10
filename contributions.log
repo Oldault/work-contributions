@@ -61,3 +61,4 @@
 [2026-01-10 17:16:08 +0100] Add company page redesign v2 design document
 [2026-01-10 17:16:13 +0100] feat: replace pulse with shimmer animation in Skeleton
 [2026-01-10 17:16:34 +0100] feat: add transition to Card component
+[2026-01-10 17:16:53 +0100] feat: enhance Progress bar animation timing
