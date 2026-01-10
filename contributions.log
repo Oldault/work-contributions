@@ -43,3 +43,4 @@
 [2026-01-10 15:45:04 +0100] Add RechercheResultats page and components
 [2026-01-10 15:45:15 +0100] Add surveillance routes and update components
 [2026-01-10 15:45:31 +0100] Update pages to use sonner toast notifications
+[2026-01-10 15:45:41 +0100] Update components to use sonner toast notifications
