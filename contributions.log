@@ -32,3 +32,4 @@
 [2026-01-10 11:13:22 +0100] Add veille cache service for change detection
 [2026-01-10 11:13:36 +0100] Add recherche method to pappersService
 [2026-01-10 11:13:51 +0100] Add ListingsVeilleTab and RecherchesVeilleTab components
+[2026-01-10 11:14:05 +0100] Add portfolio change detection to FundWatchlistTab
