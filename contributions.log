@@ -27,3 +27,4 @@
 [2026-01-08 21:24:31 +0100] Fix React hooks ESLint warnings
 [2026-01-09 10:38:10 +0100] Fix login API endpoint path
 [2026-01-10 11:12:41 +0100] Add brand color palette to Tailwind config
+[2026-01-10 11:12:55 +0100] Add active state highlighting for compte routes in FiltersSidebar
