@@ -31,3 +31,4 @@
 [2026-01-10 11:13:08 +0100] Add form validation to Login page
 [2026-01-10 11:13:22 +0100] Add veille cache service for change detection
 [2026-01-10 11:13:36 +0100] Add recherche method to pappersService
+[2026-01-10 11:13:51 +0100] Add ListingsVeilleTab and RecherchesVeilleTab components
