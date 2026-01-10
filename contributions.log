@@ -46,3 +46,4 @@
 [2026-01-10 15:45:41 +0100] Update components to use sonner toast notifications
 [2026-01-10 15:45:52 +0100] Update core app files and stores
 [2026-01-10 15:46:05 +0100] Add surveillance routes to server
+[2026-01-10 15:46:15 +0100] Add leaflet and tanstack table dependencies
