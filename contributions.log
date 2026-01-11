@@ -68,3 +68,4 @@
 [2026-01-10 20:51:28 +0100] fix: add localhost:3006 to CORS allowed origins
 [2026-01-10 20:51:45 +0100] feat: refactor Company page with new component architecture
 [2026-01-11 17:04:14 +0100] feat: add country-flag-icons package and nationality flags utility
+[2026-01-11 17:04:22 +0100] feat: add TestDataViz page with chart examples
