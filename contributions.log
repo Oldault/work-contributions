@@ -70,3 +70,4 @@
 [2026-01-11 17:04:14 +0100] feat: add country-flag-icons package and nationality flags utility
 [2026-01-11 17:04:22 +0100] feat: add TestDataViz page with chart examples
 [2026-01-11 17:04:30 +0100] feat: add EtablissementsMapLibre component
+[2026-01-11 17:04:38 +0100] fix: improve dark mode support for UI components
