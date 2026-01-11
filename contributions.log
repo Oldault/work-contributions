@@ -82,3 +82,4 @@
 [2026-01-11 21:52:17 +0100] fix: remove UserMenu imports from origin/dev pages
 [2026-01-11 23:35:17 +0100] fix: ensure proper promise rejection in credits middleware
 [2026-01-11 23:35:29 +0100] feat: add reusable fonds UI components
+[2026-01-11 23:35:39 +0100] fix: improve dropdown text visibility in fonds components
