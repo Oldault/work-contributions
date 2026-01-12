@@ -89,3 +89,4 @@
 [2026-01-12 16:19:23 +0100] feat: add recherche personnes page with filters and table view
 [2026-01-12 16:19:38 +0100] refactor: unify search bar with mode selector and update routing
 [2026-01-12 16:19:50 +0100] feat: enhance company page with unified timeline and improved data viz
+[2026-01-12 16:20:01 +0100] refactor: update fonds pages with unified search and view transitions
