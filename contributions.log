@@ -92,3 +92,4 @@
 [2026-01-12 16:20:01 +0100] refactor: update fonds pages with unified search and view transitions
 [2026-01-12 16:20:22 +0100] refactor: update RechercheResultats with unified search and dummy mode
 [2026-01-12 16:20:27 +0100] fix: update Surveillance page and RecherchesVeilleTab styling
+[2026-01-12 16:20:32 +0100] fix: update FiltersSidebar styling
