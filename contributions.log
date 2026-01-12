@@ -94,3 +94,4 @@
 [2026-01-12 16:20:27 +0100] fix: update Surveillance page and RecherchesVeilleTab styling
 [2026-01-12 16:20:32 +0100] fix: update FiltersSidebar styling
 [2026-01-12 16:20:38 +0100] feat: enhance TestDataViz page with additional chart examples
+[2026-01-12 16:20:48 +0100] chore: add framer-motion dependency
