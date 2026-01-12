@@ -85,3 +85,4 @@
 [2026-01-11 23:35:39 +0100] fix: improve dropdown text visibility in fonds components
 [2026-01-11 23:35:49 +0100] refactor: extract components from fonds pages
 [2026-01-12 15:47:28 +0100] docs: add company page dataviz enhancement plan
+[2026-01-12 16:19:11 +0100] feat: add View Transitions API support for smooth page navigation
