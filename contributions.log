@@ -104,3 +104,4 @@
 [2026-01-13 12:02:18 +0100] fix: improve toast system with custom wrapper and add eslint import restriction
 [2026-01-13 12:02:30 +0100] fix: minor UI improvements across company and search pages
 [2026-01-13 12:02:42 +0100] refactor: improve recherche-personnes components and pages
+[2026-01-13 12:02:52 +0100] refactor: redesign BeneficiaireDetail page
