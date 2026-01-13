@@ -110,3 +110,4 @@
 [2026-01-13 12:06:30 +0100] fix: improve API client error handling and extract error messages consistently
 [2026-01-13 14:07:49 +0100] docs: add recherche globale redesign plan
 [2026-01-13 14:54:25 +0100] deps: add use-debounce package
+[2026-01-13 14:54:35 +0100] feat(db): add subscription and credit management schema
