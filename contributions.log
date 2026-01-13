@@ -97,3 +97,4 @@
 [2026-01-12 16:20:48 +0100] chore: add framer-motion dependency
 [2026-01-12 16:23:24 +0100] Merge origin/dev into frontend-3
 [2026-01-12 16:56:09 +0100] fix: post-merge integration cleanup and backend route connections
+[2026-01-13 10:47:32 +0100] fix: make person search filters functional on /recherche/personnes
