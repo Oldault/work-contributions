@@ -99,3 +99,4 @@
 [2026-01-12 16:56:09 +0100] fix: post-merge integration cleanup and backend route connections
 [2026-01-13 10:47:32 +0100] fix: make person search filters functional on /recherche/personnes
 [2026-01-13 10:51:32 +0100] Merge pull request #1 from jeremyaumetis/integration_frontendv2
+[2026-01-13 10:59:07 +0100] docs: add personne detail page redesign plan
