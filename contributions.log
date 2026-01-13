@@ -115,3 +115,4 @@
 [2026-01-13 14:54:52 +0100] refactor(ui): remove inline source labels from detail sections
 [2026-01-13 14:55:04 +0100] feat(recherche-globale): add filters sidebar and detected filters UI
 [2026-01-13 14:55:13 +0100] feat(stores): add persistence and new state to search store
+[2026-01-13 14:59:57 +0100] Merge branch 'frontv2' into integration_frontendv2
