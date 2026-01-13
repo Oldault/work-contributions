@@ -112,3 +112,4 @@
 [2026-01-13 14:54:25 +0100] deps: add use-debounce package
 [2026-01-13 14:54:35 +0100] feat(db): add subscription and credit management schema
 [2026-01-13 14:54:43 +0100] feat(search): add caching and improve suggestion generation
+[2026-01-13 14:54:52 +0100] refactor(ui): remove inline source labels from detail sections
