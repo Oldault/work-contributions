@@ -130,3 +130,4 @@
 [2026-01-14 14:46:43 +0100] feat(detail-pages): integrate navigation context and caching
 [2026-01-14 14:46:53 +0100] refactor(company): remove data source labels and SourceBadge
 [2026-01-14 14:51:31 +0100] fix(recherche): use absolute positioning for recent searches dropdown
+[2026-01-14 16:39:09 +0100] docs: add contreparties search design document
