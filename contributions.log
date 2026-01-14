@@ -128,3 +128,4 @@
 [2026-01-14 14:46:25 +0100] feat(recherche): integrate navigation context and result caching
 [2026-01-14 14:46:32 +0100] feat(recherche): add recent searches preview component
 [2026-01-14 14:46:43 +0100] feat(detail-pages): integrate navigation context and caching
+[2026-01-14 14:46:53 +0100] refactor(company): remove data source labels and SourceBadge
