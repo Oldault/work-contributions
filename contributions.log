@@ -1501,3 +1501,4 @@
 [2026-01-14T17:49:46+01:00] add searched people to listing
 [2026-01-14T17:54:36+01:00] Fix cache memory limit
 [2026-01-14T18:04:03+01:00] Modify surveillance add détails for listings
+[2026-01-14T18:19:30+01:00] Merge pull request #5 from jeremyaumetis/integration_frontendv2
