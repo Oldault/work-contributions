@@ -155,3 +155,4 @@
 [2026-01-14 22:16:09 +0100] feat(recherche-historique): redesign with time-grouped entries
 [2026-01-14 22:16:22 +0100] refactor(navigation): remove historique from sidebar navigation
 [2026-01-14 22:16:34 +0100] feat(contreparties): add type filters and dummy mode support
+[2026-01-14 22:16:45 +0100] feat(contrepartie): add portfolio company navigation links
