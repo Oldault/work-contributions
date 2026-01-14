@@ -1496,3 +1496,4 @@
 [2026-01-14T15:13:33+01:00] Fix cache for saved company searched
 [2026-01-14T17:00:50+01:00] Change in surveillance
 [2026-01-14T17:11:09+01:00] add portfolio view in search funds details
+[2026-01-14T17:21:40+01:00] Add CFNEWS user agent to bypass IP blocking
