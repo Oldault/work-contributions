@@ -150,3 +150,4 @@
 [2026-01-14 21:19:19 +0100] .
 [2026-01-14 19:58:59 +0100] feat(contrepartie): add header component
 [2026-01-14 19:59:12 +0100] refactor(contrepartie): improve UI components
+[2026-01-14 19:59:25 +0100] feat(surveillance): add caching for aggregated portfolio
