@@ -145,3 +145,4 @@
 [2026-01-14 19:57:54 +0100] chore(docker): add CFNEWS_USER_AGENT environment variable
 [2026-01-14 19:58:08 +0100] refactor(backend): centralize CFNEWS API error handling
 [2026-01-14 19:58:21 +0100] fix(backend): improve portfolio data extraction
+[2026-01-14 19:58:34 +0100] feat(operation): add modular components for operation detail page
