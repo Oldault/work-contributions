@@ -126,3 +126,4 @@
 [2026-01-14 14:46:05 +0100] feat(navigation): add context tracking system for search persistence
 [2026-01-14 14:46:15 +0100] feat(search): add cached companies for instant state restore
 [2026-01-14 14:46:25 +0100] feat(recherche): integrate navigation context and result caching
+[2026-01-14 14:46:32 +0100] feat(recherche): add recent searches preview component
