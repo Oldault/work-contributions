@@ -122,3 +122,4 @@
 [2026-01-13 15:32:06 +0100] refactor(company): move action buttons to sidebar and add loading state
 [2026-01-14 09:45:52 +0100] fix(breadcrumb): preserve search context when navigating to company page
 [2026-01-14 13:55:34 +0100] docs: add recherche context persistence design
+[2026-01-14 14:45:53 +0100] feat(cfnews): add user-agent bypass for IP whitelist
