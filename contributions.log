@@ -152,3 +152,4 @@
 [2026-01-14 19:59:12 +0100] refactor(contrepartie): improve UI components
 [2026-01-14 19:59:25 +0100] feat(surveillance): add caching for aggregated portfolio
 [2026-01-14 22:15:55 +0100] docs(plan): update recherche historique redesign plan
+[2026-01-14 22:16:09 +0100] feat(recherche-historique): redesign with time-grouped entries
