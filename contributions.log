@@ -134,3 +134,4 @@
 [2026-01-14 17:11:02 +0100] docs: add recherche historique redesign plan
 [2026-01-14 18:16:10 +0100] feat(recherche): add contreparties search mode support
 [2026-01-14 18:16:21 +0100] feat(api): save search history for fonds, actors, and beneficiaires
+[2026-01-14 18:16:32 +0100] feat(cfnews): add getActorDetails API method
