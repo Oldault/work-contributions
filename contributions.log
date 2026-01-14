@@ -142,3 +142,4 @@
 [2026-01-14 18:17:29 +0100] feat(recherche): add search history page
 [2026-01-14 18:17:41 +0100] feat(app): register contreparties and historique routes
 [2026-01-14 19:32:03 +0100] Add operations page redesign plan
+[2026-01-14 19:57:54 +0100] chore(docker): add CFNEWS_USER_AGENT environment variable
