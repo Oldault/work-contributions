@@ -139,3 +139,4 @@
 [2026-01-14 18:16:54 +0100] feat(contreparties): add backend API routes
 [2026-01-14 18:17:05 +0100] feat(contreparties): add UI components
 [2026-01-14 18:17:18 +0100] feat(contreparties): add search and detail pages
+[2026-01-14 18:17:29 +0100] feat(recherche): add search history page
