@@ -160,3 +160,4 @@
 [2026-01-15 08:55:22 +0100] fix(cfnews): correct due_diligence field name typos
 [2026-01-15 08:55:29 +0100] fix(i18n): add proper French accents to UI text
 [2026-01-15 08:55:35 +0100] refactor(search): improve search mode tooltips
+[2026-01-15 08:55:41 +0100] chore(dummy-data): update dates and fix accents
