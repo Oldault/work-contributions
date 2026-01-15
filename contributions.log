@@ -174,3 +174,4 @@
 [2026-01-15 13:16:36 +0100] refactor(contrepartie): improve synthese layout and styling
 [2026-01-15 13:16:48 +0100] feat(recherche): improve filters modal and search experience
 [2026-01-15 13:16:59 +0100] feat(types): add url field to ContrepartieOperation
+[2026-01-15 13:17:07 +0100] fix(store): reset query when changing search type or mode
