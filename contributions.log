@@ -167,3 +167,4 @@
 [2026-01-15 13:15:39 +0100] feat(company): add DeepSearchResults and ImmobilierSection components
 [2026-01-15 13:15:46 +0100] feat(company): enhance sections with source citations and new tabs
 [2026-01-15 13:15:58 +0100] feat(personne): add ActualitesPersonSection and ImmobilierPersonSection
+[2026-01-15 13:16:05 +0100] feat(personne): update sidebar and header with new sections
