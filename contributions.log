@@ -175,3 +175,4 @@
 [2026-01-15 13:16:48 +0100] feat(recherche): improve filters modal and search experience
 [2026-01-15 13:16:59 +0100] feat(types): add url field to ContrepartieOperation
 [2026-01-15 13:17:07 +0100] fix(store): reset query when changing search type or mode
+[2026-01-15 13:17:14 +0100] feat(dummy-data): expand contreparties with portfolio and operations
