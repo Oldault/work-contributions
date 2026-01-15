@@ -166,3 +166,4 @@
 [2026-01-15 13:15:27 +0100] feat(data): add demo data for DeepSearch feature demos
 [2026-01-15 13:15:39 +0100] feat(company): add DeepSearchResults and ImmobilierSection components
 [2026-01-15 13:15:46 +0100] feat(company): enhance sections with source citations and new tabs
+[2026-01-15 13:15:58 +0100] feat(personne): add ActualitesPersonSection and ImmobilierPersonSection
