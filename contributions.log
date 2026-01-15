@@ -162,3 +162,4 @@
 [2026-01-15 08:55:35 +0100] refactor(search): improve search mode tooltips
 [2026-01-15 08:55:41 +0100] chore(dummy-data): update dates and fix accents
 [2026-01-15 13:14:58 +0100] feat(ui): add SourceCitation component for source references
+[2026-01-15 13:15:09 +0100] refactor(ui): improve FilterBadge value truncation logic
