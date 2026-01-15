@@ -164,3 +164,4 @@
 [2026-01-15 13:14:58 +0100] feat(ui): add SourceCitation component for source references
 [2026-01-15 13:15:09 +0100] refactor(ui): improve FilterBadge value truncation logic
 [2026-01-15 13:15:27 +0100] feat(data): add demo data for DeepSearch feature demos
+[2026-01-15 13:15:39 +0100] feat(company): add DeepSearchResults and ImmobilierSection components
