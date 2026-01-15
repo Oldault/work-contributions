@@ -157,3 +157,4 @@
 [2026-01-14 22:16:34 +0100] feat(contreparties): add type filters and dummy mode support
 [2026-01-14 22:16:45 +0100] feat(contrepartie): add portfolio company navigation links
 [2026-01-14 22:16:58 +0100] feat(dummy-data): expand contreparties with realistic M&A market data
+[2026-01-15 08:55:22 +0100] fix(cfnews): correct due_diligence field name typos
