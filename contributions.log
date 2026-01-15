@@ -171,3 +171,4 @@
 [2026-01-15 13:16:17 +0100] feat(contrepartie): enhance operations view with expanded details
 [2026-01-15 13:16:24 +0100] feat(contrepartie): redesign actualites with news cards and tabs
 [2026-01-15 13:16:30 +0100] feat(contrepartie): expand equipe with detailed team profiles
+[2026-01-15 13:16:36 +0100] refactor(contrepartie): improve synthese layout and styling
