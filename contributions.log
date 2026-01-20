@@ -222,3 +222,4 @@
 [2026-01-20 21:44:48 +0100] feat(deepsearch): add ProfileSelector component
 [2026-01-20 21:45:31 +0100] feat(deepsearch): add profile selector to search controls
 [2026-01-20 21:48:16 +0100] feat(deepsearch): pass profile param to search API
+[2026-01-20 21:49:24 +0100] feat(deepsearch): add hook and whyInteresting generation methods
