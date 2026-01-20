@@ -195,3 +195,4 @@
 [2026-01-20 13:55:01 +0100] feat(company): improve StructureSection with legal form detection
 [2026-01-20 13:55:13 +0100] refactor: adopt formatMoney utility across all components
 [2026-01-20 13:55:20 +0100] feat(company): improve Company page with better error handling
+[2026-01-20 13:55:37 +0100] fix(beneficiaire): use NavigationBreadcrumb for consistent navigation
