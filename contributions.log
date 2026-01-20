@@ -190,3 +190,4 @@
 [2026-01-20 13:54:28 +0100] feat(lib): add navigation breadcrumb system
 [2026-01-20 13:54:35 +0100] feat(lib): add personValidation utilities for detecting personnes morales
 [2026-01-20 13:54:42 +0100] feat(company): add PersonLink and CompanyLink navigation components
+[2026-01-20 13:54:48 +0100] feat(company): add EnrichmentConfirmModal for batch contact enrichment
