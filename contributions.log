@@ -201,3 +201,4 @@
 [2026-01-20 16:01:57 +0100] contribution guidelines and deepsearch doc
 [2026-01-20 17:25:04 +0100] docs: add DeepSearch cost tracking design with Langfuse
 [2026-01-20 17:31:41 +0100] feat(langfuse): add infrastructure for LLM cost tracking
+[2026-01-20 17:35:36 +0100] feat(langfuse): add LangfuseService for LLM cost tracking
