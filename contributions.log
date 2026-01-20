@@ -197,3 +197,4 @@
 [2026-01-20 13:55:20 +0100] feat(company): improve Company page with better error handling
 [2026-01-20 13:55:37 +0100] fix(beneficiaire): use NavigationBreadcrumb for consistent navigation
 [2026-01-20 13:55:45 +0100] docs: add design plans for contacts enrichment improvements
+[2026-01-20 13:56:06 +0100] fix(contacts): correct label from 'testé' to 'enrichie'
