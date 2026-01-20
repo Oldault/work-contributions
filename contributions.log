@@ -206,3 +206,4 @@
 [2026-01-20 17:45:50 +0100] feat(langfuse): wire up trace passing in DeepSearch route and services
 [2026-01-20 17:49:09 +0100] feat(langfuse): add userPreferencesStore for cost display toggle
 [2026-01-20 17:50:17 +0100] docs: add DeepSearch Firecrawl integration design
+[2026-01-20 17:52:09 +0100] feat(langfuse): add cost display toggle in DeepSearch UI
