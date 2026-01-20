@@ -217,3 +217,4 @@
 [2026-01-20 18:08:40 +0100] feat(deepsearch): add date fallback and verification badge to NewsDetailPanel
 [2026-01-20 18:08:42 +0100] feat(deepsearch): add date fallback and verification badge to NewsCard
 [2026-01-20 21:39:10 +0100] docs: add DeepSearch user profiles design
+[2026-01-20 21:41:49 +0100] docs: add user profiles implementation plan
