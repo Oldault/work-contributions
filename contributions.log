@@ -226,3 +226,4 @@
 [2026-01-20 21:50:16 +0100] feat(deepsearch): add profile support and whyInteresting to summarize route
 [2026-01-20 21:51:42 +0100] feat(deepsearch): display whyInteresting section in detail panel
 [2026-01-20 21:52:25 +0100] feat(deepsearch): display hook on news cards
+[2026-01-20 21:53:07 +0100] feat(deepsearch): generate hooks for search results based on profile
