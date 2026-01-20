@@ -187,3 +187,4 @@
 [2026-01-20 13:54:00 +0100] feat(lib): add formatMoney utility for consistent monetary formatting
 [2026-01-20 13:54:13 +0100] docs: document formatMoney utility and update icon library reference
 [2026-01-20 13:54:21 +0100] feat(ui): improve dialog, checkbox, and toast components
+[2026-01-20 13:54:28 +0100] feat(lib): add navigation breadcrumb system
