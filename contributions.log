@@ -192,3 +192,4 @@
 [2026-01-20 13:54:42 +0100] feat(company): add PersonLink and CompanyLink navigation components
 [2026-01-20 13:54:48 +0100] feat(company): add EnrichmentConfirmModal for batch contact enrichment
 [2026-01-20 13:54:55 +0100] refactor(company): rewrite ContactsSection with multi-select and validation
+[2026-01-20 13:55:01 +0100] feat(company): improve StructureSection with legal form detection
