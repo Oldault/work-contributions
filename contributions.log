@@ -204,3 +204,4 @@
 [2026-01-20 17:35:36 +0100] feat(langfuse): add LangfuseService for LLM cost tracking
 [2026-01-20 17:41:37 +0100] feat(langfuse): instrument Perplexity service with cost tracking
 [2026-01-20 17:45:50 +0100] feat(langfuse): wire up trace passing in DeepSearch route and services
+[2026-01-20 17:49:09 +0100] feat(langfuse): add userPreferencesStore for cost display toggle
