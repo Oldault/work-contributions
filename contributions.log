@@ -211,3 +211,4 @@
 [2026-01-20 17:54:14 +0100] docs: add Langfuse setup instructions to CLAUDE.md
 [2026-01-20 17:57:36 +0100] feat(langfuse): add cost tracking to Firecrawl service
 [2026-01-20 18:01:21 +0100] feat(deepsearch): integrate Firecrawl for URL scraping in search flow
+[2026-01-20 18:04:27 +0100] feat(deepsearch): update summarizationService to use real article content
