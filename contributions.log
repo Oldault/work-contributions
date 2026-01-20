@@ -199,3 +199,4 @@
 [2026-01-20 13:55:45 +0100] docs: add design plans for contacts enrichment improvements
 [2026-01-20 13:56:06 +0100] fix(contacts): correct label from 'testé' to 'enrichie'
 [2026-01-20 16:01:57 +0100] contribution guidelines and deepsearch doc
+[2026-01-20 17:25:04 +0100] docs: add DeepSearch cost tracking design with Langfuse
