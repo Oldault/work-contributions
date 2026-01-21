@@ -249,3 +249,4 @@
 [2026-01-21 17:55:42 +0100] feat(deepsearch): add search progress UI components
 [2026-01-21 17:55:57 +0100] feat(deepsearch): enhance frontend with streaming, sorting and extraction UI
 [2026-01-21 17:56:11 +0100] feat(landing): add hero expandable login component with shader effects
+[2026-01-21 17:56:21 +0100] docs: add design plan for enhanced date extraction feature
