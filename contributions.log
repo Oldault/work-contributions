@@ -247,3 +247,4 @@
 [2026-01-21 17:55:14 +0100] feat(deepsearch): improve date extraction with 3-level cascade
 [2026-01-21 17:55:28 +0100] feat(deepsearch): add SSE streaming search with real-time progress
 [2026-01-21 17:55:42 +0100] feat(deepsearch): add search progress UI components
+[2026-01-21 17:55:57 +0100] feat(deepsearch): enhance frontend with streaming, sorting and extraction UI
