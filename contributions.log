@@ -234,3 +234,4 @@
 [2026-01-21 13:58:58 +0100] feat(company): add ownership diagram visualization
 [2026-01-21 13:59:15 +0100] feat(deepsearch): add AI backend services for search quality
 [2026-01-21 13:59:33 +0100] feat(deepsearch): improve core services with depth and cost tracking
+[2026-01-21 13:59:52 +0100] feat(deepsearch): add search history tracking
