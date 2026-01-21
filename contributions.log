@@ -231,3 +231,4 @@
 [2026-01-21 12:34:14 +0100] docs: add deepsearch improvements design
 [2026-01-21 13:57:54 +0100] chore: improve Langfuse integration in Docker setup
 [2026-01-21 13:58:41 +0100] docs: add design plans for deepsearch history and ownership diagram
+[2026-01-21 13:58:58 +0100] feat(company): add ownership diagram visualization
