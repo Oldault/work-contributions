@@ -228,3 +228,4 @@
 [2026-01-20 21:52:25 +0100] feat(deepsearch): display hook on news cards
 [2026-01-20 21:53:07 +0100] feat(deepsearch): generate hooks for search results based on profile
 [2026-01-20 21:54:44 +0100] feat(deepsearch): make summary and key points profile-aware
+[2026-01-21 12:34:14 +0100] docs: add deepsearch improvements design
