@@ -243,3 +243,4 @@
 [2026-01-21 14:01:25 +0100] fix(api): add 2 minute timeout for DeepSearch endpoints
 [2026-01-21 14:01:27 +0100] data: enhance demo beneficiaire data for ownership diagram
 [2026-01-21 14:01:28 +0100] chore: add server .env.example template
+[2026-01-21 17:55:01 +0100] feat(deepsearch): add Gemini extraction service for enhanced article data
