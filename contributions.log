@@ -238,3 +238,4 @@
 [2026-01-21 14:00:18 +0100] feat(deepsearch): enhance UI with depth selector and cost tracking
 [2026-01-21 14:00:29 +0100] feat(deepsearch): add entity watchlist management
 [2026-01-21 14:00:47 +0100] deps: add reactflow and dagre for ownership diagram
+[2026-01-21 14:01:14 +0100] fix(ui): add showLabel prop to SourceCitationGroup
