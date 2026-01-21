@@ -236,3 +236,4 @@
 [2026-01-21 13:59:33 +0100] feat(deepsearch): improve core services with depth and cost tracking
 [2026-01-21 13:59:52 +0100] feat(deepsearch): add search history tracking
 [2026-01-21 14:00:18 +0100] feat(deepsearch): enhance UI with depth selector and cost tracking
+[2026-01-21 14:00:29 +0100] feat(deepsearch): add entity watchlist management
