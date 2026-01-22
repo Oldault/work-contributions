@@ -1527,3 +1527,4 @@
 [2026-01-21T17:04:53+01:00] change deploy scripts and dockerfile
 [2026-01-21T17:45:37+01:00] add counterparties and button to trigger cfnews calls
 [2026-01-22T09:38:23+01:00] Merge pull request #12 from jeremyaumetis/feat/deepsearch
+[2026-01-22T09:52:35+01:00] Merge branch 'integration_frontendv2' into dev
