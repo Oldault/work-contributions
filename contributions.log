@@ -266,3 +266,4 @@
 [2026-01-23 07:49:24 +0100] chore: add Google Generative AI and Anthropic SDK dependencies
 [2026-01-23 07:54:59 +0100] feat(daily-news): add service and store for data management
 [2026-01-23 07:55:06 +0100] feat(daily-news): add URL-synced filter hook
+[2026-01-23 07:55:16 +0100] feat(daily-news): add UI components for deal display
