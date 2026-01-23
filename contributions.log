@@ -286,3 +286,4 @@
 [2026-01-23 11:00:15 +0100] fix(daily-news): convert float costs to integers before DB storage
 [2026-01-23 11:00:22 +0100] feat(daily-news): add content fetch stage and wire services
 [2026-01-23 11:00:31 +0100] feat(daily-news): add CLI runner and Makefile commands
+[2026-01-23 11:00:38 +0100] feat(daily-news): add unit tests and rss-parser dependency
