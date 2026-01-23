@@ -293,3 +293,4 @@
 [2026-01-23 16:38:57 +0100] feat(daily-news): add modes configuration with full/lite options
 [2026-01-23 16:41:25 +0100] feat(daily-news): add mode column to jobs table migration
 [2026-01-23 16:41:35 +0100] feat(daily-news): add optional maxPasses param to shouldEscalateToPass3
+[2026-01-23 16:41:47 +0100] feat(daily-news): add backward-compatible mode support to discoveryService
