@@ -295,3 +295,4 @@
 [2026-01-23 16:41:35 +0100] feat(daily-news): add optional maxPasses param to shouldEscalateToPass3
 [2026-01-23 16:41:47 +0100] feat(daily-news): add backward-compatible mode support to discoveryService
 [2026-01-23 16:41:56 +0100] feat(daily-news): add daily-news-lite Makefile target
+[2026-01-23 16:42:22 +0100] feat(daily-news): add mode field support to checkpointService
