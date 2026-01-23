@@ -277,3 +277,4 @@
 [2026-01-23 08:15:57 +0100] Merge branch 'feat/dn-frontend' into feat/daily-news
 [2026-01-23 10:59:11 +0100] feat(daily-news): add file logging for pipeline
 [2026-01-23 10:59:20 +0100] feat(daily-news): add Langfuse tracing integration
+[2026-01-23 10:59:31 +0100] feat(daily-news): update LLM pricing and add tracing
