@@ -287,3 +287,4 @@
 [2026-01-23 11:00:22 +0100] feat(daily-news): add content fetch stage and wire services
 [2026-01-23 11:00:31 +0100] feat(daily-news): add CLI runner and Makefile commands
 [2026-01-23 11:00:38 +0100] feat(daily-news): add unit tests and rss-parser dependency
+[2026-01-23 11:00:47 +0100] feat(daily-news): improve frontend UX
