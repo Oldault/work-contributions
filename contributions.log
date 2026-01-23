@@ -282,3 +282,4 @@
 [2026-01-23 10:59:46 +0100] feat(daily-news): add content fetch config and fix RSS feeds
 [2026-01-23 10:59:53 +0100] feat(daily-news): add Langfuse tracing to filtering service
 [2026-01-23 11:00:01 +0100] feat(daily-news): add extraction fallback and tracing
+[2026-01-23 11:00:07 +0100] feat(daily-news): add Langfuse tracing to deduplication
