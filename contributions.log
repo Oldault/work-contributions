@@ -284,3 +284,4 @@
 [2026-01-23 11:00:01 +0100] feat(daily-news): add extraction fallback and tracing
 [2026-01-23 11:00:07 +0100] feat(daily-news): add Langfuse tracing to deduplication
 [2026-01-23 11:00:15 +0100] fix(daily-news): convert float costs to integers before DB storage
+[2026-01-23 11:00:22 +0100] feat(daily-news): add content fetch stage and wire services
