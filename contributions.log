@@ -269,3 +269,4 @@
 [2026-01-23 07:55:16 +0100] feat(daily-news): add UI components for deal display
 [2026-01-23 07:55:23 +0100] feat(daily-news): add page and integrate routing
 [2026-01-23 08:03:01 +0100] fix(daily-news): add missing unique constraint and organization filtering
+[2026-01-23 08:06:34 +0100] feat(daily-news): implement Track C - Storage & API
