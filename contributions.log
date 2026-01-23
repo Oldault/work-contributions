@@ -290,3 +290,4 @@
 [2026-01-23 11:00:47 +0100] feat(daily-news): improve frontend UX
 [2026-01-23 11:00:55 +0100] feat(daily-news): enable real backend API
 [2026-01-23 14:46:53 +0100] docs: add daily-news lite mode design
+[2026-01-23 16:38:57 +0100] feat(daily-news): add modes configuration with full/lite options
