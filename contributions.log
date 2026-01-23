@@ -305,3 +305,4 @@
 [2026-01-23 17:17:19 +0100] feat(daily-news): add JSON repair for truncated AI responses
 [2026-01-23 17:17:25 +0100] fix(daily-news): add defensive checks to filteringService
 [2026-01-23 17:17:33 +0100] feat(daily-news): support multiple operation types per deal
+[2026-01-23 17:17:41 +0100] feat(daily-news): add checkpoint resume infrastructure
