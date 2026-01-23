@@ -279,3 +279,4 @@
 [2026-01-23 10:59:20 +0100] feat(daily-news): add Langfuse tracing integration
 [2026-01-23 10:59:31 +0100] feat(daily-news): update LLM pricing and add tracing
 [2026-01-23 10:59:39 +0100] feat(daily-news): add Firecrawl client for content fetching
+[2026-01-23 10:59:46 +0100] feat(daily-news): add content fetch config and fix RSS feeds
