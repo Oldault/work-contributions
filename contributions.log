@@ -298,3 +298,4 @@
 [2026-01-23 16:42:22 +0100] feat(daily-news): add mode field support to checkpointService
 [2026-01-23 16:46:05 +0100] feat(daily-news): add maxPasses support to extractionService
 [2026-01-23 16:50:54 +0100] feat(daily-news): add mode support to dailyNewsJob
+[2026-01-23 16:54:03 +0100] docs: add preflight validation system design
