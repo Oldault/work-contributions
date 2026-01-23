@@ -283,3 +283,4 @@
 [2026-01-23 10:59:53 +0100] feat(daily-news): add Langfuse tracing to filtering service
 [2026-01-23 11:00:01 +0100] feat(daily-news): add extraction fallback and tracing
 [2026-01-23 11:00:07 +0100] feat(daily-news): add Langfuse tracing to deduplication
+[2026-01-23 11:00:15 +0100] fix(daily-news): convert float costs to integers before DB storage
