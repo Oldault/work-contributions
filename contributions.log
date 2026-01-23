@@ -274,3 +274,4 @@
 [2026-01-23 08:13:27 +0100] Merge branch 'feat/dn-ingestion' into feat/daily-news
 [2026-01-23 08:13:58 +0100] Merge branch 'feat/dn-extraction' into feat/daily-news
 [2026-01-23 08:14:43 +0100] Merge branch 'feat/dn-storage' into feat/daily-news
+[2026-01-23 08:15:57 +0100] Merge branch 'feat/dn-frontend' into feat/daily-news
