@@ -264,3 +264,4 @@
 [2026-01-23 07:48:27 +0100] feat(dailynews): add extraction service orchestrating multi-pass pipeline
 [2026-01-23 07:48:53 +0100] feat(dailynews): add index file for service exports
 [2026-01-23 07:49:24 +0100] chore: add Google Generative AI and Anthropic SDK dependencies
+[2026-01-23 07:54:59 +0100] feat(daily-news): add service and store for data management
