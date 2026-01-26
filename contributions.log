@@ -328,3 +328,4 @@
 [2026-01-26 15:56:14 +0100] docs: add daily-news discovery expansion design
 [2026-01-26 15:56:17 +0100] docs: add AdminExpenses page redesign plan
 [2026-01-26 16:45:03 +0100] docs: update planning documents with implementation details
+[2026-01-26 16:45:12 +0100] feat(dailynews): expand discovery sources with BODACC and tiered RSS
