@@ -332,3 +332,4 @@
 [2026-01-26 16:45:19 +0100] feat(dailynews): implement tiered filtering and BODACC extraction
 [2026-01-26 16:45:24 +0100] feat(dailynews): add source metadata to deal storage
 [2026-01-26 16:45:30 +0100] feat(expenses): add demo mode, comparison, and activity log endpoints
+[2026-01-26 16:45:37 +0100] feat(dailynews): add table redesign components
