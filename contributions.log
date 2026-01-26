@@ -336,3 +336,4 @@
 [2026-01-26 16:45:43 +0100] feat(dailynews): integrate table/card view with column picker
 [2026-01-26 16:45:47 +0100] feat(storage): add DAILY_NEWS_PREFS storage key
 [2026-01-26 16:45:52 +0100] feat(expenses): update AdminExpenses page and components
+[2026-01-26 16:45:57 +0100] feat(assets): add API logo images
