@@ -311,3 +311,4 @@
 [2026-01-26 10:52:55 +0100] feat(daily-news): add CLI and Makefile support for preflight
 [2026-01-26 10:53:01 +0100] feat(daily-news): track mode in checkpoints for resume validation
 [2026-01-26 10:53:08 +0100] feat(daily-news): support resuming discovery mid-source
+[2026-01-26 10:53:14 +0100] fix(daily-news): use operation_types array in deduplication queries
