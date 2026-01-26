@@ -330,3 +330,4 @@
 [2026-01-26 16:45:03 +0100] docs: update planning documents with implementation details
 [2026-01-26 16:45:12 +0100] feat(dailynews): expand discovery sources with BODACC and tiered RSS
 [2026-01-26 16:45:19 +0100] feat(dailynews): implement tiered filtering and BODACC extraction
+[2026-01-26 16:45:24 +0100] feat(dailynews): add source metadata to deal storage
