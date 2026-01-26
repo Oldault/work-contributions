@@ -333,3 +333,4 @@
 [2026-01-26 16:45:24 +0100] feat(dailynews): add source metadata to deal storage
 [2026-01-26 16:45:30 +0100] feat(expenses): add demo mode, comparison, and activity log endpoints
 [2026-01-26 16:45:37 +0100] feat(dailynews): add table redesign components
+[2026-01-26 16:45:43 +0100] feat(dailynews): integrate table/card view with column picker
