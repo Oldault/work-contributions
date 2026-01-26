@@ -322,3 +322,4 @@
 [2026-01-26 12:57:30 +0100] feat(frontend): add AdminExpenses dashboard page
 [2026-01-26 12:57:36 +0100] feat(tracking): add Langfuse tracking to Pappers API
 [2026-01-26 12:57:42 +0100] feat(tracking): add Langfuse tracking to CFNews API
+[2026-01-26 12:57:48 +0100] feat(tracking): add Langfuse tracking to FullEnrich
