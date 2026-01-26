@@ -319,3 +319,4 @@
 [2026-01-26 12:36:22 +0100] feat(langfuse): add external API tracking methods
 [2026-01-26 12:39:40 +0100] feat(frontend): add admin expenses service
 [2026-01-26 12:57:23 +0100] feat(langfuse): create query service and admin expenses API
+[2026-01-26 12:57:30 +0100] feat(frontend): add AdminExpenses dashboard page
