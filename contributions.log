@@ -318,3 +318,4 @@
 [2026-01-26 12:35:05 +0100] feat(langfuse): add category field to existing trace methods
 [2026-01-26 12:36:22 +0100] feat(langfuse): add external API tracking methods
 [2026-01-26 12:39:40 +0100] feat(frontend): add admin expenses service
+[2026-01-26 12:57:23 +0100] feat(langfuse): create query service and admin expenses API
