@@ -360,3 +360,4 @@
 [2026-01-27 18:18:43 +0100] feat(dailynews): add on-demand website resolution and company interaction UI
 [2026-01-27 18:18:51 +0100] feat(deepsearch): add 3-layer backend caching with PostgreSQL
 [2026-01-27 18:18:58 +0100] feat(deepsearch): add Serper, Brave, and Gemini Grounding discovery services
+[2026-01-27 18:19:05 +0100] feat(deepsearch): add Jina Reader lightweight scraper service
