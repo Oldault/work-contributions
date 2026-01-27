@@ -365,3 +365,4 @@
 [2026-01-27 18:19:26 +0100] feat(deepsearch): integrate multi-source pipeline with 7 discovery sources
 [2026-01-27 18:19:34 +0100] feat(deepsearch): integrate scrape and paraphrase caching
 [2026-01-27 18:19:44 +0100] feat(deepsearch): update routes, frontend store, and SSE handling
+[2026-01-27 21:34:42 +0100] fix(deepsearch): upgrade Gemini Grounding to gemini-3-flash-preview
