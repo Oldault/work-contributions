@@ -343,3 +343,4 @@
 [2026-01-27 16:01:58 +0100] feat(server): add migration runner for auto-migrations on startup
 [2026-01-27 16:02:06 +0100] feat(dailynews): add migrations for is_preflight and cible_website
 [2026-01-27 16:02:14 +0100] feat(dailynews): extract cibleWebsite in LLM extraction passes
+[2026-01-27 16:02:23 +0100] feat(dailynews): fetch website from Pappers API (tier 2 resolution)
