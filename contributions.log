@@ -352,3 +352,4 @@
 [2026-01-27 16:03:09 +0100] feat(admin-dailynews): add pipeline monitoring components
 [2026-01-27 16:03:16 +0100] feat(admin-dailynews): add admin page, route, and navigation
 [2026-01-27 16:03:23 +0100] feat(dailynews): add cibleWebsite, not_needed, and official to types
+[2026-01-27 16:03:30 +0100] feat(dailynews): use website domain for CompanyLogo resolution
