@@ -338,3 +338,4 @@
 [2026-01-26 16:45:52 +0100] feat(expenses): update AdminExpenses page and components
 [2026-01-26 16:45:57 +0100] feat(assets): add API logo images
 [2026-01-27 16:01:37 +0100] docs: add implementation plans for daily news features
+[2026-01-27 16:01:44 +0100] refactor(dailynews): delete preflight service
