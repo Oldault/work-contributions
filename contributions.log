@@ -340,3 +340,4 @@
 [2026-01-27 16:01:37 +0100] docs: add implementation plans for daily news features
 [2026-01-27 16:01:44 +0100] refactor(dailynews): delete preflight service
 [2026-01-27 16:01:51 +0100] refactor(dailynews): remove preflight config and Makefile targets
+[2026-01-27 16:01:58 +0100] feat(server): add migration runner for auto-migrations on startup
