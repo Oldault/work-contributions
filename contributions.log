@@ -350,3 +350,4 @@
 [2026-01-27 16:02:55 +0100] feat(dailynews): add admin API routes for job management
 [2026-01-27 16:03:02 +0100] feat(server): run migrations on startup and allow LAN CORS in dev
 [2026-01-27 16:03:09 +0100] feat(admin-dailynews): add pipeline monitoring components
+[2026-01-27 16:03:16 +0100] feat(admin-dailynews): add admin page, route, and navigation
