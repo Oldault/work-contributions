@@ -358,3 +358,4 @@
 [2026-01-27 16:03:53 +0100] feat(personne): add fiche one-pager view for beneficiaire detail
 [2026-01-27 16:04:00 +0100] fix(personne): improve demo person matching with birth year check
 [2026-01-27 18:18:43 +0100] feat(dailynews): add on-demand website resolution and company interaction UI
+[2026-01-27 18:18:51 +0100] feat(deepsearch): add 3-layer backend caching with PostgreSQL
