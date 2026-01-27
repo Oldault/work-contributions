@@ -345,3 +345,4 @@
 [2026-01-27 16:02:14 +0100] feat(dailynews): extract cibleWebsite in LLM extraction passes
 [2026-01-27 16:02:23 +0100] feat(dailynews): fetch website from Pappers API (tier 2 resolution)
 [2026-01-27 16:02:32 +0100] feat(dailynews): add Google CSE client and website resolution service
+[2026-01-27 16:02:39 +0100] feat(dailynews): update storage for preflight, website, and job history
