@@ -355,3 +355,4 @@
 [2026-01-27 16:03:30 +0100] feat(dailynews): use website domain for CompanyLogo resolution
 [2026-01-27 16:03:39 +0100] feat(dailynews): add company website links in deal views
 [2026-01-27 16:03:45 +0100] feat(dailynews): add not_needed confidence and official source type UI
+[2026-01-27 16:03:53 +0100] feat(personne): add fiche one-pager view for beneficiaire detail
