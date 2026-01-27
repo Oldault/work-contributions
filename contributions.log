@@ -367,3 +367,4 @@
 [2026-01-27 18:19:44 +0100] feat(deepsearch): update routes, frontend store, and SSE handling
 [2026-01-27 21:34:42 +0100] fix(deepsearch): upgrade Gemini Grounding to gemini-3-flash-preview
 [2026-01-27 21:34:49 +0100] fix(deepsearch): guard history save against null organization_id
+[2026-01-27 21:34:56 +0100] feat(deepsearch): use jina_first scraping for rapide depth
