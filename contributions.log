@@ -347,3 +347,4 @@
 [2026-01-27 16:02:32 +0100] feat(dailynews): add Google CSE client and website resolution service
 [2026-01-27 16:02:39 +0100] feat(dailynews): update storage for preflight, website, and job history
 [2026-01-27 16:02:47 +0100] feat(dailynews): add pipeline cancellation and website resolution stage
+[2026-01-27 16:02:55 +0100] feat(dailynews): add admin API routes for job management
