@@ -339,3 +339,4 @@
 [2026-01-26 16:45:57 +0100] feat(assets): add API logo images
 [2026-01-27 16:01:37 +0100] docs: add implementation plans for daily news features
 [2026-01-27 16:01:44 +0100] refactor(dailynews): delete preflight service
+[2026-01-27 16:01:51 +0100] refactor(dailynews): remove preflight config and Makefile targets
