@@ -362,3 +362,4 @@
 [2026-01-27 18:18:58 +0100] feat(deepsearch): add Serper, Brave, and Gemini Grounding discovery services
 [2026-01-27 18:19:05 +0100] feat(deepsearch): add Jina Reader lightweight scraper service
 [2026-01-27 18:19:13 +0100] feat(deepsearch): add Exa semantic search and NewsAPI services
+[2026-01-27 18:19:26 +0100] feat(deepsearch): integrate multi-source pipeline with 7 discovery sources
