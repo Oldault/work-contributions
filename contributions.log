@@ -379,3 +379,4 @@
 [2026-01-28 13:20:14 +0100] fix(deepsearch): improve bioError detection in SearchRecapPanel
 [2026-01-28 14:07:36 +0100] chore: use --env-file flag in docker-compose command
 [2026-01-28 14:07:46 +0100] feat(backend): switch person disambiguation to beneficiaires API
+[2026-01-28 14:07:51 +0100] fix(deepsearch): improve disambiguation error handling
