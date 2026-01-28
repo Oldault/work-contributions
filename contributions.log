@@ -369,3 +369,4 @@
 [2026-01-27 21:34:49 +0100] fix(deepsearch): guard history save against null organization_id
 [2026-01-27 21:34:56 +0100] feat(deepsearch): use jina_first scraping for rapide depth
 [2026-01-27 21:35:02 +0100] chore: add missing API keys and daily news config to .env.example
+[2026-01-28 13:03:31 +0100] feat(deepsearch): add profile clustering state to store
