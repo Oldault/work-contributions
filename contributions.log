@@ -392,3 +392,4 @@
 [2026-01-28 16:03:23 +0100] feat(deepsearch): make SearchRecapPanel a floating card
 [2026-01-28 16:03:28 +0100] feat(deepsearch): require disambiguation for person searches
 [2026-01-28 16:03:35 +0100] fix(deepsearch): validate profile articleIds against final results
+[2026-01-28 16:08:37 +0100] fix(deepsearch): add French accents and improve person lookup
