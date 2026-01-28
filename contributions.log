@@ -371,3 +371,4 @@
 [2026-01-27 21:35:02 +0100] chore: add missing API keys and daily news config to .env.example
 [2026-01-28 13:03:31 +0100] feat(deepsearch): add profile clustering state to store
 [2026-01-28 13:05:33 +0100] feat(deepsearch): add SearchRecapPanel components for profile clustering
+[2026-01-28 13:06:17 +0100] feat(deepsearch): add ProfileClusterer service with heuristic matching
