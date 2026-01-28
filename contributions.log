@@ -376,3 +376,4 @@
 [2026-01-28 13:11:21 +0100] feat(deepsearch): add LLM bio generation to ProfileClusterer
 [2026-01-28 13:13:59 +0100] feat(deepsearch): add result filtering by selected profile
 [2026-01-28 13:15:02 +0100] feat(deepsearch): integrate ProfileClusterer into SSE pipeline
+[2026-01-28 13:20:14 +0100] fix(deepsearch): improve bioError detection in SearchRecapPanel
