@@ -389,3 +389,4 @@
 [2026-01-28 16:03:07 +0100] feat(deepsearch): add company website resolver for foreign companies
 [2026-01-28 16:03:12 +0100] feat(deepsearch): add person lookup popover for mentioned people
 [2026-01-28 16:03:17 +0100] feat(deepsearch): enhance CompanyLookupPopover for foreign companies
+[2026-01-28 16:03:23 +0100] feat(deepsearch): make SearchRecapPanel a floating card
