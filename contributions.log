@@ -373,3 +373,4 @@
 [2026-01-28 13:05:33 +0100] feat(deepsearch): add SearchRecapPanel components for profile clustering
 [2026-01-28 13:06:17 +0100] feat(deepsearch): add ProfileClusterer service with heuristic matching
 [2026-01-28 13:09:20 +0100] feat(deepsearch): handle profile SSE events in useSearchStream
+[2026-01-28 13:11:21 +0100] feat(deepsearch): add LLM bio generation to ProfileClusterer
