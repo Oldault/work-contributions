@@ -385,3 +385,4 @@
 [2026-01-28 14:08:15 +0100] feat(deepsearch): add MobileProfileDropdown component
 [2026-01-28 14:08:22 +0100] feat(deepsearch): integrate SearchRecapPanel into page layout
 [2026-01-28 14:08:52 +0100] docs: add implementation plans for deepsearch features
+[2026-01-28 16:03:01 +0100] fix(daily-news): reorder job completion to update DB before cleanup
