@@ -383,3 +383,4 @@
 [2026-01-28 14:07:58 +0100] fix(deepsearch): add no-referrer policy to external images
 [2026-01-28 14:08:06 +0100] feat(deepsearch): enhance EntityDropdown with richer person data
 [2026-01-28 14:08:15 +0100] feat(deepsearch): add MobileProfileDropdown component
+[2026-01-28 14:08:22 +0100] feat(deepsearch): integrate SearchRecapPanel into page layout
