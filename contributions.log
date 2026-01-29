@@ -1542,3 +1542,4 @@
 [2026-01-28T17:34:24+01:00] change deploy scripts
 [2026-01-28T17:42:45+01:00] Refactor deploy script to load .env files line by line, improving handling of comments and empty lines.
 [2026-01-28T17:53:18+01:00] Update Docker Compose files to change healthcheck command from curl to wget and adjust service conditions for langfuse to use service_started instead of service_healthy.
+[2026-01-29T11:11:10+01:00] fix(dev): daily-news pipeline, Makefile et scripts deploy
