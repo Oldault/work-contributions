@@ -394,3 +394,4 @@
 [2026-01-28 16:03:35 +0100] fix(deepsearch): validate profile articleIds against final results
 [2026-01-28 16:08:37 +0100] fix(deepsearch): add French accents and improve person lookup
 [2026-01-29 08:10:26 +0100] feat(db): add cost tracking and job trigger attribution columns
+[2026-01-29 08:10:35 +0100] feat(daily-news): track who triggered jobs and record costs
