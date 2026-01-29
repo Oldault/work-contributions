@@ -399,3 +399,4 @@
 [2026-01-29 08:10:51 +0100] fix(deepsearch): validate profile articleIds and improve error display
 [2026-01-29 08:11:00 +0100] fix(stores): handle localStorage quota and limit cache sizes
 [2026-01-29 12:32:07 +0100] Redesign SuiviFonds page with two-column layout
+[2026-01-29 12:52:45 +0100] Make left and right panels equal width (50/50)
