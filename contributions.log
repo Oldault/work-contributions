@@ -397,3 +397,4 @@
 [2026-01-29 08:10:35 +0100] feat(daily-news): track who triggered jobs and record costs
 [2026-01-29 08:10:44 +0100] feat(deepsearch): improve stream handling with timeout and entity params
 [2026-01-29 08:10:51 +0100] fix(deepsearch): validate profile articleIds and improve error display
+[2026-01-29 08:11:00 +0100] fix(stores): handle localStorage quota and limit cache sizes
