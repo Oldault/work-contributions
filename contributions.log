@@ -429,3 +429,4 @@
 [2026-01-30 11:24:33 +0100] docs: add design document for DeepSearch navbar redesign
 [2026-01-30 11:26:03 +0100] feat(fund-detail): implement FundDetailV2 redesign
 [2026-01-30 11:30:07 +0100] fix(fund-detail-v2): address code review feedback
+[2026-01-30 12:16:04 +0100] docs: add design plan for fund portfolio table redesign
