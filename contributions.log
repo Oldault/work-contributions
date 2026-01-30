@@ -412,3 +412,4 @@
 [2026-01-30 10:21:16 +0100] chore: remove unused page components
 [2026-01-30 10:21:22 +0100] refactor(nav): simplify sidebar navigation and add Suivi des fonds
 [2026-01-30 10:21:32 +0100] feat(demo): add dummy mode support functions for fund data
+[2026-01-30 10:21:38 +0100] feat(fonds): add dummy mode support to fund detail components
