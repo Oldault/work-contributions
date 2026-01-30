@@ -457,3 +457,4 @@
 [2026-01-30 18:24:30 +0100] refactor(surveillance/cells): improve cell components with dynamic team members
 [2026-01-30 18:24:35 +0100] refactor(surveillance): redesign ColumnConfigModal with dual modes
 [2026-01-30 18:24:40 +0100] feat(surveillance): enhance side panels with portal and animations
+[2026-01-30 18:24:47 +0100] feat(surveillance/FundDetailV2): major enhancements to fund detail view
