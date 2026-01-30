@@ -437,3 +437,4 @@
 [2026-01-30 12:34:16 +0100] fix(fund-detail-v2): move static objects outside component
 [2026-01-30 12:35:23 +0100] fix(fund-detail-v2): clean up Entreprise column styling
 [2026-01-30 12:36:49 +0100] feat(fund-detail-v2): update column widths and visibility
+[2026-01-30 12:38:45 +0100] feat(fund-detail-v2): add pinned column shadow
