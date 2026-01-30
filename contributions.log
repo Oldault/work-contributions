@@ -446,3 +446,4 @@
 [2026-01-30 14:16:29 +0100] feat(fund-detail): add search suggestions dropdown and improve table layout
 [2026-01-30 14:16:35 +0100] refactor(deepsearch): move search controls into compact header bar
 [2026-01-30 14:16:39 +0100] docs: add fund detail view redesign plan
+[2026-01-30 14:23:25 +0100] merge: feat/daily-news into funds-deepsearch
