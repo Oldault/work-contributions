@@ -452,3 +452,4 @@
 [2026-01-30 18:24:03 +0100] feat(store): add fundDetailStore for persistent fund detail state
 [2026-01-30 18:24:08 +0100] feat(services): add deepSearchManager for centralized search management
 [2026-01-30 18:24:14 +0100] feat(surveillance): add Smart and Manual modes for ColumnConfigModal
+[2026-01-30 18:24:19 +0100] refactor(auth): simplify routing and remove unused auth components
