@@ -443,3 +443,4 @@
 [2026-01-30 14:16:14 +0100] fix(api): use db.pool.query instead of db.query in cfnews routes
 [2026-01-30 14:16:19 +0100] feat(fund-detail): add smart suggestions to useSmartSearch hook
 [2026-01-30 14:16:23 +0100] fix(ui): add defensive check for columns array in ColumnConfigModal
+[2026-01-30 14:16:29 +0100] feat(fund-detail): add search suggestions dropdown and improve table layout
