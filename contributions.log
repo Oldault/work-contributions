@@ -1554,3 +1554,4 @@
 [2026-01-30T17:34:13+01:00] feat(pappers): implement autocomplete suggestions in search input bar
 [2026-01-30T18:01:14+01:00] fix(langfuse): improve error logging for missing environment variables
 [2026-01-30T18:13:32+01:00] feat(langfuse): add hints for missing traces and improve logging
+[2026-01-30T18:18:06+01:00] fix langfuse service in dev
