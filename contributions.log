@@ -417,3 +417,4 @@
 [2026-01-30 10:21:50 +0100] feat(types): extend PortfolioCompany with status and source tracking
 [2026-01-30 10:21:58 +0100] feat(FundDetail): implement workflow columns and enhanced features
 [2026-01-30 10:22:04 +0100] feat(FundWatchlistTab): add dummy mode support for watchlist operations
+[2026-01-30 10:22:09 +0100] refactor(pages): update Sauvegardes and Surveillance defaults
