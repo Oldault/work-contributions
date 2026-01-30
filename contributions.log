@@ -1545,3 +1545,4 @@
 [2026-01-29T11:11:10+01:00] fix(dev): daily-news pipeline, Makefile et scripts deploy
 [2026-01-30T09:28:16+01:00] feat: crédits (immo, deepsearch, actualité), daily news, suppression vue /results
 [2026-01-30T11:13:41+01:00] feat(bodacc): add BODACC API integration and enrich results
+[2026-01-30T11:30:03+01:00] feat(dailynews): enhance export functionality with sources and fields data
