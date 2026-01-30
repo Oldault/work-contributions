@@ -432,3 +432,4 @@
 [2026-01-30 12:16:04 +0100] docs: add design plan for fund portfolio table redesign
 [2026-01-30 12:22:39 +0100] feat(fund-detail-v2): create custom AG Grid theme
 [2026-01-30 12:25:44 +0100] docs: add fund detail search bar redesign plan
+[2026-01-30 12:25:50 +0100] fix(fund-detail-v2): integrate AG Grid theme and fix type issues
