@@ -420,3 +420,4 @@
 [2026-01-30 10:22:09 +0100] refactor(pages): update Sauvegardes and Surveillance defaults
 [2026-01-30 10:22:14 +0100] feat(fonds): add BulkFundWatchlistDropdown component
 [2026-01-30 10:22:21 +0100] feat(cells): add AG Grid cell renderers and editors for workflow columns
+[2026-01-30 10:22:29 +0100] feat(ColumnConfigModal): add intelligent column configuration modal
