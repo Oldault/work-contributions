@@ -439,3 +439,4 @@
 [2026-01-30 12:36:49 +0100] feat(fund-detail-v2): update column widths and visibility
 [2026-01-30 12:38:45 +0100] feat(fund-detail-v2): add pinned column shadow
 [2026-01-30 12:39:38 +0100] feat(fund-detail-v2): update loading and empty states
+[2026-01-30 14:16:10 +0100] fix(db): add migration for portfolio_type column in cfnews_fund_portfolio_cache
