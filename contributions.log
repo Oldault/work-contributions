@@ -409,3 +409,4 @@
 [2026-01-30 10:20:54 +0100] feat(api): enhance CFNews watchlist queries with comprehensive fund metadata
 [2026-01-30 10:21:03 +0100] feat(api): add workflow, comments, manual entries and custom columns APIs
 [2026-01-30 10:21:10 +0100] refactor(routes): remove unused pages and add new fund monitoring routes
+[2026-01-30 10:21:16 +0100] chore: remove unused page components
