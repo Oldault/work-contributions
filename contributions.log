@@ -455,3 +455,4 @@
 [2026-01-30 18:24:19 +0100] refactor(auth): simplify routing and remove unused auth components
 [2026-01-30 18:24:25 +0100] refactor(deepsearch): improve search panel UX and use SlidingToggle
 [2026-01-30 18:24:30 +0100] refactor(surveillance/cells): improve cell components with dynamic team members
+[2026-01-30 18:24:35 +0100] refactor(surveillance): redesign ColumnConfigModal with dual modes
