@@ -449,3 +449,4 @@
 [2026-01-30 14:23:25 +0100] merge: feat/daily-news into funds-deepsearch
 [2026-01-30 15:01:09 +0100] docs: add design for column config modal redesign
 [2026-01-30 18:23:58 +0100] feat(ui): add SlidingToggle component for animated toggle buttons
+[2026-01-30 18:24:03 +0100] feat(store): add fundDetailStore for persistent fund detail state
