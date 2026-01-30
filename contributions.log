@@ -426,3 +426,4 @@
 [2026-01-30 10:22:47 +0100] feat(fonds-prototype): add prototype components for fund views
 [2026-01-30 10:22:54 +0100] feat(db): add migrations for portfolio workflow features
 [2026-01-30 10:22:59 +0100] docs: add design documents for fund monitoring features
+[2026-01-30 11:24:33 +0100] docs: add design document for DeepSearch navbar redesign
