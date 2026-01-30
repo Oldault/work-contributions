@@ -1547,3 +1547,4 @@
 [2026-01-30T11:13:41+01:00] feat(bodacc): add BODACC API integration and enrich results
 [2026-01-30T11:30:03+01:00] feat(dailynews): enhance export functionality with sources and fields data
 [2026-01-30T11:42:10+01:00] feat(demo): add demo data in all pages
+[2026-01-30T11:51:46+01:00] feat(dailynews): add article summary extraction to sources data
