@@ -414,3 +414,4 @@
 [2026-01-30 10:21:32 +0100] feat(demo): add dummy mode support functions for fund data
 [2026-01-30 10:21:38 +0100] feat(fonds): add dummy mode support to fund detail components
 [2026-01-30 10:21:43 +0100] feat(surveillance): add dummy mode support to aggregated portfolio view
+[2026-01-30 10:21:50 +0100] feat(types): extend PortfolioCompany with status and source tracking
