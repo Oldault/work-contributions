@@ -1551,3 +1551,4 @@
 [2026-01-30T11:58:57+01:00] fix resume in json export
 [2026-01-30T12:22:25+01:00] feat(demo): fix démo mode only on test activated
 [2026-01-30T16:47:06+01:00] feat(demo): enhance demo functionality across components
+[2026-01-30T17:34:13+01:00] feat(pappers): implement autocomplete suggestions in search input bar
