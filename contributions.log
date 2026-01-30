@@ -435,3 +435,4 @@
 [2026-01-30 12:25:50 +0100] fix(fund-detail-v2): integrate AG Grid theme and fix type issues
 [2026-01-30 12:30:24 +0100] feat(fund-detail-v2): add column group definitions
 [2026-01-30 12:34:16 +0100] fix(fund-detail-v2): move static objects outside component
+[2026-01-30 12:35:23 +0100] fix(fund-detail-v2): clean up Entreprise column styling
