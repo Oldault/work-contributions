@@ -461,3 +461,4 @@
 [2026-01-30 18:24:54 +0100] feat(server): enhance workflow API with edit history and Langfuse tracking
 [2026-01-30 18:24:59 +0100] refactor(hooks): improve useSearchStream with better cancellation
 [2026-01-30 18:25:05 +0100] chore: minor fixes across various components
+[2026-01-30 18:25:11 +0100] chore: update ArticleTypeBreakdown usage in actualites components
