@@ -459,3 +459,4 @@
 [2026-01-30 18:24:40 +0100] feat(surveillance): enhance side panels with portal and animations
 [2026-01-30 18:24:47 +0100] feat(surveillance/FundDetailV2): major enhancements to fund detail view
 [2026-01-30 18:24:54 +0100] feat(server): enhance workflow API with edit history and Langfuse tracking
+[2026-01-30 18:24:59 +0100] refactor(hooks): improve useSearchStream with better cancellation
