@@ -405,3 +405,4 @@
 [2026-01-29 14:53:02 +0100] Add Fund Detail view redesign design document
 [2026-01-29 15:37:43 +0100] Add design document for Suivi Fonds search results redesign
 [2026-01-30 10:20:39 +0100] feat(dev): add make seed and seed-full targets for database seeding
+[2026-01-30 10:20:47 +0100] docs: audit and finalize fund detail redesign plan
