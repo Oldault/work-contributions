@@ -465,3 +465,4 @@
 [2026-01-30 18:25:19 +0100] refactor(FundDetailV2): enhance useSmartSearch with NLP persistence
 [2026-01-31 17:56:20 +0100] feat(db): add migrations for fund column config and custom column description
 [2026-01-31 17:56:27 +0100] feat(api): add fund column config and history notification endpoints
+[2026-01-31 17:56:31 +0100] feat(cells): add custom column cell renderers and editors
