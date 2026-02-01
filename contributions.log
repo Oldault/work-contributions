@@ -1565,3 +1565,4 @@
 [2026-02-01T21:03:12+01:00] feat(langfuseQueryService): normalize trace data and enhance user/org enrichment
 [2026-02-01T21:37:42+01:00] fix(docker-compose): update healthcheck commands to use environment variables for database credentials
 [2026-02-01T21:42:05+01:00] fix(docker-compose): correct environment variable syntax in healthcheck commands across all environments
+[2026-02-01T21:45:13+01:00] Merge pull request #19 from jeremyaumetis/fix_dev_recette
