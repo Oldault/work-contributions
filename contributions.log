@@ -1556,3 +1556,4 @@
 [2026-01-30T18:13:32+01:00] feat(langfuse): add hints for missing traces and improve logging
 [2026-01-30T18:18:06+01:00] fix langfuse service in dev
 [2026-01-30T18:32:22+01:00] fix(langfuse): enhance trace retrieval logic and improve logging for empty responses
+[2026-02-01T15:03:42+01:00] Merge pull request #17 from jeremyaumetis/fix_dev_recette
