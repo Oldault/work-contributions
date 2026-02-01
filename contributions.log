@@ -1558,3 +1558,4 @@
 [2026-01-30T18:32:22+01:00] fix(langfuse): enhance trace retrieval logic and improve logging for empty responses
 [2026-02-01T15:03:42+01:00] Merge pull request #17 from jeremyaumetis/fix_dev_recette
 [2026-02-01T15:24:45+01:00] Merge branch 'funds-deepsearch' into fix_dev_recette
+[2026-02-01T15:37:30+01:00] refactor(DealTable): normalize expandedDealIds to Set for consistent state management
