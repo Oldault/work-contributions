@@ -1567,3 +1567,4 @@
 [2026-02-01T21:42:05+01:00] fix(docker-compose): correct environment variable syntax in healthcheck commands across all environments
 [2026-02-01T21:45:13+01:00] Merge pull request #19 from jeremyaumetis/fix_dev_recette
 [2026-02-01T21:51:54+01:00] Merge pull request #20 from jeremyaumetis/fix_dev_recette
+[2026-02-01T23:19:00+01:00] feat(financials): integrate Pappers API for annual accounts retrieval and normalize data for Infogreffe display
