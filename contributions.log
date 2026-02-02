@@ -474,3 +474,4 @@
 [2026-02-02 10:05:57 +0100] fix(DeepSearch): make entity selection optional and hide reliability badge during loading
 [2026-02-02 10:06:03 +0100] fix(ColumnConfigModal): propagate new column field_key through callback chain
 [2026-02-02 10:06:11 +0100] fix(cfnews): use getEffectiveOrganizationId for consistent org context
+[2026-02-02 10:06:17 +0100] chore(CustomTextCell): add debug logging for custom column updates
