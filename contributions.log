@@ -473,3 +473,4 @@
 [2026-01-31 17:57:01 +0100] docs: add custom columns design plan and workflow migration history
 [2026-02-02 10:05:57 +0100] fix(DeepSearch): make entity selection optional and hide reliability badge during loading
 [2026-02-02 10:06:03 +0100] fix(ColumnConfigModal): propagate new column field_key through callback chain
+[2026-02-02 10:06:11 +0100] fix(cfnews): use getEffectiveOrganizationId for consistent org context
