@@ -1596,3 +1596,4 @@
 [2026-02-02T17:10:00+01:00] feat: update server config and frontend utilities
 [2026-02-02T17:15:00+01:00] feat(admin-daily-news): add debugger and navigation tabs
 [2026-02-02T17:20:00+01:00] feat: enhance API client with daily news and feedback endpoints
+[2026-02-02T17:55:00+01:00] feat(feedback): add admin feedback management hook
