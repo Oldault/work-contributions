@@ -486,3 +486,4 @@
 [2026-02-02 13:29:39 +0100] docs: add CLAUDE.md context files for AI assistance
 [2026-02-02 13:29:50 +0100] docs(plans): enhance testing infrastructure design with implementation details
 [2026-02-02 14:47:38 +0100] chore: add .worktrees and test artifacts to gitignore
+[2026-02-02 14:53:57 +0100] docs: fix outdated port numbers, SQLite refs, and script names
