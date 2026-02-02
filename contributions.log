@@ -1574,3 +1574,4 @@
 [2026-02-02T09:43:28+01:00] feat(surveillance): add 'fonds' tab and update alert handling for new watchlist type
 [2026-02-02T10:06:04+01:00] refactor(cfnews): add validation for field_key and improve JSONB handling in custom values endpoint
 [2026-02-02T10:11:37+01:00] fix(surveillance): correct default active tab logic and implement 'fonds' tab with alert handling
+[2026-02-02T10:18:35+01:00] feat(deepSearch): reset search state on page load for empty results
