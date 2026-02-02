@@ -1585,3 +1585,4 @@
 [2026-02-02T16:21:00+01:00] feat(admin-daily-news): add prompt management components
 [2026-02-02T16:25:00+01:00] feat(admin-daily-news): add A/B experiment framework
 [2026-02-02T16:28:00+01:00] docs(plans): add feedback system design
+[2026-02-02T16:35:00+01:00] feat(admin-daily-news): add configuration and scheduling components
