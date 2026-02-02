@@ -477,3 +477,4 @@
 [2026-02-02 10:06:17 +0100] chore(CustomTextCell): add debug logging for custom column updates
 [2026-02-02 10:06:24 +0100] refactor(PortfolioTable): switch from onRowClicked to onCellClicked
 [2026-02-02 10:06:36 +0100] feat(FundDetailView): improve custom columns, navigation, and workflow grouping
+[2026-02-02 10:10:28 +0100] Merge origin/dev into funds-deepsearch
