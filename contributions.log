@@ -1593,3 +1593,4 @@
 [2026-02-02T17:05:00+01:00] feat(dailynews): add entity clustering and deduplication services
 [2026-02-02T17:09:00+01:00] feat(db): add Daily News Command Center migration
 [2026-02-02T17:03:00+01:00] chore: update backend dependencies and CLAUDE.md
+[2026-02-02T17:10:00+01:00] feat: update server config and frontend utilities
