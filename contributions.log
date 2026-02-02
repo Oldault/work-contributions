@@ -1572,3 +1572,4 @@
 [2026-02-02T09:27:33+01:00] refactor(cfnews): update organization ID retrieval and add validation for API endpoints
 [2026-02-02T09:32:24+01:00] refactor(cfnews): enhance organization ID handling with validation checks for custom-columns endpoints
 [2026-02-02T09:43:28+01:00] feat(surveillance): add 'fonds' tab and update alert handling for new watchlist type
+[2026-02-02T10:06:04+01:00] refactor(cfnews): add validation for field_key and improve JSONB handling in custom values endpoint
