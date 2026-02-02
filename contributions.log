@@ -1577,3 +1577,4 @@
 [2026-02-02T10:18:35+01:00] feat(deepSearch): reset search state on page load for empty results
 [2026-02-02T10:26:51+01:00] feat(sauvegarde): add 'historique' section and reorganize sidebar items
 [2026-02-02T10:30:49+01:00] Merge funds-deepsearch into dev: garder vue plein écran DeepSearch + intégrer fixes surveillance/cfnews
+[2026-02-02T10:43:25+01:00] fix(NewsFeed): correct animation property from 'fadeIn' to 'fade-in' for consistency in styling
