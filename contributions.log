@@ -1571,3 +1571,4 @@
 [2026-02-01T23:19:58+01:00] Merge pull request #21 from jeremyaumetis/infogreffe
 [2026-02-02T09:27:33+01:00] refactor(cfnews): update organization ID retrieval and add validation for API endpoints
 [2026-02-02T09:32:24+01:00] refactor(cfnews): enhance organization ID handling with validation checks for custom-columns endpoints
+[2026-02-02T09:43:28+01:00] feat(surveillance): add 'fonds' tab and update alert handling for new watchlist type
