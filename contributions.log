@@ -1589,3 +1589,4 @@
 [2026-02-02T16:35:12+01:00] chore: update CI workflow documentation
 [2026-02-02T16:38:00+01:00] feat(db): add user feedback migration
 [2026-02-02T16:41:00+01:00] docs(plans): add Daily News DeepSearch integration design
+[2026-02-02T17:00:00+01:00] feat(dailynews): add news discovery API clients
