@@ -1579,3 +1579,4 @@
 [2026-02-02T10:30:49+01:00] Merge funds-deepsearch into dev: garder vue plein écran DeepSearch + intégrer fixes surveillance/cfnews
 [2026-02-02T10:43:25+01:00] fix(NewsFeed): correct animation property from 'fadeIn' to 'fade-in' for consistency in styling
 [2026-02-03T15:57:13+01:00] docs(plans): add daily news newsletter feature design
+[2026-02-02T14:50:39+01:00] docs: add DeepSearch reference documentation
