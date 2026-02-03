@@ -521,3 +521,4 @@
 [2026-02-03 17:17:00 +0100] feat(newsletter): add database schema for newsletter editions
 [2026-02-03 17:24:00 +0100] feat(newsletter): add backend services for newsletter generation
 [2026-02-03 17:25:00 +0100] feat(newsletter): add API routes for newsletter management
+[2026-02-03 17:25:30 +0100] feat(newsletter): add admin interface for newsletter management
