@@ -501,3 +501,4 @@
 [2026-02-03 13:33:00 +0100] feat(feedback): add AI analysis service and API routes
 [2026-02-03 13:47:00 +0100] feat(feedback): add user-facing feedback components
 [2026-02-03 14:00:00 +0100] feat(feedback): add Kanban archive system
+[2026-02-03 14:05:00 +0100] feat(feedback): add admin feedback pages
