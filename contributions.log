@@ -518,3 +518,4 @@
 [2026-02-03 17:11:00 +0100] feat(dailynews): track per-article filtering costs
 [2026-02-03 17:11:30 +0100] fix(dailynews): use dynamic log directory path in routes
 [2026-02-03 17:12:00 +0100] feat(dailynews): improve job failure handling and cost tracking
+[2026-02-03 17:17:00 +0100] feat(newsletter): add database schema for newsletter editions
