@@ -509,3 +509,4 @@
 [2026-02-03 15:18:00 +0100] feat(dailynews): implement montantOperation field
 [2026-02-03 15:24:00 +0100] test(dailynews): add montantOperation extraction tests
 [2026-02-03 15:30:00 +0100] test(dailynews): add manual extraction test scripts
+[2026-02-03 15:50:00 +0100] feat(admin-daily-news): add frontend admin service
