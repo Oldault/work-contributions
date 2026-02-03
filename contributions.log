@@ -505,3 +505,4 @@
 [2026-02-03 14:10:00 +0100] feat: add feedback and admin routes to App
 [2026-02-03 14:32:00 +0100] feat(dailynews): update daily news job pipeline
 [2026-02-03 15:07:00 +0100] docs(plans): add amount vs valuation semantic design
+[2026-02-03 15:13:00 +0100] feat(admin-daily-news): update command center page
