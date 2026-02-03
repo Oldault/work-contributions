@@ -514,3 +514,4 @@
 [2026-02-03 15:59:00 +0100] chore: fix formatting in CLAUDE.md files
 [2026-02-03 17:18:21 +0100] docs(plans): finalize newsletter design with Listmonk setup guide
 [2026-02-03 17:10:00 +0100] fix(dailynews): preserve stats and costs when job fails
+[2026-02-03 17:10:30 +0100] fix(dailynews): fix discovery stats query to return single row
