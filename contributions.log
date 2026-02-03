@@ -511,3 +511,4 @@
 [2026-02-03 15:30:00 +0100] test(dailynews): add manual extraction test scripts
 [2026-02-03 15:50:00 +0100] feat(admin-daily-news): add frontend admin service
 [2026-02-03 15:58:00 +0100] docs: add routes layer CLAUDE.md
+[2026-02-03 15:59:00 +0100] chore: fix formatting in CLAUDE.md files
