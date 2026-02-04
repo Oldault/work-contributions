@@ -525,3 +525,4 @@
 [2026-02-03 17:26:00 +0100] feat(newsletter): integrate newsletter feature into application
 [2026-02-04 10:26:00 +0100] docs(plans): add fund website intelligence feature design
 [2026-02-04 10:27:00 +0100] feat(fund-intelligence): add database schema for website intelligence
+[2026-02-04 10:28:00 +0100] feat(fund-intelligence): add backend services for website crawling
