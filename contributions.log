@@ -523,3 +523,4 @@
 [2026-02-03 17:25:00 +0100] feat(newsletter): add API routes for newsletter management
 [2026-02-03 17:25:30 +0100] feat(newsletter): add admin interface for newsletter management
 [2026-02-03 17:26:00 +0100] feat(newsletter): integrate newsletter feature into application
+[2026-02-04 10:26:00 +0100] docs(plans): add fund website intelligence feature design
