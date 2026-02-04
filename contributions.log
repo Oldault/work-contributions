@@ -545,3 +545,4 @@
 [2026-02-04 16:17:32 +0100] feat(domain-resolution): add API routes with SSE heartbeat
 [2026-02-04 16:18:17 +0100] feat(domain-resolution): add resolvedDomain parameter to FullEnrich service
 [2026-02-04 16:18:53 +0100] feat(domain-resolution): add frontend SSE service
+[2026-02-04 16:19:51 +0100] feat(domain-resolution): integrate fallback UI in contact enrichment flow
