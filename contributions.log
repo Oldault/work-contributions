@@ -536,3 +536,4 @@
 [2026-02-04 12:46:47 +0100] docs(linkedin-discovery): add comprehensive implementation plan
 [2026-02-04 15:36:02 +0100] docs(domain-resolution): add fallback service implementation plan
 [2026-02-04 16:12:55 +0100] feat(domain-resolution): add resolution logs and cache migrations
+[2026-02-04 16:13:22 +0100] feat(domain-resolution): add TypeScript types
