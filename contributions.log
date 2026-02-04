@@ -542,3 +542,4 @@
 [2026-02-04 16:15:04 +0100] feat(domain-resolution): add website discovery service with resilience
 [2026-02-04 16:15:53 +0100] feat(domain-resolution): add website ranking service with efficient caching
 [2026-02-04 16:16:56 +0100] feat(domain-resolution): add main orchestrator with FullEnrich integration
+[2026-02-04 16:17:32 +0100] feat(domain-resolution): add API routes with SSE heartbeat
