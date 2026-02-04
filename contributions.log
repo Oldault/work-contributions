@@ -1604,3 +1604,4 @@
 [2026-02-04T13:13:51+01:00] feat(linkedin-discovery): add database migration for discovery logs
 [2026-02-04T14:54:59+01:00] feat(linkedin-discovery): add backend service infrastructure
 [2026-02-04T16:08:55+01:00] feat(linkedin-discovery): add Exa AI primary search with Perplexity fallback
+[2026-02-04T13:19:21+01:00] feat(linkedin-discovery): add frontend service and React hook
