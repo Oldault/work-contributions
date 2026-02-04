@@ -528,3 +528,4 @@
 [2026-02-04 10:28:00 +0100] feat(fund-intelligence): add backend services for website crawling
 [2026-02-04 10:29:00 +0100] feat(fund-intelligence): add API routes for fund website crawling
 [2026-02-04 10:29:30 +0100] feat(fund-intelligence): add TypeScript types and React hook
+[2026-02-04 10:30:00 +0100] feat(fund-intelligence): add Véhicule tab UI components
