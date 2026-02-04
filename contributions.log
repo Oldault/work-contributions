@@ -1603,3 +1603,4 @@
 [2026-02-04T13:11:12+01:00] fix(cost-tracking): update Perplexity API pricing to Feb 2026 rates
 [2026-02-04T13:13:51+01:00] feat(linkedin-discovery): add database migration for discovery logs
 [2026-02-04T14:54:59+01:00] feat(linkedin-discovery): add backend service infrastructure
+[2026-02-04T16:08:55+01:00] feat(linkedin-discovery): add Exa AI primary search with Perplexity fallback
