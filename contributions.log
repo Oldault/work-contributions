@@ -1614,3 +1614,4 @@
 [2026-02-04T16:34:01+01:00] test(domain-resolution): add E2E tests for domain resolution
 [2026-02-04T15:48:52+01:00] docs: add LinkedIn discovery and domain resolution documentation
 [2026-02-04T15:58:17+01:00] add documentation for cost estimation of API usage across Pappers, CFNews, Infogreffe, and DeepSearch
+[2026-02-04T16:00:08+01:00] Merge pull request #23 from jeremyaumetis/cfnews_base
