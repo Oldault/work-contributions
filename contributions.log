@@ -1599,3 +1599,4 @@
 [2026-02-02T17:55:00+01:00] feat(feedback): add admin feedback management hook
 [2026-02-04T09:43:36+01:00] add cfnews database management view
 [2026-02-04T10:08:34+01:00] feat(FundDetailView): enhance aggregated mode functionality for workflow, column configuration, and manual entries
+[2026-02-04T11:24:28+01:00] refactor(ColumnConfigModal): streamline category management and improve column visibility logic
