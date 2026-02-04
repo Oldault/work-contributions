@@ -538,3 +538,4 @@
 [2026-02-04 16:12:55 +0100] feat(domain-resolution): add resolution logs and cache migrations
 [2026-02-04 16:13:22 +0100] feat(domain-resolution): add TypeScript types
 [2026-02-04 16:13:59 +0100] feat(domain-resolution): add URL validation service with HEAD/GET fallback
+[2026-02-04 16:14:17 +0100] feat(domain-resolution): add global rate limiter for Tranco API
