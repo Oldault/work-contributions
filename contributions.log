@@ -534,3 +534,4 @@
 [2026-02-04 10:35:00 +0100] chore(fund-intelligence): disable Véhicule tab pending completion
 [2026-02-04 10:36:00 +0100] fix(recherche): disable autocomplete to prevent loading indicator
 [2026-02-04 12:46:47 +0100] docs(linkedin-discovery): add comprehensive implementation plan
+[2026-02-04 15:36:02 +0100] docs(domain-resolution): add fallback service implementation plan
