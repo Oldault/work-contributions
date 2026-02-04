@@ -1609,3 +1609,4 @@
 [2026-02-04T13:47:45+01:00] feat(cfnews): implement preload functionality for fund portfolio data after adding to watchlist
 [2026-02-04T16:03:54+01:00] feat(contact-enrichment): add profile mismatch warnings
 [2026-02-04T17:31:59+01:00] feat(domain-resolution): add multi-domain enrichment support
+[2026-02-04T17:44:55+01:00] feat(linkedin-discovery): add LinkedInDiscoveryModal with domain fallback integration
