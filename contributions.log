@@ -554,3 +554,4 @@
 [2026-02-05 15:19:15 +0100] docs: add stepper progress redesign plan
 [2026-02-05 23:14:11 +0100] feat(ui): add accessibility hook for reduced motion
 [2026-02-05 23:14:18 +0100] feat(ui): add terminal log state management hook
+[2026-02-05 23:14:25 +0100] feat(domain-resolution): extend types with enrichment state
