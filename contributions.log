@@ -556,3 +556,4 @@
 [2026-02-05 23:14:18 +0100] feat(ui): add terminal log state management hook
 [2026-02-05 23:14:25 +0100] feat(domain-resolution): extend types with enrichment state
 [2026-02-05 23:14:33 +0100] feat(web-contact-search): add backend service and middleware
+[2026-02-05 23:14:40 +0100] feat(contacts): add stepper progress state management
