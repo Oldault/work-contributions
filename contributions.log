@@ -564,3 +564,4 @@
 [2026-02-05 23:15:25 +0100] feat(vite): configure SSE proxy for real-time streaming
 [2026-02-05 23:15:35 +0100] feat(server): integrate web contact search route
 [2026-02-05 23:15:49 +0100] refactor(personne): integrate inline enrichment across person views
+[2026-02-05 23:15:57 +0100] refactor(company): update modals for domain resolution integration
