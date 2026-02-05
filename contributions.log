@@ -571,3 +571,4 @@
 [2026-02-05 23:16:25 +0100] docs: update contacts enrichment, stepper, and web search design plans
 [2026-02-05 23:16:34 +0100] docs(claude): update context documentation across modules
 [2026-02-05 23:17:04 +0100] fix(personne): add nationality formatting to search results
+[2026-02-05 23:17:19 +0100] index on feat/contact-no-sauce: c4653b3 fix(personne): add nationality formatting to search results
