@@ -548,3 +548,4 @@
 [2026-02-04 16:19:51 +0100] feat(domain-resolution): integrate fallback UI in contact enrichment flow
 [2026-02-04 16:21:12 +0100] feat(domain-resolution): register routes in server
 [2026-02-05 10:42:31 +0100] index on feat/contact-no-sauce: d4bea7b docs: add LinkedIn discovery and domain resolution documentation
+[2026-02-05 10:42:31 +0100] WIP on feat/contact-no-sauce: d4bea7b docs: add LinkedIn discovery and domain resolution documentation
