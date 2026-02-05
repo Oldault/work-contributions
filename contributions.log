@@ -567,3 +567,4 @@
 [2026-02-05 23:15:57 +0100] refactor(company): update modals for domain resolution integration
 [2026-02-05 23:16:05 +0100] style(ui): improve breadcrumb and news panel styling
 [2026-02-05 23:16:12 +0100] chore(langfuse): add serper cost tracking
+[2026-02-05 23:16:17 +0100] chore(docker): update local compose configuration
