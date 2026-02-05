@@ -569,3 +569,4 @@
 [2026-02-05 23:16:12 +0100] chore(langfuse): add serper cost tracking
 [2026-02-05 23:16:17 +0100] chore(docker): update local compose configuration
 [2026-02-05 23:16:25 +0100] docs: update contacts enrichment, stepper, and web search design plans
+[2026-02-05 23:16:34 +0100] docs(claude): update context documentation across modules
