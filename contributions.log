@@ -561,3 +561,4 @@
 [2026-02-05 23:14:59 +0100] feat(contacts): implement inline terminal-style enrichment UI
 [2026-02-05 23:15:09 +0100] feat(web-contact-search): add frontend service
 [2026-02-05 23:15:17 +0100] refactor(utils): add nationality formatting with gender inference
+[2026-02-05 23:15:25 +0100] feat(vite): configure SSE proxy for real-time streaming
