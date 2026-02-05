@@ -559,3 +559,4 @@
 [2026-02-05 23:14:40 +0100] feat(contacts): add stepper progress state management
 [2026-02-05 23:14:49 +0100] feat(contacts): add enrichment types and state machine
 [2026-02-05 23:14:59 +0100] feat(contacts): implement inline terminal-style enrichment UI
+[2026-02-05 23:15:09 +0100] feat(web-contact-search): add frontend service
