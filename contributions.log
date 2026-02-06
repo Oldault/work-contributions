@@ -607,3 +607,4 @@
 [2026-02-06 17:54:47 +0100] refactor(services): update contact enrichment service for v2
 [2026-02-06 17:54:52 +0100] refactor(services): update web contact search service for v2
 [2026-02-06 17:55:12 +0100] feat(finances): add financial profile cards builder utility
+[2026-02-06 17:55:15 +0100] feat(finances): add financial metric card component
