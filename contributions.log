@@ -603,3 +603,4 @@
 [2026-02-06 17:54:29 +0100] feat(routes): add v2 SSE endpoint and update legacy endpoint
 [2026-02-06 17:54:31 +0100] feat(routes): save enrichment results to database
 [2026-02-06 17:54:33 +0100] feat(server): register financial deepsearch and enrichment endpoints
+[2026-02-06 17:54:44 +0100] feat(services): add frontend financial deepsearch service
