@@ -600,3 +600,4 @@
 [2026-02-06 17:54:12 +0100] feat(services): rewrite web contact search service for v2 deep search
 [2026-02-06 17:54:26 +0100] feat(db): add financial cache queries and getLatestByPerson method
 [2026-02-06 17:54:27 +0100] feat(routes): add financial deepsearch API route with SSE support
+[2026-02-06 17:54:29 +0100] feat(routes): add v2 SSE endpoint and update legacy endpoint
