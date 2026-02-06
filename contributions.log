@@ -605,3 +605,4 @@
 [2026-02-06 17:54:33 +0100] feat(server): register financial deepsearch and enrichment endpoints
 [2026-02-06 17:54:44 +0100] feat(services): add frontend financial deepsearch service
 [2026-02-06 17:54:47 +0100] refactor(services): update contact enrichment service for v2
+[2026-02-06 17:54:52 +0100] refactor(services): update web contact search service for v2
