@@ -611,3 +611,4 @@
 [2026-02-06 17:55:19 +0100] feat(finances): add financial profile cards component
 [2026-02-06 17:55:22 +0100] feat(finances): add financial table cell component
 [2026-02-06 17:55:25 +0100] feat(finances): add source popover component
+[2026-02-06 17:55:32 +0100] feat(finances): add financial search progress component with source links
