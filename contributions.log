@@ -587,3 +587,4 @@
 [2026-02-06 17:53:03 +0100] docs: update CLAUDE.md context in docs/plans
 [2026-02-06 17:53:20 +0100] docs: add CLAUDE.md context files for new modules
 [2026-02-06 17:53:22 +0100] docs: update CLAUDE.md context files across modules
+[2026-02-06 17:53:25 +0100] feat(db): add email pattern cache table migration
