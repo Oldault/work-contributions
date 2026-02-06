@@ -616,3 +616,4 @@
 [2026-02-06 17:55:39 +0100] feat(finances): integrate deepsearch with plausibility checks and UI polish
 [2026-02-06 17:56:00 +0100] feat(contacts): add enrichment search progress component
 [2026-02-06 17:56:04 +0100] refactor(contacts): update web source badge component
+[2026-02-06 17:56:08 +0100] refactor(contacts): update domain selector component
