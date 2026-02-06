@@ -627,3 +627,4 @@
 [2026-02-06 17:56:45 +0100] refactor(contacts): rewrite web contact search component for v2
 [2026-02-06 17:56:48 +0100] refactor(contacts): remove WebSearchButton component
 [2026-02-06 17:56:49 +0100] refactor(contacts): update contacts exports
+[2026-02-06 17:56:51 +0100] refactor(contacts): update contacts search flow component
