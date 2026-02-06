@@ -621,3 +621,4 @@
 [2026-02-06 17:56:13 +0100] refactor(contacts): update web search candidates component
 [2026-02-06 17:56:17 +0100] refactor(contacts): rewrite web search progress component for v2
 [2026-02-06 17:56:19 +0100] refactor(contacts): update LinkedIn search progress component
+[2026-02-06 17:56:23 +0100] refactor(contacts): update contacts empty state component
