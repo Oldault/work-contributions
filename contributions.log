@@ -612,3 +612,4 @@
 [2026-02-06 17:55:22 +0100] feat(finances): add financial table cell component
 [2026-02-06 17:55:25 +0100] feat(finances): add source popover component
 [2026-02-06 17:55:32 +0100] feat(finances): add financial search progress component with source links
+[2026-02-06 17:55:36 +0100] feat(finances): add financial deepsearch component
