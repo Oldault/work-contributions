@@ -604,3 +604,4 @@
 [2026-02-06 17:54:31 +0100] feat(routes): save enrichment results to database
 [2026-02-06 17:54:33 +0100] feat(server): register financial deepsearch and enrichment endpoints
 [2026-02-06 17:54:44 +0100] feat(services): add frontend financial deepsearch service
+[2026-02-06 17:54:47 +0100] refactor(services): update contact enrichment service for v2
