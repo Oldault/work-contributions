@@ -619,3 +619,4 @@
 [2026-02-06 17:56:08 +0100] refactor(contacts): update domain selector component
 [2026-02-06 17:56:10 +0100] refactor(contacts): update candidate selector component
 [2026-02-06 17:56:13 +0100] refactor(contacts): update web search candidates component
+[2026-02-06 17:56:17 +0100] refactor(contacts): rewrite web search progress component for v2
