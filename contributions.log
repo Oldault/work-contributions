@@ -574,3 +574,4 @@
 [2026-02-05 23:17:19 +0100] index on feat/contact-no-sauce: c4653b3 fix(personne): add nationality formatting to search results
 [2026-02-05 23:17:19 +0100] WIP on feat/contact-no-sauce: c4653b3 fix(personne): add nationality formatting to search results
 [2026-02-05 23:27:08 +0100] docs: add web contact search v2 design with Exa deep search + tiered pipeline
+[2026-02-06 13:38:25 +0100] docs: add financial deepsearch design document
