@@ -592,3 +592,4 @@
 [2026-02-06 17:53:36 +0100] feat(types): add financial deepsearch types
 [2026-02-06 17:53:41 +0100] refactor(types): update contacts enrichment types for v2 web search
 [2026-02-06 17:53:45 +0100] refactor(types): update stepper progress types
+[2026-02-06 17:54:00 +0100] feat(services): add searchDeep method to exaSearchService
