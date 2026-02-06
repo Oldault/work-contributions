@@ -596,3 +596,4 @@
 [2026-02-06 17:54:03 +0100] feat(services): add mapSite method to firecrawlService
 [2026-02-06 17:54:06 +0100] feat(services): migrate fullEnrichService to v2 API
 [2026-02-06 17:54:08 +0100] feat(services): add financial deepsearch tracing and FullEnrich v2 cost calculation
+[2026-02-06 17:54:10 +0100] feat(services): add financial deepsearch service with Exa + Firecrawl pipeline
