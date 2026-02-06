@@ -598,3 +598,4 @@
 [2026-02-06 17:54:08 +0100] feat(services): add financial deepsearch tracing and FullEnrich v2 cost calculation
 [2026-02-06 17:54:10 +0100] feat(services): add financial deepsearch service with Exa + Firecrawl pipeline
 [2026-02-06 17:54:12 +0100] feat(services): rewrite web contact search service for v2 deep search
+[2026-02-06 17:54:26 +0100] feat(db): add financial cache queries and getLatestByPerson method
