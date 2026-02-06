@@ -591,3 +591,4 @@
 [2026-02-06 17:53:27 +0100] feat(db): add financial deepsearch cache table migration
 [2026-02-06 17:53:36 +0100] feat(types): add financial deepsearch types
 [2026-02-06 17:53:41 +0100] refactor(types): update contacts enrichment types for v2 web search
+[2026-02-06 17:53:45 +0100] refactor(types): update stepper progress types
