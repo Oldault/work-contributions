@@ -614,3 +614,4 @@
 [2026-02-06 17:55:32 +0100] feat(finances): add financial search progress component with source links
 [2026-02-06 17:55:36 +0100] feat(finances): add financial deepsearch component
 [2026-02-06 17:55:39 +0100] feat(finances): integrate deepsearch with plausibility checks and UI polish
+[2026-02-06 17:56:00 +0100] feat(contacts): add enrichment search progress component
