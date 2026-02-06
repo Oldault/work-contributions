@@ -589,3 +589,4 @@
 [2026-02-06 17:53:22 +0100] docs: update CLAUDE.md context files across modules
 [2026-02-06 17:53:25 +0100] feat(db): add email pattern cache table migration
 [2026-02-06 17:53:27 +0100] feat(db): add financial deepsearch cache table migration
+[2026-02-06 17:53:36 +0100] feat(types): add financial deepsearch types
