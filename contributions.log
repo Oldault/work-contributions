@@ -633,3 +633,4 @@
 [2026-02-06 17:57:12 +0100] refactor(contacts): update stepper error actions component
 [2026-02-06 17:57:16 +0100] refactor(pages): update beneficiaire detail page
 [2026-02-06 17:57:20 +0100] style: add AI glow animation for search progress
+[2026-02-06 17:57:21 +0100] feat(config): add SSE proxy rules for web contact search and domain resolution
