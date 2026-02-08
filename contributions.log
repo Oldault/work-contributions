@@ -635,3 +635,4 @@
 [2026-02-06 17:57:20 +0100] style: add AI glow animation for search progress
 [2026-02-06 17:57:21 +0100] feat(config): add SSE proxy rules for web contact search and domain resolution
 [2026-02-06 17:57:38 +0100] chore: update CLAUDE.md context files after linter formatting
+[2026-02-08 16:00:00 +0100] feat(finances): enhance financial deepsearch data quality and validation
