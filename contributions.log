@@ -1619,3 +1619,4 @@
 [2026-02-06T15:05:39+01:00] add advanced data loead on buton triger, add some visual change
 [2026-02-07T11:22:51+01:00] add cartographie
 [2026-02-08T17:53:58+01:00] Enhance ImmobilierSection to support related companies from Pappers cartography, including data loading and UI updates for displaying linked entities.
+[2026-02-08T18:06:22+01:00] Merge branch 'dev' into feat/contact-no-sauce
