@@ -639,3 +639,4 @@
 [2026-02-08 18:00:00 +0100] feat(finances): filter non-annual data and reject implausible trends in UI
 [2026-02-08 18:00:00 +0100] feat(contacts): add enrichment method selection modal
 [2026-02-08 18:30:00 +0100] feat(contacts): implement domain-first enrichment path with LinkedIn fallback
+[2026-02-08 19:30:00 +0100] test(finances): add E2E test for financial deepsearch
