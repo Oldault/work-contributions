@@ -681,3 +681,4 @@
 [2026-02-09 14:34:15 +0100] docs(context): update frontend CLAUDE.md documentation
 [2026-02-09 14:34:30 +0100] docs(ci): update CI workflow documentation
 [2026-02-09 14:35:00 +0100] chore(config): update docker-compose and playwright configuration
+[2026-02-09 14:10:00 +0100] style(services): fix code formatting in service files
