@@ -673,3 +673,4 @@
 [2026-02-09 14:32:02 +0100] refactor(app): centralize routing in AppLayout
 [2026-02-09 14:32:15 +0100] refactor(pages): migrate detail pages to use useBreadcrumb hook
 [2026-02-09 14:32:30 +0100] refactor(pages): migrate search pages to use useBreadcrumb hook
+[2026-02-09 14:32:45 +0100] refactor(pages): migrate management pages to use useBreadcrumb hook
