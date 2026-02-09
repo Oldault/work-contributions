@@ -1626,3 +1626,4 @@
 [2026-02-09T17:43:00+01:00] docs(references): consolidate environment and deployment documentation
 [2026-02-09T17:45:00+01:00] chore(docker): simplify docker-compose to use centralized env files
 [2026-02-09T17:46:00+01:00] feat(makefile): add git branch auto-detection for environment
+[2026-02-09T17:47:00+01:00] feat(deploy): add environment auto-detection from git branch
