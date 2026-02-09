@@ -667,3 +667,4 @@
 [2026-02-09 14:30:05 +0100] feat(pages): add Inbox page
 [2026-02-09 14:31:48 +0100] feat(pages): add AdminMessages page
 [2026-02-09 14:28:15 +0100] refactor(notifications): simplify NotificationBell to use inbox store
+[2026-02-09 14:00:00 +0100] feat(routes): integrate notification creation in SSE endpoints
