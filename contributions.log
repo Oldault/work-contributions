@@ -654,3 +654,4 @@
 [2026-02-09 13:50:12 +0100] feat(api): add notifications API routes
 [2026-02-09 13:50:45 +0100] feat(api): add admin messages API routes
 [2026-02-09 13:52:01 +0100] feat(jobs): add notification purge job
+[2026-02-09 13:53:20 +0100] feat(server): register notification and admin message routes
