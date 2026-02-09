@@ -657,3 +657,4 @@
 [2026-02-09 13:53:20 +0100] feat(server): register notification and admin message routes
 [2026-02-09 13:45:42 +0100] feat(types): add notification TypeScript types
 [2026-02-09 13:45:42 +0100] feat(contexts): add centralized BreadcrumbContext
+[2026-02-09 13:46:02 +0100] feat(hooks): add useBreadcrumb hook
