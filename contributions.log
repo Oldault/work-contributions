@@ -677,3 +677,4 @@
 [2026-02-09 14:33:00 +0100] refactor(pages): migrate settings and news pages to use useBreadcrumb hook
 [2026-02-09 14:33:15 +0100] refactor(pages): migrate admin pages to use useBreadcrumb hook
 [2026-02-09 14:33:30 +0100] refactor(components): update components to use useBreadcrumb hook
+[2026-02-09 14:34:00 +0100] docs(context): update server-side CLAUDE.md documentation
