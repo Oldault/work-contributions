@@ -661,3 +661,4 @@
 [2026-02-09 13:46:15 +0100] feat(hooks): add useNotificationPolling hook
 [2026-02-09 13:46:27 +0100] feat(stores): add inbox Zustand store
 [2026-02-09 13:46:37 +0100] feat(config): add centralized route configuration
+[2026-02-09 13:47:05 +0100] feat(ui): add AppBreadcrumb component
