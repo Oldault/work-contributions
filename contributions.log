@@ -644,3 +644,4 @@
 [2026-02-08 20:30:00 +0100] fix(pages): preserve ContactsSection state across tab switches
 [2026-02-08 20:45:00 +0100] docs(context): add src CLAUDE.md and update context files
 [2026-02-09 11:28:32 +0100] fix(ci): resolve lint errors and fix E2E test suite
+[2026-02-09 12:07:07 +0100] docs(plans): add inbox notification system design
