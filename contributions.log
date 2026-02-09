@@ -649,3 +649,4 @@
 [2026-02-09 12:47:25 +0100] docs(plans): expand inbox notification system design
 [2026-02-09 13:07:52 +0100] feat(finances): add launch modal for financial deepsearch
 [2026-02-09 13:08:15 +0100] refactor(finances): integrate launch modal in FinancialDeepSearch
+[2026-02-09 13:44:50 +0100] feat(db): add notifications schema migration
