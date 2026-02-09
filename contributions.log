@@ -651,3 +651,4 @@
 [2026-02-09 13:08:15 +0100] refactor(finances): integrate launch modal in FinancialDeepSearch
 [2026-02-09 13:44:50 +0100] feat(db): add notifications schema migration
 [2026-02-09 13:45:31 +0100] feat(services): add notification service
+[2026-02-09 13:50:12 +0100] feat(api): add notifications API routes
