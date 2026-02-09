@@ -679,3 +679,4 @@
 [2026-02-09 14:33:30 +0100] refactor(components): update components to use useBreadcrumb hook
 [2026-02-09 14:34:00 +0100] docs(context): update server-side CLAUDE.md documentation
 [2026-02-09 14:34:15 +0100] docs(context): update frontend CLAUDE.md documentation
+[2026-02-09 14:34:30 +0100] docs(ci): update CI workflow documentation
