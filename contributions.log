@@ -659,3 +659,4 @@
 [2026-02-09 13:45:42 +0100] feat(contexts): add centralized BreadcrumbContext
 [2026-02-09 13:46:02 +0100] feat(hooks): add useBreadcrumb hook
 [2026-02-09 13:46:15 +0100] feat(hooks): add useNotificationPolling hook
+[2026-02-09 13:46:27 +0100] feat(stores): add inbox Zustand store
