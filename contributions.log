@@ -682,3 +682,4 @@
 [2026-02-09 14:34:30 +0100] docs(ci): update CI workflow documentation
 [2026-02-09 14:35:00 +0100] chore(config): update docker-compose and playwright configuration
 [2026-02-09 14:10:00 +0100] style(services): fix code formatting in service files
+[2026-02-10 13:02:40 +0100] fix(pages): remove dead sidebar sync code causing crashes on 4 pages
