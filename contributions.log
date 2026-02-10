@@ -1632,3 +1632,4 @@
 [2026-02-10T11:11:38+01:00] docs(plans): add settings page redesign design document
 [2026-02-10T11:53:59+01:00] feat(settings): redesign settings page with hub-and-spoke navigation
 [2026-02-10T12:33:38+01:00] refactor: unify all service ports to 3XYZ stack-based convention
+[2026-02-10T12:37:21+01:00] refactor(ui): simplify FiltersSidebar by removing dropdown menu
