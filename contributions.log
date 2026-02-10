@@ -688,3 +688,4 @@
 [2026-02-10 14:54:03 +0100] fix(infra): update all old port references to 3XYZ convention
 [2026-02-10 15:05:39 +0100] fix(infra): standardize production port and fix Prettier formatting
 [2026-02-10 15:07:16 +0100] chore: remove empty subdirectory CLAUDE.md files
+[2026-02-10 18:49:53 +0100] feat: add LinkedIn showcase page at /showcase
