@@ -702,3 +702,4 @@
 [2026-02-11 18:05:00 +0100] chore(deps): add node-cron, upgrade vite, improve nodemon config
 [2026-02-11 18:10:00 +0100] feat(dailynews): add cotation detection with LLM fallback and backfill
 [2026-02-11 18:20:00 +0100] feat(dailynews): implement automated mailing system with Listmonk integration
+[2026-02-11 18:30:00 +0100] feat(dailynews): add cotation filter UI and mailing subscription modal
