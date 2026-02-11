@@ -698,3 +698,4 @@
 [2026-02-11 15:17:24 +0100] feat(dailynews): add caMin/montantOperationMin backend filters + mailing mapper
 [2026-02-11 15:23:38 +0100] feat(dailynews): extend frontend types, service, and hook for filter convergence
 [2026-02-11 15:27:40 +0100] feat(dailynews): replace 17 operation checkboxes with 4 categories + threshold filters
+[2026-02-11 18:00:00 +0100] refactor(dailynews): remove Jina scraping in favor of self-hosted Firecrawl
