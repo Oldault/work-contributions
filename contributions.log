@@ -703,3 +703,4 @@
 [2026-02-11 18:10:00 +0100] feat(dailynews): add cotation detection with LLM fallback and backfill
 [2026-02-11 18:20:00 +0100] feat(dailynews): implement automated mailing system with Listmonk integration
 [2026-02-11 18:30:00 +0100] feat(dailynews): add cotation filter UI and mailing subscription modal
+[2026-02-11 18:35:00 +0100] feat(auth): preserve return URL on login redirect for email deep-links
