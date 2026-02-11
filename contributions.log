@@ -704,3 +704,4 @@
 [2026-02-11 18:20:00 +0100] feat(dailynews): implement automated mailing system with Listmonk integration
 [2026-02-11 18:30:00 +0100] feat(dailynews): add cotation filter UI and mailing subscription modal
 [2026-02-11 18:35:00 +0100] feat(auth): preserve return URL on login redirect for email deep-links
+[2026-02-11 18:40:00 +0100] test(dailynews): add mailing system test scripts
