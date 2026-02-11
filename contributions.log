@@ -696,3 +696,4 @@
 [2026-02-11 12:12:10 +0100] feat(ci): add zero-downtime CD pipeline
 [2026-02-11 12:17:07 +0100] docs: add env examples for all environments
 [2026-02-11 15:17:24 +0100] feat(dailynews): add caMin/montantOperationMin backend filters + mailing mapper
+[2026-02-11 15:23:38 +0100] feat(dailynews): extend frontend types, service, and hook for filter convergence
