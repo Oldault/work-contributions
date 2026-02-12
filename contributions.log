@@ -717,3 +717,4 @@
 [2026-02-12 11:32:00 +0100] feat(dailynews): pipeline Phase 3 - overhaul cotation detection with multi-strategy approach
 [2026-02-12 11:32:30 +0100] feat(dailynews): pipeline Phase 4 - extraction quality boost with Tavily and escalation triggers
 [2026-02-12 11:48:40 +0100] fix(dailynews): raise pageSize validation limit for client-side filtering
+[2026-02-12 11:32:45 +0100] feat(dailynews): pipeline Phase 5 - paywall handling with AMP fallbacks and Wayback Machine
