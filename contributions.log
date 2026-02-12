@@ -1652,3 +1652,4 @@
 [2026-02-12T11:10:12+01:00] deps(frontend): Bump tailwind-merge from 2.6.0 to 3.4.0 (#15)
 [2026-02-12T11:23:30+01:00] deps: batch update remaining dependencies after dependabot merge conflicts (#22)
 [2026-02-12T14:15:32+01:00] add column in listing and worklist
+[2026-02-12T14:47:06+01:00] Merge pull request #23 from Tailorlead/fix_feat_pre_release
