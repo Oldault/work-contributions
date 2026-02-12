@@ -1648,3 +1648,4 @@
 [2026-02-12T11:09:51+01:00] deps(frontend): Bump the minor-and-patch group with 18 updates (#11)
 [2026-02-12T11:09:58+01:00] deps(backend): Bump express-rate-limit from 7.5.1 to 8.2.1 in /server (#7)
 [2026-02-12T11:10:05+01:00] deps(frontend): Bump @types/node from 22.19.3 to 25.2.3 (#12)
+[2026-02-12T11:10:08+01:00] deps(frontend): Bump ag-grid-react from 34.3.1 to 35.0.1 (#13)
