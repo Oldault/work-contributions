@@ -721,3 +721,4 @@
 [2026-02-12 11:42:00 +0100] feat(dailynews): add stats endpoint, website resolution, and job scheduling
 [2026-02-12 11:44:00 +0100] docs: update CLAUDE.md context files across project
 [2026-02-12 11:51:55 +0100] Merge branch 'feat/daily-news-mailing' into dev
+[2026-02-12 11:54:19 +0100] fix: resolve merge conflict markers in package.json
