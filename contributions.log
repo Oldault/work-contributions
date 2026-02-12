@@ -1649,3 +1649,4 @@
 [2026-02-12T11:09:58+01:00] deps(backend): Bump express-rate-limit from 7.5.1 to 8.2.1 in /server (#7)
 [2026-02-12T11:10:05+01:00] deps(frontend): Bump @types/node from 22.19.3 to 25.2.3 (#12)
 [2026-02-12T11:10:08+01:00] deps(frontend): Bump ag-grid-react from 34.3.1 to 35.0.1 (#13)
+[2026-02-12T11:10:12+01:00] deps(frontend): Bump tailwind-merge from 2.6.0 to 3.4.0 (#15)
