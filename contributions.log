@@ -728,3 +728,4 @@
 [2026-02-12 13:09:04 +0100] fix(ci): pull repo before running deploy script in CD
 [2026-02-12 13:12:16 +0100] fix(ci): avoid pre-pull stealing diff from deploy script
 [2026-02-12 13:14:16 +0100] feat(ci): add force_rebuild option to CD workflow
+[2026-02-12 13:18:01 +0100] fix(ci): add retry loop to CD smoke test
