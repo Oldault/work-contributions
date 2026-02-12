@@ -732,3 +732,4 @@
 [2026-02-12 13:48:29 +0100] fix: prevent external API 401 from triggering frontend auto-logout
 [2026-02-12 14:10:53 +0100] test: add 89 tests across 12 files covering routes, middleware, services, frontend, and multi-tenancy
 [2026-02-12 13:56:42 +0100] fix(ui): remove align property from ownership diagram layout
+[2026-02-12 13:30:30 +0100] docs: add deployment scripts context documentation
