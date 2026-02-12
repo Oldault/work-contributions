@@ -725,3 +725,4 @@
 [2026-02-12 11:56:23 +0100] fix: resolve failing backend tests for cotation detector and escalation service
 [2026-02-12 12:52:04 +0100] fix(ci): add checks:read permission to CD workflow
 [2026-02-12 12:53:53 +0100] fix(ci): replace polling action with workflow_run trigger in CD
+[2026-02-12 13:09:04 +0100] fix(ci): pull repo before running deploy script in CD
