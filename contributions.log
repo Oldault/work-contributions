@@ -1641,3 +1641,4 @@
 [2026-02-11T12:22:33+01:00] Merge pull request #21 from Tailorlead/dev-merge
 [2026-02-11T14:28:55+01:00] Merge branch 'immobilier' into dev
 [2026-02-11T16:49:13+01:00] change entreprise structure
+[2026-02-12T11:09:22+01:00] ci: Bump actions/checkout from 4 to 6 (#2)
