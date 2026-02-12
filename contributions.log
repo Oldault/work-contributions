@@ -1651,3 +1651,4 @@
 [2026-02-12T11:10:08+01:00] deps(frontend): Bump ag-grid-react from 34.3.1 to 35.0.1 (#13)
 [2026-02-12T11:10:12+01:00] deps(frontend): Bump tailwind-merge from 2.6.0 to 3.4.0 (#15)
 [2026-02-12T11:23:30+01:00] deps: batch update remaining dependencies after dependabot merge conflicts (#22)
+[2026-02-12T14:15:32+01:00] add column in listing and worklist
