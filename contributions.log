@@ -1643,3 +1643,4 @@
 [2026-02-11T16:49:13+01:00] change entreprise structure
 [2026-02-12T11:09:22+01:00] ci: Bump actions/checkout from 4 to 6 (#2)
 [2026-02-12T11:09:33+01:00] ci: Bump codecov/codecov-action from 4 to 5 (#3)
+[2026-02-12T11:09:36+01:00] ci: Bump actions/upload-artifact from 4 to 6 (#5)
