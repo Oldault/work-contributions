@@ -713,3 +713,4 @@
 [2026-02-12 11:19:00 +0100] feat(dailynews): refactor filters with BODACC toggle and instant client-side filtering
 [2026-02-12 11:29:00 +0100] feat(dailynews): improve table and card UI with operation badges and column widths
 [2026-02-12 11:33:00 +0100] feat(dailynews): pipeline Phase 1 - enable optional sources and tune throughput
+[2026-02-12 11:38:00 +0100] feat(dailynews): pipeline Phase 2 - confidence-based filtering with unified prompt
