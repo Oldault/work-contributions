@@ -752,3 +752,4 @@
 [2026-02-12 18:31:08 +0100] feat(email): add Resend HTTP API client for transactional emails
 [2026-02-12 18:31:34 +0100] refactor(dailynews): migrate welcome and unsubscribe emails from Listmonk to Resend
 [2026-02-12 18:31:52 +0100] chore: add Resend API configuration to .env.example
+[2026-02-12 18:54:14 +0100] refactor(dailynews): migrate mailing cron service from Listmonk to Resend
