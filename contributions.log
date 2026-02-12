@@ -719,3 +719,4 @@
 [2026-02-12 11:48:40 +0100] fix(dailynews): raise pageSize validation limit for client-side filtering
 [2026-02-12 11:32:45 +0100] feat(dailynews): pipeline Phase 5 - paywall handling with AMP fallbacks and Wayback Machine
 [2026-02-12 11:42:00 +0100] feat(dailynews): add stats endpoint, website resolution, and job scheduling
+[2026-02-12 11:44:00 +0100] docs: update CLAUDE.md context files across project
