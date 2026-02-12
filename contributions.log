@@ -712,3 +712,4 @@
 [2026-02-12 11:09:00 +0100] docs: add daily news pipeline quality overhaul design plans
 [2026-02-12 11:19:00 +0100] feat(dailynews): refactor filters with BODACC toggle and instant client-side filtering
 [2026-02-12 11:29:00 +0100] feat(dailynews): improve table and card UI with operation badges and column widths
+[2026-02-12 11:33:00 +0100] feat(dailynews): pipeline Phase 1 - enable optional sources and tune throughput
