@@ -736,3 +736,4 @@
 [2026-02-12 13:46:11 +0100] docs: add CI/CD workflow context documentation
 [2026-02-12 13:53:21 +0100] docs: add testing infrastructure context documentation
 [2026-02-12 13:51:09 +0100] docs: add frontend context documentation
+[2026-02-12 17:06:58 +0100] feat(dailynews): tune filtering for maximum deal capture
