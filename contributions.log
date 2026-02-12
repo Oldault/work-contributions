@@ -706,3 +706,4 @@
 [2026-02-11 18:35:00 +0100] feat(auth): preserve return URL on login redirect for email deep-links
 [2026-02-11 18:40:00 +0100] test(dailynews): add mailing system test scripts
 [2026-02-11 18:45:00 +0100] docs: add design plans for daily news mailing, cotation, and filter convergence
+[2026-02-12 10:48:57 +0100] fix(finances): integrate DeepSearch data into consolidated table view
