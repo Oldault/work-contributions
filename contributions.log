@@ -1654,3 +1654,4 @@
 [2026-02-12T14:15:32+01:00] add column in listing and worklist
 [2026-02-12T14:47:06+01:00] Merge pull request #23 from Tailorlead/fix_feat_pre_release
 [2026-02-12T17:03:30+01:00] Implement server-side pagination across multiple components
+[2026-02-12T17:15:16+01:00] fix entreprise research pagination
