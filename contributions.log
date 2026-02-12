@@ -741,3 +741,4 @@
 [2026-02-12 14:14:15 +0100] docs: update codebase context documentation with recent activities
 [2026-02-12 16:38:00 +0100] feat(dailynews): add welcome and unsubscribe email templates
 [2026-02-12 16:40:00 +0100] feat(dailynews): generate welcome and unsubscribe confirmation emails
+[2026-02-12 16:45:00 +0100] feat(dailynews): send subscription emails and handle Listmonk 409
