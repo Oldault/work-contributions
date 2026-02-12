@@ -709,3 +709,4 @@
 [2026-02-12 10:48:57 +0100] fix(finances): integrate DeepSearch data into consolidated table view
 [2026-02-12 10:15:00 +0100] feat(dailynews): enhance mailing system with sync fail tracking and error handling
 [2026-02-12 10:59:00 +0100] fix(finances): improve DeepSearch types and search progress display
+[2026-02-12 11:09:00 +0100] docs: add daily news pipeline quality overhaul design plans
