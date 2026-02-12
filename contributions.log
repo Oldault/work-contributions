@@ -715,3 +715,4 @@
 [2026-02-12 11:33:00 +0100] feat(dailynews): pipeline Phase 1 - enable optional sources and tune throughput
 [2026-02-12 11:38:00 +0100] feat(dailynews): pipeline Phase 2 - confidence-based filtering with unified prompt
 [2026-02-12 11:32:00 +0100] feat(dailynews): pipeline Phase 3 - overhaul cotation detection with multi-strategy approach
+[2026-02-12 11:32:30 +0100] feat(dailynews): pipeline Phase 4 - extraction quality boost with Tavily and escalation triggers
