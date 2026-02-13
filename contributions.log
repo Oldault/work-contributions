@@ -1656,3 +1656,4 @@
 [2026-02-12T17:03:30+01:00] Implement server-side pagination across multiple components
 [2026-02-12T17:15:16+01:00] fix entreprise research pagination
 [2026-02-12T19:05:41+01:00] modify column in search history
+[2026-02-13T11:15:18+01:00] feat: email migration to Resend, UI improvements, and home page (#24)
