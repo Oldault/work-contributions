@@ -1657,3 +1657,4 @@
 [2026-02-12T17:15:16+01:00] fix entreprise research pagination
 [2026-02-12T19:05:41+01:00] modify column in search history
 [2026-02-13T11:15:18+01:00] feat: email migration to Resend, UI improvements, and home page (#24)
+[2026-02-13T11:35:54+01:00] release: merge dev to production (#25)
