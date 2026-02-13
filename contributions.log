@@ -1664,3 +1664,4 @@
 [2026-02-13T16:16:01+01:00] Merge branch 'dev' into fix_feat_pre_release
 [2026-02-13T16:17:52+01:00] feat(cache): CFNEWS par organisation + Pappers BE hors cache
 [2026-02-13T17:29:41+01:00] feat: add API documentation for caching and credits management
+[2026-02-13T17:48:12+01:00] feat: integrate geocoding API and optimize production build
