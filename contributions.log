@@ -754,3 +754,4 @@
 [2026-02-12 18:31:52 +0100] chore: add Resend API configuration to .env.example
 [2026-02-12 18:54:14 +0100] refactor(dailynews): migrate mailing cron service from Listmonk to Resend
 [2026-02-12 19:02:10 +0100] fix(email): use white logo asset in email template footers
+[2026-02-13 10:04:14 +0100] chore: add standalone daily news email test script
