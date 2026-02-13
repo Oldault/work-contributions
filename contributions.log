@@ -756,3 +756,4 @@
 [2026-02-12 19:02:10 +0100] fix(email): use white logo asset in email template footers
 [2026-02-13 10:04:14 +0100] chore: add standalone daily news email test script
 [2026-02-12 18:18:48 +0100] docs: update CLAUDE.md context files
+[2026-02-13 10:53:51 +0100] fix(ci): fix backend test failures in CI pipeline
