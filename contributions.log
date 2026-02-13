@@ -1660,3 +1660,4 @@
 [2026-02-13T11:35:54+01:00] release: merge dev to production (#25)
 [2026-02-13T15:21:17+01:00] refactor: remove unused FiltersSidebar and navigation store from SuiviFondsDonneesCfnews component
 [2026-02-13T15:21:26+01:00] refactor: remove unused button components from ColumnConfigModalSauvegardes and FiltresSection
+[2026-02-13T15:56:57+01:00] Merge pull request #26 from Tailorlead/fix_feat_pre_release
