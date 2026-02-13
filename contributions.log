@@ -1659,3 +1659,4 @@
 [2026-02-13T11:15:18+01:00] feat: email migration to Resend, UI improvements, and home page (#24)
 [2026-02-13T11:35:54+01:00] release: merge dev to production (#25)
 [2026-02-13T15:21:17+01:00] refactor: remove unused FiltersSidebar and navigation store from SuiviFondsDonneesCfnews component
+[2026-02-13T15:21:26+01:00] refactor: remove unused button components from ColumnConfigModalSauvegardes and FiltresSection
