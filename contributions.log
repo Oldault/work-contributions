@@ -1666,3 +1666,4 @@
 [2026-02-13T17:29:41+01:00] feat: add API documentation for caching and credits management
 [2026-02-13T17:48:12+01:00] feat: integrate geocoding API and optimize production build
 [2026-02-13T18:39:18+01:00] fix: update caching logic for Pappers data
+[2026-02-14T17:39:47+01:00] refactor: enhance API documentation and update middleware for beneficiaires effectifs
