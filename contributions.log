@@ -779,3 +779,4 @@
 [2026-02-16 15:00:00 +0100] refactor(fonds): migrate fund and counterparty components to Font Awesome
 [2026-02-16 15:02:00 +0100] refactor(surveillance): migrate surveillance components to Font Awesome
 [2026-02-16 15:04:00 +0100] refactor(search): migrate search components to Font Awesome
+[2026-02-16 15:06:00 +0100] refactor(misc): migrate remaining feature components to Font Awesome
