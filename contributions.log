@@ -767,3 +767,4 @@
 [2026-02-16 11:15:00 +0100] feat(api): integrate credit reservation in AI-powered routes
 [2026-02-16 11:20:00 +0100] feat(observability): add Langfuse tracing to search services
 [2026-02-16 11:00:00 +0100] feat(linkedin): improve scoring and photo validation
+[2026-02-16 11:30:00 +0100] feat(server): add credits cost reporting endpoint
