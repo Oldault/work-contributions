@@ -773,3 +773,4 @@
 [2026-02-16 15:50:00 +0100] feat(enrichment): enhance contact enrichment services
 [2026-02-16 16:00:00 +0100] refactor(deepsearch): update managers with credit reservation
 [2026-02-16 14:52:00 +0100] refactor(admin): migrate admin components to Font Awesome
+[2026-02-16 14:54:00 +0100] refactor(company): migrate company page components to Font Awesome
