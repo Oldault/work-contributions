@@ -1672,3 +1672,4 @@
 [2026-02-16T08:25:33Z] deps(backend): bump the minor-and-patch group in /server with 3 updates
 [2026-02-16T08:25:45Z] deps(backend): bump @types/nock from 10.0.3 to 11.1.0 in /server
 [2026-02-16T08:25:54Z] deps(backend): bump dotenv from 16.6.1 to 17.3.1 in /server
+[2026-02-16T08:26:06Z] deps(backend): bump zod from 3.25.76 to 4.3.6 in /server
