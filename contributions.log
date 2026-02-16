@@ -1680,3 +1680,4 @@
 [2026-02-16T08:28:37Z] deps(frontend): bump vaul from 0.9.9 to 1.1.2
 [2026-02-16T08:29:13Z] deps(frontend): bump globals from 15.15.0 to 17.3.0
 [2026-02-16T08:29:22Z] deps(frontend): bump @hookform/resolvers from 3.10.0 to 5.2.2
+[2026-02-16T08:29:47Z] deps(frontend): bump @vitejs/plugin-react-swc from 3.11.0 to 4.2.3
