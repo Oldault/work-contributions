@@ -762,3 +762,4 @@
 [2026-02-16 13:50:00 +0100] feat(ui): add Font Awesome 6 Pro icon system
 [2026-02-16 14:16:00 +0100] chore: add Font Awesome 6 Pro webfont files
 [2026-02-16 14:48:00 +0100] chore: remove Phosphor Icons dependencies
+[2026-02-16 14:50:00 +0100] refactor(ui): migrate shadcn components to Font Awesome
