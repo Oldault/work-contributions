@@ -777,3 +777,4 @@
 [2026-02-16 14:56:00 +0100] refactor(personne): migrate person page components to Font Awesome
 [2026-02-16 14:58:00 +0100] refactor(features): migrate DeepSearch and Daily News to Font Awesome
 [2026-02-16 15:00:00 +0100] refactor(fonds): migrate fund and counterparty components to Font Awesome
+[2026-02-16 15:02:00 +0100] refactor(surveillance): migrate surveillance components to Font Awesome
