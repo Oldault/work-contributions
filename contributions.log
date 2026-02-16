@@ -770,3 +770,4 @@
 [2026-02-16 11:30:00 +0100] feat(server): add credits cost reporting endpoint
 [2026-02-16 15:43:00 +0100] feat(credits): implement frontend reservation service
 [2026-02-16 18:04:00 +0100] feat(enrichment): add bulk contact enrichment on company page
+[2026-02-16 15:50:00 +0100] feat(enrichment): enhance contact enrichment services
