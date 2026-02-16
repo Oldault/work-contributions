@@ -795,3 +795,4 @@
 [2026-02-16 15:14:00 +0100] docs(components): add component-level documentation guidelines
 [2026-02-16 11:05:00 +0100] chore: add LinkedIn photo validation test script
 [2026-02-16 15:16:00 +0100] docs(surveillance): add surveillance component documentation
+[2026-02-16 18:21:03 +0100] fix: update superadmin credit tests to use -1 sentinel value
