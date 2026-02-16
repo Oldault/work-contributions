@@ -765,3 +765,4 @@
 [2026-02-16 14:50:00 +0100] refactor(ui): migrate shadcn components to Font Awesome
 [2026-02-16 10:55:00 +0100] feat(credits): implement reservation and rollback system
 [2026-02-16 11:15:00 +0100] feat(api): integrate credit reservation in AI-powered routes
+[2026-02-16 11:20:00 +0100] feat(observability): add Langfuse tracing to search services
