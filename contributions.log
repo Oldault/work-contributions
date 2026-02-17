@@ -1699,3 +1699,4 @@
 [2026-02-17T01:22:47+01:00] Merge branch 'yolo2' into merge_release
 [2026-02-17T09:31:06+01:00] Merge pull request #44 from Tailorlead/merge_release
 [2026-02-17T09:36:56+01:00] Merge branch 'dev'
+[2026-02-17T09:59:42+01:00] feat(surveillance): enhance AggregatedPortfolioView with new tab functionality and data handling
