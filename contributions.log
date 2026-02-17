@@ -1705,3 +1705,4 @@
 [2026-02-17T10:06:35+01:00] Merge pull request #47 from Tailorlead/dev
 [2026-02-17T13:52:17+01:00] fix exit and build up société
 [2026-02-17T14:03:43+01:00] fix st organization for admin to create users
+[2026-02-17T14:06:04+01:00] enable autosiggestion only for company and pp search
