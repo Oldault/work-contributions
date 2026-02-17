@@ -1701,3 +1701,4 @@
 [2026-02-17T09:36:56+01:00] Merge branch 'dev'
 [2026-02-17T09:59:42+01:00] feat(surveillance): enhance AggregatedPortfolioView with new tab functionality and data handling
 [2026-02-17T10:01:55+01:00] Merge pull request #46 from Tailorlead/dev
+[2026-02-17T10:05:32+01:00] fix(surveillance): update API call in AggregatedPortfolioView for improved data fetching
