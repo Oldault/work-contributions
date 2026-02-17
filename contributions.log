@@ -1709,3 +1709,4 @@
 [2026-02-17T14:14:04+01:00] feat(portfolio): implement cacheOnly mode for portfolio fetching and improve caching strategy
 [2026-02-17T15:14:01+01:00] feat(deepsearch): enhance search context management and caching strategy
 [2026-02-17T15:25:41+01:00] fix column dot for option type
+[2026-02-17T15:53:46+01:00] feat(users): enhance user management with update and delete functionalities
