@@ -1712,3 +1712,4 @@
 [2026-02-17T15:53:46+01:00] feat(users): enhance user management with update and delete functionalities
 [2026-02-17T15:57:16+01:00] Merge pull request #48 from Tailorlead/recette_release
 [2026-02-17T15:58:18+01:00] Merge pull request #49 from Tailorlead/dev
+[2026-02-17T16:10:22+01:00] fix api_key for pappers
