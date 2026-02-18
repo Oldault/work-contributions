@@ -796,3 +796,4 @@
 [2026-02-16 11:05:00 +0100] chore: add LinkedIn photo validation test script
 [2026-02-16 15:16:00 +0100] docs(surveillance): add surveillance component documentation
 [2026-02-16 18:21:03 +0100] fix: update superadmin credit tests to use -1 sentinel value
+[2026-02-18 11:39:15 +0100] docs: add credit usage dashboard design for SuperAdmin
