@@ -799,3 +799,4 @@
 [2026-02-18 11:39:15 +0100] docs: add credit usage dashboard design for SuperAdmin
 [2026-02-18 14:37:01 +0100] docs: update auto-generated CLAUDE.md context files
 [2026-02-18 14:37:11 +0100] refactor(deepsearch): remove Jina scraper, use self-hosted Firecrawl only
+[2026-02-18 14:37:22 +0100] feat(credits): add SuperAdmin credit usage dashboard
