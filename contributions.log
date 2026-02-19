@@ -803,3 +803,4 @@
 [2026-02-18 14:37:28 +0100] feat(email): add welcome email template and bulk send script
 [2026-02-19 12:37:59 +0100] index on cost-tracking: e1eb9ad feat(email): add welcome email template and bulk send script
 [2026-02-19 12:37:59 +0100] WIP on cost-tracking: e1eb9ad feat(email): add welcome email template and bulk send script
+[2026-02-19 12:38:15 +0100] feat(email): enhance welcome template with name personalization and suiviFonds block
