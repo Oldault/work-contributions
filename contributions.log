@@ -808,3 +808,4 @@
 [2026-02-19 12:38:26 +0100] chore: gitignore waitlist data files and move sensitive data out of repo
 [2026-02-20 15:00:00 +0100] infra(pihole): configure DHCP server and enforce network-wide DNS filtering
 [2026-02-20 15:30:00 +0100] infra(pihole): open firewall ports and verify DHCP lease distribution
+[2026-02-20 16:00:00 +0100] infra(network): configure static IP and NetworkManager for Pi-hole server
