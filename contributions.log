@@ -811,3 +811,4 @@
 [2026-02-20 16:00:00 +0100] infra(network): configure static IP and NetworkManager for Pi-hole server
 [2026-02-22 13:15:00 +0100] infra(pi): setup Node.js and deploy par-ici-tennis booking automation
 [2026-02-22 13:45:00 +0100] infra(pi): configure weekly cron jobs for automated tennis court booking
+[2026-02-22 14:00:00 +0100] infra(localsend): troubleshoot and start LocalSend service for file transfers
