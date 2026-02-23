@@ -1749,3 +1749,4 @@
 [2026-02-19T13:11:55+01:00] add remove company in worklist
 [2026-02-19T13:24:38+01:00] fix deepsearch load and refresh page
 [2026-02-20T16:32:32+01:00] Merge pull request #58 from Tailorlead/recette_release
+[2026-02-23T11:31:56+01:00] docs: add per-field source attribution design for fund vehicle discovery
