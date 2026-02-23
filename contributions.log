@@ -815,3 +815,4 @@
 [2026-02-22 14:30:00 +0100] infra(pihole): whitelist YouTube domains via sudo CLI
 [2026-02-23 11:31:56 +0100] work: docs: add per-field source attribution design for fund vehicle discovery
 [2026-02-23 12:02:12 +0100] work: docs: add fund vehicle discovery and per-field source attribution designs
+[2026-02-23 12:02:25 +0100] work: feat(fund-vehicle): implement discovery with per-field source attribution
