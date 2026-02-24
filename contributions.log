@@ -845,3 +845,4 @@
 [2026-02-25 12:01:14 +0100] feat(one-pager): redesign section definitions — split governance, remove identity checkbox
 [2026-02-25 12:01:54 +0100] test(one-pager): update tests for section key redesign
 [2026-02-25 12:00:00 +0100] chore: update gitignore for one-pager outputs and tmp directory
+[2026-02-24 14:00:00 +0100] docs(plans): add one-pager preview design document
