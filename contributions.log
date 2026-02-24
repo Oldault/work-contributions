@@ -836,3 +836,4 @@
 [2026-02-24 15:47:33 +0100] feat(enrichment): add EnrichmentStage component
 [2026-02-24 15:52:56 +0100] fix(one-pager): use company name for DeepSearch and add abort signal support
 [2026-02-24 15:53:22 +0100] fix(one-pager): add entityData size validation and client abort propagation
+[2026-02-24 16:02:46 +0100] feat(fund-intelligence): implement Stage 6 intelligence analysis service
