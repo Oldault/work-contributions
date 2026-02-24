@@ -839,3 +839,4 @@
 [2026-02-24 16:02:46 +0100] feat(fund-intelligence): implement Stage 6 intelligence analysis service
 [2026-02-24 16:01:22 +0100] feat(fund-vehicle): wire enableIntelligence flag and integrate enrichment drawer
 [2026-02-24 16:02:00 +0100] feat(enrichment): add EnrichmentStageIntelligence component
+[2026-02-24 16:19:04 +0100] test(e2e): add one-pager end-to-end tests
