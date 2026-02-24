@@ -818,3 +818,4 @@
 [2026-02-23 12:02:25 +0100] work: feat(fund-vehicle): implement discovery with per-field source attribution
 [2026-02-24 13:09:21 +0100] feat(fund-vehicle): add vehicle search page with enrichment integration
 [2026-02-24 13:11:00 +0100] docs: add enrichment intelligence drawer design
+[2026-02-24 15:41:23 +0100] feat(one-pager): implement PPTX generation for company and person detail pages
