@@ -1752,3 +1752,4 @@
 [2026-02-23T11:31:56+01:00] docs: add per-field source attribution design for fund vehicle discovery
 [2026-02-23T12:02:12+01:00] docs: add fund vehicle discovery and per-field source attribution designs
 [2026-02-23T12:02:25+01:00] feat(fund-vehicle): implement discovery with per-field source attribution
+[2026-02-24T10:26:22+01:00] fix some credit usage errors
