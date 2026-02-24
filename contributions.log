@@ -1755,3 +1755,4 @@
 [2026-02-24T10:26:22+01:00] fix some credit usage errors
 [2026-02-24T14:54:26+01:00] add deepsearch cache
 [2026-02-24T15:09:09+01:00] Change recherche to nouvelle recherche for better user understanding
+[2026-02-24T16:16:13+01:00] fix contact enrich
