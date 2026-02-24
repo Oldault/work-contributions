@@ -830,3 +830,4 @@
 [2026-02-24 15:40:15 +0100] db: add migration 047 to store intelligence analysis on fund cache
 [2026-02-24 15:40:32 +0100] feat(types): add IntelligenceAnalysis TypeScript types for Stage 6
 [2026-02-24 15:43:24 +0100] feat(fund-intelligence): add pass completion callbacks and intelligence_analysis persistence
+[2026-02-24 15:43:51 +0100] feat(langfuse): add intelligence analysis tracing and claude-opus-4-6 pricing
