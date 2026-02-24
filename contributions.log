@@ -1754,3 +1754,4 @@
 [2026-02-23T12:02:25+01:00] feat(fund-vehicle): implement discovery with per-field source attribution
 [2026-02-24T10:26:22+01:00] fix some credit usage errors
 [2026-02-24T14:54:26+01:00] add deepsearch cache
+[2026-02-24T15:09:09+01:00] Change recherche to nouvelle recherche for better user understanding
