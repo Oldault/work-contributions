@@ -823,3 +823,4 @@
 [2026-02-24 14:01:42 +0100] docs: add PPTX skill reference doc for rapport generation
 [2026-02-24 14:19:43 +0100] feat(enrichment): add enrichment drawer base components
 [2026-02-24 14:17:42 +0100] feat(ui): add useIsSmallViewport hook
+[2026-02-24 15:05:59 +0100] index on feat/fund-vehicle: b146d8b feat(ui): add useIsSmallViewport hook
