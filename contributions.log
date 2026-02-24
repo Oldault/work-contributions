@@ -834,3 +834,4 @@
 [2026-02-24 15:45:16 +0100] feat(enrichment): add enrichmentDrawerStore Zustand store
 [2026-02-24 15:45:53 +0100] feat(types): expand fundIntelligence types for drawer and intelligence stage
 [2026-02-24 15:47:33 +0100] feat(enrichment): add EnrichmentStage component
+[2026-02-24 15:52:56 +0100] fix(one-pager): use company name for DeepSearch and add abort signal support
