@@ -850,3 +850,4 @@
 [2026-02-25 09:30:00 +0100] docs(plans): add loading experience redesign designs
 [2026-02-25 11:00:00 +0100] feat(one-pager): add structured JSON schema for LLM slide architect
 [2026-02-25 11:15:00 +0100] feat(one-pager): add dual-mode prompt system for code generation and block fallback
+[2026-02-25 11:30:00 +0100] feat(one-pager): add sandboxed code execution engine with AST validation
