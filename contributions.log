@@ -866,3 +866,4 @@
 [2026-02-25 15:53:00 +0100] refactor(one-pager): redesign panel, section picker, and palette picker
 [2026-02-25 16:03:00 +0100] feat(one-pager): integrate one-pager in company and person detail pages
 [2026-02-25 14:57:00 +0100] test(one-pager): add backend unit tests for sandbox, schema, prompt, and data assembler
+[2026-02-25 16:19:00 +0100] test(one-pager): update e2e tests and add loading hook unit tests
