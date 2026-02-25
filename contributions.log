@@ -861,3 +861,4 @@
 [2026-02-25 12:12:00 +0100] feat(one-pager): add preview slide components for document mockup rendering
 [2026-02-25 15:51:00 +0100] feat(one-pager): add dual-rendering preview modal with image priority and HTML fallback
 [2026-02-25 16:07:00 +0100] feat(one-pager): add animated loading experience with document mockup and progress
+[2026-02-25 12:06:00 +0100] feat(one-pager): add Zustand store with sessionStorage persistence and TTL management
