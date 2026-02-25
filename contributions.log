@@ -1757,3 +1757,4 @@
 [2026-02-24T15:09:09+01:00] Change recherche to nouvelle recherche for better user understanding
 [2026-02-24T16:16:13+01:00] fix contact enrich
 [2026-02-24T17:35:32+01:00] add bettter cache for deepsearch and search cache
+[2026-02-25T09:53:08+01:00] set max funds watched in superadmin view
