@@ -867,3 +867,4 @@
 [2026-02-25 16:03:00 +0100] feat(one-pager): integrate one-pager in company and person detail pages
 [2026-02-25 14:57:00 +0100] test(one-pager): add backend unit tests for sandbox, schema, prompt, and data assembler
 [2026-02-25 16:19:00 +0100] test(one-pager): update e2e tests and add loading hook unit tests
+[2026-02-25 19:00:00 +0100] chore(one-pager): add test-architect script for integration testing
