@@ -841,3 +841,4 @@
 [2026-02-24 16:02:00 +0100] feat(enrichment): add EnrichmentStageIntelligence component
 [2026-02-24 16:19:04 +0100] test(e2e): add one-pager end-to-end tests
 [2026-02-25 11:57:38 +0100] refactor(one-pager): split structure into actionnariat + dirigeants in data model
+[2026-02-25 11:59:43 +0100] refactor(one-pager): split structure section into actionnariat + dirigeants in PPTX generator
