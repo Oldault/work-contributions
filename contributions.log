@@ -860,3 +860,4 @@
 [2026-02-25 11:00:00 +0100] feat(one-pager): add acorn and vm2 dependencies for sandbox code execution
 [2026-02-25 12:12:00 +0100] feat(one-pager): add preview slide components for document mockup rendering
 [2026-02-25 15:51:00 +0100] feat(one-pager): add dual-rendering preview modal with image priority and HTML fallback
+[2026-02-25 16:07:00 +0100] feat(one-pager): add animated loading experience with document mockup and progress
