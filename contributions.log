@@ -855,3 +855,4 @@
 [2026-02-25 14:11:00 +0100] feat(one-pager): add fast-path data assembly with pre-loaded entity data
 [2026-02-25 18:00:00 +0100] feat(one-pager): rewrite orchestration pipeline with LLM code generation
 [2026-02-25 16:56:00 +0100] feat(one-pager): rewrite slide generator with dual-path rendering
+[2026-02-25 15:00:00 +0100] feat(one-pager): update API routes with preview image endpoint and abort support
