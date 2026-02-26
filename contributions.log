@@ -1779,3 +1779,4 @@
 [2026-02-26T17:08:53+01:00] feat(one-pager): wire logo proxy into backend and add actionnaire logo fetching
 [2026-02-26T17:08:53+01:00] feat(one-pager): conditional actionnaires fetch and slide header improvements
 [2026-02-26T17:08:53+01:00] feat(ui): refactor CompanyLogo to use backend proxy and add extra-credit section badges
+[2026-02-26T17:08:53+01:00] feat(one-pager): enrich loading screen with real-time sources and image progress
