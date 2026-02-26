@@ -872,3 +872,4 @@
 [2026-02-26 09:00:00 +0100] docs(claude): update CLAUDE.md context files for one-pager feature
 [2026-02-26 10:20:30 +0100] fix(dailynews): remove org filter from mailing query — deals are global
 [2026-02-26 10:22:19 +0100] Merge pull request #77 from Tailorlead/fix/daily-news-mailing-org-filter
+[2026-02-26 11:04:47 +0100] feat(daily-news): add Le Dauphiné Libéré RSS feed
