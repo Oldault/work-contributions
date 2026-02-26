@@ -1776,3 +1776,4 @@
 [2026-02-26T15:41:58+01:00] feat(one-pager): add ImageFetchStrip loading component for image progress
 [2026-02-26T16:08:31+01:00] feat(one-pager): add SourceCarousel component for real-time source display
 [2026-02-26T16:20:45+01:00] chore(assets): add white logo PNG to server assets for PPTX rendering
+[2026-02-26T17:08:53+01:00] feat(one-pager): wire logo proxy into backend and add actionnaire logo fetching
