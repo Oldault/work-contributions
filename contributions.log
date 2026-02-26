@@ -1778,3 +1778,4 @@
 [2026-02-26T16:20:45+01:00] chore(assets): add white logo PNG to server assets for PPTX rendering
 [2026-02-26T17:08:53+01:00] feat(one-pager): wire logo proxy into backend and add actionnaire logo fetching
 [2026-02-26T17:08:53+01:00] feat(one-pager): conditional actionnaires fetch and slide header improvements
+[2026-02-26T17:08:53+01:00] feat(ui): refactor CompanyLogo to use backend proxy and add extra-credit section badges
