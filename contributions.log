@@ -1782,3 +1782,4 @@
 [2026-02-26T17:08:53+01:00] feat(one-pager): enrich loading screen with real-time sources and image progress
 [2026-02-26T17:08:53+01:00] feat(one-pager): handle SSE source/image events and surface fetchedActionnaires
 [2026-02-26T17:08:53+01:00] test(one-pager): update tests for conditional actionnaires fetch and SSE events
+[2026-02-26T17:42:16+01:00] test(one-pager): update prompt tests for url field and new layout rules
