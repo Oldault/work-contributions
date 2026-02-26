@@ -873,3 +873,4 @@
 [2026-02-26 10:20:30 +0100] fix(dailynews): remove org filter from mailing query — deals are global
 [2026-02-26 10:22:19 +0100] Merge pull request #77 from Tailorlead/fix/daily-news-mailing-org-filter
 [2026-02-26 11:04:47 +0100] feat(daily-news): add Le Dauphiné Libéré RSS feed
+[2026-02-26 11:09:01 +0100] feat(one-pager): add image availability manifest to architect prompt
