@@ -875,3 +875,4 @@
 [2026-02-26 11:04:47 +0100] feat(daily-news): add Le Dauphiné Libéré RSS feed
 [2026-02-26 11:09:01 +0100] feat(one-pager): add image availability manifest to architect prompt
 [2026-02-26 11:12:20 +0100] test(one-pager): add addImage sandbox security tests
+[2026-02-26 11:12:38 +0100] fix(one-pager): code cleanup — 4 quality fixes in image integration
