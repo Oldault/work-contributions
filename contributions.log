@@ -880,3 +880,4 @@
 [2026-02-26 13:33:38 +0100] index on feat/one-pager: fd11b9f test(one-pager): add unit tests for imageFetcher module
 [2026-02-26 13:33:38 +0100] WIP on feat/one-pager: fd11b9f test(one-pager): add unit tests for imageFetcher module
 [2026-02-26 13:36:29 +0100] feat(daily-news): expand RSS sources to 32 feeds with fixed URLs
+[2026-02-26 16:57:50 +0100] fix(one-pager): add adaptive layout and overflow prevention to architect prompt
