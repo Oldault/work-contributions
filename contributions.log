@@ -893,3 +893,4 @@
 [2026-02-27 14:20:00 +0100] docs(claude-mem): update auto-generated context in CLAUDE.md files
 [2026-02-27 14:41:19 +0100] feat(one-pager): enrich identity with établissements count, cities, and international presence
 [2026-02-27 14:43:23 +0100] feat(one-pager): add business model extraction via Haiku for zoom activité section
+[2026-02-27 14:45:24 +0100] feat(one-pager): add M&A Interview layout profile, dual chart, business model section, enriched identity
