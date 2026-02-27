@@ -896,3 +896,4 @@
 [2026-02-27 14:45:24 +0100] feat(one-pager): add M&A Interview layout profile, dual chart, business model section, enriched identity
 [2026-02-27 14:47:04 +0100] feat(one-pager): enhance data profile with business model, margin, and établissements signals
 [2026-02-27 14:49:23 +0100] feat(one-pager): add financial variation annotations for chart/table context
+[2026-02-27 14:49:58 +0100] test(one-pager): add filterDataBySections tests for businessModel and établissements
