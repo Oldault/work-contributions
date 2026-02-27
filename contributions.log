@@ -887,3 +887,4 @@
 [2026-02-27 12:15:00 +0100] feat(one-pager): add architect sub-stages and visual QA animations to loading view
 [2026-02-27 12:48:00 +0100] feat(one-pager): add history panel and auto-persist generated one-pagers
 [2026-02-27 12:37:00 +0100] feat(database): add one_pagers table and CRUD query methods
+[2026-02-27 14:06:00 +0100] feat(one-pager): add visual QA loop, element bounds validator, and persistence routes
