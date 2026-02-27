@@ -897,3 +897,4 @@
 [2026-02-27 14:47:04 +0100] feat(one-pager): enhance data profile with business model, margin, and établissements signals
 [2026-02-27 14:49:23 +0100] feat(one-pager): add financial variation annotations for chart/table context
 [2026-02-27 14:49:58 +0100] test(one-pager): add filterDataBySections tests for businessModel and établissements
+[2026-02-27 14:52:46 +0100] feat(one-pager): emit SSE progress event for business model extraction
