@@ -885,3 +885,4 @@
 [2026-02-27 11:03:00 +0100] docs(one-pager): expand layout validator design plan with visual QA phase
 [2026-02-27 11:24:00 +0100] test(one-pager): update computeProgress tests for architect sub-stages and quality_check
 [2026-02-27 12:15:00 +0100] feat(one-pager): add architect sub-stages and visual QA animations to loading view
+[2026-02-27 12:48:00 +0100] feat(one-pager): add history panel and auto-persist generated one-pagers
