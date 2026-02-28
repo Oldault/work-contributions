@@ -1788,3 +1788,4 @@
 [2026-02-26T18:12:58+01:00] docs(one-pager): add layout validator design plan
 [2026-02-26T18:15:41+01:00] docs(one-pager): update onePager service CLAUDE.md with session notes
 [2026-02-28T09:45:00+01:00] fix(one-pager): increase element tracker boundary tolerance to 0.05"
+[2026-02-28T11:20:00+01:00] feat(one-pager): harden business model extraction with sanitization and timeout
