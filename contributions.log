@@ -1789,3 +1789,4 @@
 [2026-02-26T18:15:41+01:00] docs(one-pager): update onePager service CLAUDE.md with session notes
 [2026-02-28T09:45:00+01:00] fix(one-pager): increase element tracker boundary tolerance to 0.05"
 [2026-02-28T11:20:00+01:00] feat(one-pager): harden business model extraction with sanitization and timeout
+[2026-02-28T14:30:00+01:00] fix(one-pager): improve prompt rules for logo sizing, chart labels, and layout density
