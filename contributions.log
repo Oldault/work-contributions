@@ -901,3 +901,4 @@
 [2026-02-27 14:54:21 +0100] test(one-pager): add full prompt integration test with all M&A enhancements
 [2026-03-01 13:15:00 +0100] fix(one-pager): prevent quality badge layout shifts with single AnimatePresence slot
 [2026-03-01 15:45:00 +0100] feat(one-pager): add favicons and polish article cards in source carousel
+[2026-03-01 17:30:00 +0100] fix(one-pager): increase progress bar height and refine status line transitions
