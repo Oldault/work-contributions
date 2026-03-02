@@ -904,3 +904,4 @@
 [2026-03-01 17:30:00 +0100] fix(one-pager): increase progress bar height and refine status line transitions
 [2026-03-01 17:30:00 +0100] fix(one-pager): increase progress bar height and refine status line transitions
 [2026-03-02 10:43:25 +0100] feat(daily-news): add content caching, company logos, and clean name extraction
+[2026-03-02 11:26:33 +0100] docs: update Firecrawl URL to vRack and refresh CLAUDE.md metadata
