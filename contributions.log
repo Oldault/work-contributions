@@ -915,3 +915,4 @@
 [2026-03-02 14:15:09 +0100] perf(one-pager): enable prompt caching on code architect system prompt
 [2026-03-02 14:16:45 +0100] test(one-pager): add integration tests for template engine pipeline
 [2026-03-02 14:17:50 +0100] test(one-pager): add visual sample generator script for template QA
+[2026-03-02 15:17:44 +0100] feat(daily-news): add freshness gate helpers with 48h/72h Monday logic
