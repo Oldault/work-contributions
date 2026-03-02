@@ -903,3 +903,4 @@
 [2026-03-01 15:45:00 +0100] feat(one-pager): add favicons and polish article cards in source carousel
 [2026-03-01 17:30:00 +0100] fix(one-pager): increase progress bar height and refine status line transitions
 [2026-03-01 17:30:00 +0100] fix(one-pager): increase progress bar height and refine status line transitions
+[2026-03-02 10:43:25 +0100] feat(daily-news): add content caching, company logos, and clean name extraction
