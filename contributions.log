@@ -1806,3 +1806,4 @@
 [2026-03-02T11:00:00+01:00] refactor(services): update financial deepSearch and firecrawl services
 [2026-03-02T11:10:00+01:00] refactor(services): update langfuse query and tracing services
 [2026-03-02T11:20:00+01:00] refactor(services): update paraphrasing, serper, and web contact search services
+[2026-03-02T11:30:00+01:00] fix(jobs): update notification purge job for NestJS service injection
