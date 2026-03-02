@@ -1800,3 +1800,4 @@
 [2026-03-02T10:12:17+01:00] deps(frontend): bump the minor-and-patch group across 1 directory with 20 updates (#84)
 [2026-03-02T10:13:19+01:00] deps(backend): bump the minor-and-patch group across 1 directory with 8 updates (#83)
 [2026-03-02T10:13:27+01:00] ci: bump actions/upload-artifact from 6 to 7 (#82)
+[2026-03-02T10:20:00+01:00] refactor(services/linkedin-discovery): update index for NestJS patterns
