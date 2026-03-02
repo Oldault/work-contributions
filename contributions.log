@@ -1792,3 +1792,4 @@
 [2026-02-28T14:30:00+01:00] fix(one-pager): improve prompt rules for logo sizing, chart labels, and layout density
 [2026-02-28T16:15:00+01:00] test(one-pager): add tests for financial variations, Personne morale, and edge cases
 [2026-03-01T10:30:00+01:00] refactor(one-pager): replace scan lines with subtle sweep gradients in loading animations
+[2026-03-02T09:00:00+01:00] refactor(services/daily-news): update article, checkpoint, config, and dedup services
