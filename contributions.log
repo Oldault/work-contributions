@@ -914,3 +914,4 @@
 [2026-03-02 14:14:21 +0100] feat(one-pager): wire template engine into pipeline as fast path
 [2026-03-02 14:15:09 +0100] perf(one-pager): enable prompt caching on code architect system prompt
 [2026-03-02 14:16:45 +0100] test(one-pager): add integration tests for template engine pipeline
+[2026-03-02 14:17:50 +0100] test(one-pager): add visual sample generator script for template QA
