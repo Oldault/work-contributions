@@ -1813,3 +1813,4 @@
 [2026-03-02T16:42:00+01:00] docs: add migration safety net design
 [2026-03-02T16:47:48+01:00] show listings and workllists
 [2026-03-02T17:00:00+01:00] docs: add Pappers enrichment disablement plan
+[2026-03-02T17:30:00+01:00] chore: update server-side claude-mem context metadata
