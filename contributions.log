@@ -909,3 +909,4 @@
 [2026-03-02 11:48:32 +0100] index on feat/one-pager: 8631b23 docs: update Firecrawl URL to vRack and refresh CLAUDE.md metadata
 [2026-03-02 11:48:32 +0100] WIP on feat/one-pager: 8631b23 docs: update Firecrawl URL to vRack and refresh CLAUDE.md metadata
 [2026-03-02 11:50:24 +0100] Merge branch 'feat/one-pager' into dev
+[2026-03-02 13:56:02 +0100] feat(one-pager): add template engine foundation (profiler, content decision, helpers)
