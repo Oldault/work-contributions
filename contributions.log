@@ -911,3 +911,4 @@
 [2026-03-02 11:50:24 +0100] Merge branch 'feat/one-pager' into dev
 [2026-03-02 13:56:02 +0100] feat(one-pager): add template engine foundation (profiler, content decision, helpers)
 [2026-03-02 14:07:48 +0100] feat(one-pager): add 6 templates and engine orchestrator
+[2026-03-02 14:14:21 +0100] feat(one-pager): wire template engine into pipeline as fast path
