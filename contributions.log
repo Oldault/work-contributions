@@ -913,3 +913,4 @@
 [2026-03-02 14:07:48 +0100] feat(one-pager): add 6 templates and engine orchestrator
 [2026-03-02 14:14:21 +0100] feat(one-pager): wire template engine into pipeline as fast path
 [2026-03-02 14:15:09 +0100] perf(one-pager): enable prompt caching on code architect system prompt
+[2026-03-02 14:16:45 +0100] test(one-pager): add integration tests for template engine pipeline
