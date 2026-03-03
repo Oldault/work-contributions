@@ -1876,3 +1876,4 @@
 [2026-03-09T17:18:00+01:00] fix(docker): explicitly bind Traefik routers to service to resolve ambiguity
 [2026-03-09T18:23:21+01:00] fix(docker): pass Dokploy env vars to backend via env_file
 [2026-03-09T18:36:31+01:00] fix(docker): route /api/* to backend via Traefik, remove public port 3001
+[2026-03-03T15:41:01+01:00] add qualify to listing from enterprise
