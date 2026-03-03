@@ -923,3 +923,4 @@
 [2026-03-03 11:18:00 +0100] docs: add DeepSearch sanctions and reputation screening design
 [2026-03-03 11:29:00 +0100] feat(one-pager): add beta gate for non-superadmin users
 [2026-03-03 11:37:07 +0100] feat(one-pager): improve template helpers, content decisions, and slide layouts
+[2026-03-03 11:37:12 +0100] docs: add one-pager template engine design documents
