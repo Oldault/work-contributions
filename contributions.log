@@ -1831,3 +1831,4 @@
 [2026-03-03T14:57:12+01:00] fix listing and add re enrich from listing
 [2026-03-03T15:41:01+01:00] add qualify to listing from enterprise
 [2026-03-03T16:00:00+01:00] docs: add NestJS migration design plan
+[2026-03-03T18:45:00+01:00] feat(financial-deepsearch): enrich pipeline with CFNews M&A data
