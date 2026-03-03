@@ -926,3 +926,4 @@
 [2026-03-03 11:37:12 +0100] docs: add one-pager template engine design documents
 [2026-03-03 11:53:53 +0100] feat(search): add searchRankingService for Pappers result re-ranking
 [2026-03-03 11:54:31 +0100] feat(search): integrate re-ranking into /api/pappers/recherche route
+[2026-03-03 11:54:45 +0100] refactor(server): extract Express app into app.js, thin server.js bootstrap
