@@ -1834,3 +1834,4 @@
 [2026-03-03T18:45:00+01:00] feat(financial-deepsearch): enrich pipeline with CFNews M&A data
 [2026-03-03T19:00:00+01:00] feat(contrepartie): fix sector array display and operation dates
 [2026-03-03T19:15:00+01:00] fix(logo): add WIIO company logo override
+[2026-03-03T19:30:00+01:00] feat(daily-news): improve deal table, filters, empty state, and CFNews toggle
