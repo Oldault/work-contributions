@@ -929,3 +929,4 @@
 [2026-03-03 11:54:45 +0100] refactor(server): extract Express app into app.js, thin server.js bootstrap
 [2026-03-03 11:55:51 +0100] test(search): add unit and integration tests for search re-ranking
 [2026-03-03 12:41:24 +0100] refactor(server): extract 59 inline routes from app.js into 12 route modules
+[2026-03-03 13:21:41 +0100] refactor(server): split database_pg.js into domain modules under db/
