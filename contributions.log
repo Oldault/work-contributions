@@ -921,3 +921,4 @@
 [2026-03-02 15:22:12 +0100] test(daily-news): add PHIL-RH regression and integration tests for freshness gate
 [2026-03-02 17:06:21 +0100] perf(daily-news): disable Pappers enrichment — saves ~300 API calls/run
 [2026-03-03 11:18:00 +0100] docs: add DeepSearch sanctions and reputation screening design
+[2026-03-03 11:29:00 +0100] feat(one-pager): add beta gate for non-superadmin users
