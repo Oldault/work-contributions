@@ -1816,3 +1816,4 @@
 [2026-03-02T17:30:00+01:00] chore: update server-side claude-mem context metadata
 [2026-03-03T09:00:00+01:00] fix(tests): update test connection and external service test for new module structure
 [2026-03-03T09:15:00+01:00] chore(deps): add pptxgenjs, sharp, acorn dependencies for OnePager service
+[2026-03-03T09:30:00+01:00] docs: update CLAUDE.md for plans, server root, drizzle, jobs, middleware, and scripts
