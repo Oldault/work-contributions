@@ -1819,3 +1819,4 @@
 [2026-03-03T09:30:00+01:00] docs: update CLAUDE.md for plans, server root, drizzle, jobs, middleware, and scripts
 [2026-03-03T09:40:00+01:00] docs: update CLAUDE.md for services, daily-news, and external tests
 [2026-03-03T09:50:00+01:00] docs: update CLAUDE.md for NestJS core — decorators, guards, interceptors
+[2026-03-03T10:00:00+01:00] docs: update CLAUDE.md for admin, bodacc, and cfnews modules
