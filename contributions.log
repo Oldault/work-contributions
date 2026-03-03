@@ -1829,3 +1829,4 @@
 [2026-03-03T12:30:00+01:00] feat(daily-news): integrate CFNews as M&A discovery source
 [2026-03-03T13:15:00+01:00] docs: add search relevance improvements documentation
 [2026-03-03T14:57:12+01:00] fix listing and add re enrich from listing
+[2026-03-03T15:41:01+01:00] add qualify to listing from enterprise
