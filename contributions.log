@@ -1839,3 +1839,4 @@
 [2026-03-04T11:30:21+01:00] Add column fixed for funds tracking
 [2026-03-04T11:35:00+01:00] docs: add recherche page UX improvements design plan
 [2026-03-04T11:37:48+01:00] fix reload action on funds tracking
+[2026-03-04T12:00:00+01:00] feat(company): improve header, synthese, contacts, and finances sections
