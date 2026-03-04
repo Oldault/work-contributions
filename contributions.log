@@ -936,3 +936,4 @@
 [2026-03-04 12:39:29 +0100] refactor(server): migrate auth, users, organizations to NestJS modules
 [2026-03-04 12:40:15 +0100] refactor(server): migrate home, dashboard, activities, prospects, deals to NestJS
 [2026-03-04 12:42:22 +0100] refactor(server): migrate work-lists and final-listings to NestJS modules
+[2026-03-04 12:51:04 +0100] refactor(server): migrate admin routes to NestJS module
