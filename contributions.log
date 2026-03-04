@@ -1852,3 +1852,4 @@
 [2026-03-04T17:45:00+01:00] fix(search): improve domain matching with alternative names and dotted legal forms
 [2026-03-04T19:27:00+01:00] fix(company): remove Pappers sites_internet from domain resolution
 [2026-03-04T19:28:00+01:00] fix(logo): reorder domain guessing to prioritize multi-word joined candidates
+[2026-03-04T19:36:00+01:00] fix(recherche): fix sliding background visibility with useLayoutEffect
