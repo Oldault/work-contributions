@@ -977,3 +977,4 @@
 [2026-03-05 17:01:18 +0100] refactor(core): replace raw SQL with domain-specific Drizzle repositories
 [2026-03-05 17:03:58 +0100] refactor(db): add Drizzle repositories for cfnews, lists, and cache domains
 [2026-03-05 17:14:04 +0100] refactor(services): wire Drizzle repositories into NestJS services
+[2026-03-05 17:23:04 +0100] index on worktree-nestjs-migration: 6e87250 refactor(services): wire Drizzle repositories into NestJS services
