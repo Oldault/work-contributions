@@ -948,3 +948,4 @@
 [2026-03-05 11:23:44 +0100] fix(tests): update imageFetcher sharp mocks for raw().toBuffer() API
 [2026-03-05 11:53:11 +0100] Merge remote-tracking branch 'origin/feat/cfnews-integration' into pre-dev
 [2026-03-05 11:53:11 +0100] Merge remote-tracking branch 'origin/feat/company-display-fixes' into pre-dev
+[2026-03-05 11:53:11 +0100] Merge remote-tracking branch 'origin/feat/ui-improvements' into pre-dev
