@@ -958,3 +958,4 @@
 [2026-03-05 12:58:20 +0100] fix(tests): mock websiteNameExtractor in pappersRecherche test
 [2026-03-05 13:08:54 +0100] fix(tests): add cheerio CJS mock for Node 20 Jest compatibility
 [2026-03-05 13:23:48 +0100] fix(search): lazy-load websiteNameExtractor to avoid cheerio ESM parse on Node 20
+[2026-03-05 13:51:32 +0100] fix(tests): exclude pappers.js from coverage to fix istanbul bug on Node 20
