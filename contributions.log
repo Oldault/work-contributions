@@ -972,3 +972,4 @@
 [2026-03-05 15:45:57 +0100] docs: add directory-level CLAUDE.md orientation docs
 [2026-03-05 15:52:13 +0100] refactor(bodacc): replace raw SQL with Drizzle repository
 [2026-03-05 15:52:22 +0100] refactor(search): replace raw SQL with shared Drizzle SearchRepository
+[2026-03-05 15:52:47 +0100] refactor(config): replace raw SQL with domain-specific Drizzle repositories
