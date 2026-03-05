@@ -970,3 +970,4 @@
 [2026-03-05 15:45:54 +0100] docs: add CLAUDE.md to 16 medium-complexity NestJS modules
 [2026-03-05 15:45:55 +0100] docs: add CLAUDE.md to 4 complex NestJS modules with sub-module docs
 [2026-03-05 15:45:57 +0100] docs: add directory-level CLAUDE.md orientation docs
+[2026-03-05 15:52:13 +0100] refactor(bodacc): replace raw SQL with Drizzle repository
