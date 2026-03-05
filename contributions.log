@@ -966,3 +966,4 @@
 [2026-03-05 15:38:59 +0100] docs: add module map and agent boundaries to root CLAUDE.md
 [2026-03-05 15:39:00 +0100] docs: create AGENTS.md with universal agent conventions and patterns
 [2026-03-05 15:40:54 +0100] fix(drizzle): break circular dependency in schema barrel
+[2026-03-05 15:45:44 +0100] docs: add CLAUDE.md to 13 simple NestJS modules
