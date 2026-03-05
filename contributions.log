@@ -961,3 +961,4 @@
 [2026-03-05 13:51:32 +0100] fix(tests): exclude pappers.js from coverage to fix istanbul bug on Node 20
 [2026-03-05 14:58:56 +0100] chore(docs): normalize CLAUDE.md table formatting across modules
 [2026-03-05 15:25:37 +0100] refactor(organizations): replace raw SQL with Drizzle repository
+[2026-03-05 15:25:47 +0100] refactor(contacts): replace raw SQL with Drizzle repository
