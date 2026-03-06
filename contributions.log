@@ -998,3 +998,4 @@
 [2026-03-06 13:14:02 +0100] feat(credits): migrate credit billing from Express middleware to NestJS interceptor
 [2026-03-06 13:15:40 +0100] refactor(services): convert require() to ES6 imports in 77 service files
 [2026-03-06 13:15:52 +0100] chore(docs): update CLAUDE.md files and add migration plan
+[2026-03-06 13:49:31 +0100] refactor(server): replace all database_pg imports with modular db/ imports
