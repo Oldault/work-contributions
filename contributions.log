@@ -992,3 +992,4 @@
 [2026-03-06 11:23:26 +0100] refactor(services): convert remaining 9 top-level + 62 subdirectory services to TypeScript
 [2026-03-06 11:40:49 +0100] refactor(services): eliminate final 7 database_pg references in deep-nested modules
 [2026-03-06 11:57:57 +0100] chore: commit untracked migration infrastructure files
+[2026-03-06 11:58:22 +0100] refactor(server): Phase 3-4 cleanup — delete legacy Express layer
