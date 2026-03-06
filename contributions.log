@@ -986,3 +986,4 @@
 [2026-03-06 08:45:57 +0100] refactor(services): replace database_pg in auth, feedback, and 4 more services
 [2026-03-06 08:57:59 +0100] refactor(services): replace database_pg in 6 more services with Drizzle
 [2026-03-06 09:07:37 +0100] refactor(services): eliminate all database_pg references from NestJS
+[2026-03-06 09:15:42 +0100] refactor(services): convert creditsService, notificationService, langfuseService to TypeScript
