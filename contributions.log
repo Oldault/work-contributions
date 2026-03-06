@@ -982,3 +982,4 @@
 [2026-03-06 08:03:15 +0100] refactor(routes): migrate inline Express routes to NestJS controllers
 [2026-03-06 08:09:55 +0100] feat(nest): rewrite server.js as thin bootstrap, main.ts as standalone entry
 [2026-03-06 08:13:13 +0100] refactor(nest): delete app.js and update docs for standalone main.ts
+[2026-03-06 08:32:10 +0100] refactor(services): wire config and entity repositories into 9 services
