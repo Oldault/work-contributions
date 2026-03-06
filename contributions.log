@@ -994,3 +994,4 @@
 [2026-03-06 11:57:57 +0100] chore: commit untracked migration infrastructure files
 [2026-03-06 11:58:22 +0100] refactor(server): Phase 3-4 cleanup — delete legacy Express layer
 [2026-03-06 12:19:20 +0100] fix(tests): add ts-jest transform to fix 9 failing test suites
+[2026-03-06 12:26:03 +0100] refactor(services): eliminate export= and import= TypeScript syntax
