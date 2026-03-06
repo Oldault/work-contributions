@@ -988,3 +988,4 @@
 [2026-03-06 09:07:37 +0100] refactor(services): eliminate all database_pg references from NestJS
 [2026-03-06 09:15:42 +0100] refactor(services): convert creditsService, notificationService, langfuseService to TypeScript
 [2026-03-06 09:24:57 +0100] refactor(services): convert 7 API/NLP services to TypeScript
+[2026-03-06 09:35:28 +0100] refactor(services): convert 29 more services to TypeScript
