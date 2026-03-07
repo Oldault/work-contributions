@@ -1005,3 +1005,4 @@
 [2026-03-07 12:45:00 +0100] test(one-pager): add tests for block renderers, buffer store, and progress events
 [2026-03-07 13:00:00 +0100] docs(one-pager): add CLAUDE.md for OnePager test suite
 [2026-03-07 14:30:00 +0100] refactor(db): delete database_pg.js monolith (165KB) — replaced by Drizzle repositories
+[2026-03-07 15:00:00 +0100] refactor(db): delete 7 legacy db/ modules — migrated to NestJS repositories
