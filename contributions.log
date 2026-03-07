@@ -1003,3 +1003,4 @@
 [2026-03-07 11:40:00 +0100] test(one-pager): add tests for schema validation, prompt builder, and data assembler
 [2026-03-07 12:15:00 +0100] test(one-pager): add tests for sandbox execution, image fetcher, and visual QA
 [2026-03-07 12:45:00 +0100] test(one-pager): add tests for block renderers, buffer store, and progress events
+[2026-03-07 13:00:00 +0100] docs(one-pager): add CLAUDE.md for OnePager test suite
