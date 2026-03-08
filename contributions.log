@@ -1009,3 +1009,4 @@
 [2026-03-07 15:30:00 +0100] refactor(services): delete legacy creditsService and notificationService — moved to NestJS
 [2026-03-07 15:50:00 +0100] refactor(services): delete fund-intelligence storageService — replaced by repository pattern
 [2026-03-08 10:00:00 +0100] refactor(nest): update bootstrap, roles guard, and credit interceptor for standalone mode
+[2026-03-08 10:30:00 +0100] refactor(nest/admin): add expenses repository and update admin services
