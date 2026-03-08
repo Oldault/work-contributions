@@ -1011,3 +1011,4 @@
 [2026-03-08 10:00:00 +0100] refactor(nest): update bootstrap, roles guard, and credit interceptor for standalone mode
 [2026-03-08 10:30:00 +0100] refactor(nest/admin): add expenses repository and update admin services
 [2026-03-08 10:50:00 +0100] refactor(nest/bodacc): update service for Drizzle repository injection
+[2026-03-08 11:15:00 +0100] refactor(nest/cfnews): update config, funds, and watchlists services
