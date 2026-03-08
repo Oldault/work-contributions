@@ -1021,3 +1021,4 @@
 [2026-03-08 14:45:00 +0100] refactor(nest/final-listings): update module and service wiring
 [2026-03-08 15:00:00 +0100] refactor(nest/financial-deepsearch): update module and service
 [2026-03-08 15:20:00 +0100] refactor(nest/fund-intelligence): update repository and service
+[2026-03-08 15:40:00 +0100] refactor(nest): update global RAG controller and home service
