@@ -1019,3 +1019,4 @@
 [2026-03-08 14:00:00 +0100] refactor(nest/deepsearch): update module and service for new dependency graph
 [2026-03-08 14:20:00 +0100] refactor(nest/domain-resolution): update module, repository, and service
 [2026-03-08 14:45:00 +0100] refactor(nest/final-listings): update module and service wiring
+[2026-03-08 15:00:00 +0100] refactor(nest/financial-deepsearch): update module and service
