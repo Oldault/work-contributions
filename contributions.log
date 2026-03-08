@@ -1016,3 +1016,4 @@
 [2026-03-08 12:15:00 +0100] refactor(nest/credits): update controller, repository, and service after migration
 [2026-03-08 13:00:00 +0100] refactor(nest/daily-news): update config, deals, and pipeline repositories
 [2026-03-08 13:20:00 +0100] refactor(nest/daily-news): update pipeline and main daily-news services
+[2026-03-08 14:00:00 +0100] refactor(nest/deepsearch): update module and service for new dependency graph
