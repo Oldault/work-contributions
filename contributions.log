@@ -1014,3 +1014,4 @@
 [2026-03-08 11:15:00 +0100] refactor(nest/cfnews): update config, funds, and watchlists services
 [2026-03-08 11:45:00 +0100] refactor(nest/contacts): update module, repository, and service for Drizzle
 [2026-03-08 12:15:00 +0100] refactor(nest/credits): update controller, repository, and service after migration
+[2026-03-08 13:00:00 +0100] refactor(nest/daily-news): update config, deals, and pipeline repositories
