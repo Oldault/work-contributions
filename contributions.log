@@ -1030,3 +1030,4 @@
 [2026-03-08 17:20:00 +0100] refactor(nest/pappers): update module and pappers-company/config services
 [2026-03-08 17:35:00 +0100] refactor(nest/pappers): update documents and search sub-modules
 [2026-03-08 17:50:00 +0100] refactor(nest): update organizations and users services
+[2026-03-08 17:55:00 +0100] docs: update CLAUDE.md for drizzle, auth, companies, daily-news, users, and shared types
