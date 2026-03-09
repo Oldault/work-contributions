@@ -1061,3 +1061,4 @@
 [2026-03-09 10:30:05 +0100] fix(tests): fix onePager test mocking for post-migration module loading
 [2026-03-09 10:56:07 +0100] docs: add migration status matrix for agent navigation
 [2026-03-09 10:56:16 +0100] docs: add Drizzle query pattern examples for agent reference
+[2026-03-09 10:56:24 +0100] docs: add module dependency graph for agent blast-radius awareness
