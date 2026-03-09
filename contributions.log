@@ -1868,3 +1868,4 @@
 [2026-03-09T11:17:39+01:00] types(cache): add return type annotations to cache repository methods
 [2026-03-09T11:18:43+01:00] docs: update migration status with type safety column
 [2026-03-09T11:19:06+01:00] docs: add agentic improvements plan and update module docs
+[2026-03-09T13:58:09+01:00] refactor: update Makefile and deployment scripts for staging environment
