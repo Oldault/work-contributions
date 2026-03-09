@@ -1049,3 +1049,4 @@
 [2026-03-09 11:30:00 +0100] fix(jobs): update notification purge job for NestJS service injection
 [2026-03-09 11:40:00 +0100] fix(tests): update test connection and external service test for new module structure
 [2026-03-09 11:50:00 +0100] chore(deps): add pptxgenjs, sharp, acorn dependencies for OnePager service
+[2026-03-09 12:00:00 +0100] docs: update CLAUDE.md for plans, server root, drizzle, jobs, middleware, and scripts
