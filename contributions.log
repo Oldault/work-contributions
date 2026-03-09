@@ -1038,3 +1038,4 @@
 [2026-03-09 10:09:31 +0100] chore(docs): update CLAUDE.md files and add database migration plan
 [2026-03-09 10:10:00 +0100] refactor(services/fund-intelligence): add types module, update index and resolver
 [2026-03-09 10:10:14 +0100] index on pre-dev: bd66820 chore(docs): update CLAUDE.md files and add database migration plan
+[2026-03-09 10:10:14 +0100] WIP on pre-dev: bd66820 chore(docs): update CLAUDE.md files and add database migration plan
