@@ -1860,3 +1860,4 @@
 [2026-03-07T10:20:00+01:00] feat(one-pager): add sandboxed execution, PPTX-to-image converter, and image fetcher
 [2026-03-07T10:50:00+01:00] feat(one-pager): add data assembler and visual QA verification pipeline
 [2026-03-09T10:09:31+01:00] chore(docs): update CLAUDE.md files and add database migration plan
+[2026-03-09T10:10:14+01:00] index on pre-dev: bd66820 chore(docs): update CLAUDE.md files and add database migration plan
