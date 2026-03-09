@@ -1051,3 +1051,4 @@
 [2026-03-09 11:50:00 +0100] chore(deps): add pptxgenjs, sharp, acorn dependencies for OnePager service
 [2026-03-09 12:00:00 +0100] docs: update CLAUDE.md for plans, server root, drizzle, jobs, middleware, and scripts
 [2026-03-09 12:05:00 +0100] docs: update CLAUDE.md for services, daily-news, and external tests
+[2026-03-09 12:10:00 +0100] docs: update CLAUDE.md for NestJS core — decorators, guards, interceptors
