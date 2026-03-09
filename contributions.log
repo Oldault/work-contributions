@@ -1065,3 +1065,4 @@
 [2026-03-09 11:02:07 +0100] feat(common): add getErrorMessage utility for type-safe error handling
 [2026-03-09 11:04:08 +0100] refactor: replace catch (error: any) with catch (error: unknown) across NestJS modules
 [2026-03-09 11:06:03 +0100] docs: add type safety guidelines to AGENTS.md
+[2026-03-09 11:06:44 +0100] refactor(common): add barrel export for utils
