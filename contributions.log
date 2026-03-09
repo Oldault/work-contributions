@@ -1067,3 +1067,4 @@
 [2026-03-09 11:06:03 +0100] docs: add type safety guidelines to AGENTS.md
 [2026-03-09 11:06:44 +0100] refactor(common): add barrel export for utils
 [2026-03-09 11:10:08 +0100] types(companies): replace Record<string, any> with typed interfaces
+[2026-03-09 11:10:15 +0100] types(deals): replace Record<string, any> with typed interfaces
