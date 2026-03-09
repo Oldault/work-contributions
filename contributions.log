@@ -1864,3 +1864,4 @@
 [2026-03-09T10:10:14+01:00] WIP on pre-dev: bd66820 chore(docs): update CLAUDE.md files and add database migration plan
 [2026-03-09T11:11:28+01:00] refactor(common): add barrel export for repositories
 [2026-03-09T11:17:34+01:00] types(companies): add return type annotations to repository methods
+[2026-03-09T11:17:35+01:00] types(final-listings): add return type annotations to repository methods
