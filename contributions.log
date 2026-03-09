@@ -1874,3 +1874,4 @@
 [2026-03-09T17:12:04+01:00] fix(docker): upgrade Traefik to latest (3.6.10) for Docker Engine 29 compatibility
 [2026-03-09T17:15:23+01:00] fix(docker): remove dokploy-network from staging to avoid Traefik label conflicts
 [2026-03-09T17:18:00+01:00] fix(docker): explicitly bind Traefik routers to service to resolve ambiguity
+[2026-03-09T18:23:21+01:00] fix(docker): pass Dokploy env vars to backend via env_file
