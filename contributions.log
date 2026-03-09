@@ -1032,3 +1032,4 @@
 [2026-03-08 17:50:00 +0100] refactor(nest): update organizations and users services
 [2026-03-08 17:55:00 +0100] docs: update CLAUDE.md for drizzle, auth, companies, daily-news, users, and shared types
 [2026-03-09 09:00:00 +0100] refactor(services/daily-news): update article, checkpoint, config, and dedup services
+[2026-03-09 09:20:00 +0100] refactor(services/daily-news): update experiment, historical dedup, logger, and mailing cron
