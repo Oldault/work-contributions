@@ -1041,3 +1041,4 @@
 [2026-03-09 10:10:14 +0100] WIP on pre-dev: bd66820 chore(docs): update CLAUDE.md files and add database migration plan
 [2026-03-09 10:09:31 +0100] chore(docs): update CLAUDE.md files and add database migration plan
 [2026-03-09 10:20:00 +0100] refactor(services/linkedin-discovery): update index for NestJS patterns
+[2026-03-09 10:35:00 +0100] refactor(services/newsletter): update HTML generator, listmonk, notification, and selection
