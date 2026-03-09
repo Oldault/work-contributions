@@ -1866,3 +1866,4 @@
 [2026-03-09T11:17:34+01:00] types(companies): add return type annotations to repository methods
 [2026-03-09T11:17:35+01:00] types(final-listings): add return type annotations to repository methods
 [2026-03-09T11:17:39+01:00] types(cache): add return type annotations to cache repository methods
+[2026-03-09T11:18:43+01:00] docs: update migration status with type safety column
