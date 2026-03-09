@@ -1069,3 +1069,4 @@
 [2026-03-09 11:10:08 +0100] types(companies): replace Record<string, any> with typed interfaces
 [2026-03-09 11:10:15 +0100] types(deals): replace Record<string, any> with typed interfaces
 [2026-03-09 11:10:30 +0100] types(final-listings): replace Record<string, any> with typed interfaces
+[2026-03-09 11:10:34 +0100] types(contacts): replace Record<string, any> with typed interfaces
