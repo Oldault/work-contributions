@@ -1034,3 +1034,4 @@
 [2026-03-09 09:00:00 +0100] refactor(services/daily-news): update article, checkpoint, config, and dedup services
 [2026-03-09 09:20:00 +0100] refactor(services/daily-news): update experiment, historical dedup, logger, and mailing cron
 [2026-03-09 09:40:00 +0100] refactor(services/daily-news): update prompt, quality, schedule, storage, and website resolution
+[2026-03-09 09:55:00 +0100] refactor(services/domain-resolution): update index, rate limiter, and discovery/ranking
