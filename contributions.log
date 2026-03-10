@@ -1091,3 +1091,4 @@
 [2026-03-10 10:41:25 +0100] feat: fix listing and add re-enrich from listing (cherry-pick from putback_listing)
 [2026-03-10 10:47:24 +0100] feat: port putback_listing backend changes to NestJS architecture
 [2026-03-10 11:43:13 +0100] chore: standardize on pnpm, remove npm lockfiles
+[2026-03-10 11:49:02 +0100] fix: switch server Dockerfile to node:20-slim + pnpm
