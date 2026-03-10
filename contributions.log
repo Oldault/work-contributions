@@ -1110,3 +1110,4 @@
 [2026-03-10 15:40:14 +0100] refactor(server): replace legacy JS entry points with NestJS TypeScript
 [2026-03-10 16:42:14 +0100] docker(server): overhaul server Dockerfile to multi-stage build
 [2026-03-10 16:42:47 +0100] docker(frontend): replace serve-based image with multi-stage nginx build
+[2026-03-10 16:43:23 +0100] docker(compose): update dev and prod compose for NestJS dist and nginx
