@@ -1104,3 +1104,4 @@
 [2026-03-10 14:58:35 +0100] docs(claude): add CLAUDE.md context files across codebase
 [2026-03-10 13:50:26 +0100] docs(plans): add project design and migration plan documents
 [2026-03-10 15:18:57 +0100] refactor(server): migrate onePager service from JS to TypeScript
+[2026-03-10 15:35:29 +0100] refactor(scripts): migrate server scripts from JS to TypeScript
