@@ -1087,3 +1087,4 @@
 [2026-03-09 11:17:39 +0100] types(cache): add return type annotations to cache repository methods
 [2026-03-09 11:18:43 +0100] docs: update migration status with type safety column
 [2026-03-09 11:19:06 +0100] docs: add agentic improvements plan and update module docs
+[2026-03-10 10:40:59 +0100] feat: show listings and worklists (cherry-pick from putback_listing)
