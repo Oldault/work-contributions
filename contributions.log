@@ -1095,3 +1095,4 @@
 [2026-03-10 11:56:09 +0100] fix: switch frontend Dockerfiles to node:20-slim + pnpm
 [2026-03-10 11:57:41 +0100] chore: update docker-compose commands to pnpm
 [2026-03-10 11:58:15 +0100] chore: update Makefile test commands to pnpm
+[2026-03-10 11:59:01 +0100] chore: update CI workflow from npm to pnpm
