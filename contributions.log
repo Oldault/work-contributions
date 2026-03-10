@@ -1112,3 +1112,4 @@
 [2026-03-10 16:42:47 +0100] docker(frontend): replace serve-based image with multi-stage nginx build
 [2026-03-10 16:43:23 +0100] docker(compose): update dev and prod compose for NestJS dist and nginx
 [2026-03-10 17:41:38 +0100] docker(compose): fix local dev compose with build targets and healthchecks
+[2026-03-10 17:39:13 +0100] chore(deps): add @dnd-kit/utilities package
