@@ -1107,3 +1107,4 @@
 [2026-03-10 15:35:29 +0100] refactor(scripts): migrate server scripts from JS to TypeScript
 [2026-03-10 15:24:38 +0100] feat(ia): add TypeScript IA deep search and analysis services
 [2026-03-10 15:37:01 +0100] build(server): add SWC compiler config and update TypeScript build scripts
+[2026-03-10 15:40:14 +0100] refactor(server): replace legacy JS entry points with NestJS TypeScript
