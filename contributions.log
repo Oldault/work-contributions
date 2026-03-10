@@ -1093,3 +1093,4 @@
 [2026-03-10 11:43:13 +0100] chore: standardize on pnpm, remove npm lockfiles
 [2026-03-10 11:49:02 +0100] fix: switch server Dockerfile to node:20-slim + pnpm
 [2026-03-10 11:56:09 +0100] fix: switch frontend Dockerfiles to node:20-slim + pnpm
+[2026-03-10 11:57:41 +0100] chore: update docker-compose commands to pnpm
