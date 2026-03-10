@@ -1098,3 +1098,4 @@
 [2026-03-10 11:59:01 +0100] chore: update CI workflow from npm to pnpm
 [2026-03-10 12:00:20 +0100] chore: update start.sh to use pnpm
 [2026-03-10 12:50:09 +0100] fix: resolve Docker build issues with pnpm native deps
+[2026-03-10 14:01:33 +0100] feat: upgrade to React 19 and Tailwind CSS 4
