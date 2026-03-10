@@ -1100,3 +1100,4 @@
 [2026-03-10 12:50:09 +0100] fix: resolve Docker build issues with pnpm native deps
 [2026-03-10 14:01:33 +0100] feat: upgrade to React 19 and Tailwind CSS 4
 [2026-03-10 13:50:26 +0100] chore(env): add .nvmrc pinning Node.js 20
+[2026-03-10 13:50:26 +0100] test(e2e): add putback listing features spec
