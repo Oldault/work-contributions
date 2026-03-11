@@ -1118,3 +1118,4 @@
 [2026-03-11 09:59:35 +0100] style(server/drizzle): apply Biome formatter to Drizzle ORM schema
 [2026-03-11 09:59:35 +0100] style(server/nest-core): apply Biome formatter to NestJS core infrastructure
 [2026-03-11 09:59:35 +0100] style(server/nest-modules): apply Biome formatter to NestJS feature modules
+[2026-03-11 09:59:35 +0100] style(server): apply Biome formatter to DB layer, middleware, and config
