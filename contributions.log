@@ -1130,3 +1130,4 @@
 [2026-03-11 10:32:00 +0100] style(server/services): apply Biome formatter to core AI and analysis services
 [2026-03-11 10:32:00 +0100] style(server/services): apply Biome formatter to daily-news service pipeline
 [2026-03-11 10:32:00 +0100] style(server/services): apply Biome formatter to domain, fund, and vertical services
+[2026-03-11 10:32:00 +0100] style(server/tests): apply Biome formatter to server test files
