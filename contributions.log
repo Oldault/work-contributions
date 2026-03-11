@@ -1160,3 +1160,4 @@
 [2026-03-11 16:10:06 +0100] chore(biome): disable useImportType rule
 [2026-03-11 17:04:22 +0100] style(server): apply Biome import-type fixes across all NestJS modules
 [2026-03-11 17:07:57 +0100] style(server): apply Biome import-type fixes to common guards and interceptors
+[2026-03-11 17:15:59 +0100] docs(surveillance): update CLAUDE.md for surveillance frontend component
