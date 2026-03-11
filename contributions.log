@@ -1125,3 +1125,4 @@
 [2026-03-11 10:15:00 +0100] style(server/nest-modules): apply Biome formatter to remaining module controllers
 [2026-03-11 10:12:00 +0100] style(server/services): apply Biome formatter to TypeScript server service layer
 [2026-03-11 10:22:00 +0100] docs(claude-mem): update CLAUDE.md activity logs across modules
+[2026-03-11 10:25:00 +0100] style(server/nest-modules): apply Biome formatter to final batch of NestJS controllers
