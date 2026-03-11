@@ -1161,3 +1161,4 @@
 [2026-03-11 17:04:22 +0100] style(server): apply Biome import-type fixes across all NestJS modules
 [2026-03-11 17:07:57 +0100] style(server): apply Biome import-type fixes to common guards and interceptors
 [2026-03-11 17:15:59 +0100] docs(surveillance): update CLAUDE.md for surveillance frontend component
+[2026-03-11 18:11:31 +0100] docs: update CLAUDE.md files across modules, services, and tests
