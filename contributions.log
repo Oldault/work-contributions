@@ -1114,3 +1114,4 @@
 [2026-03-10 17:41:38 +0100] docker(compose): fix local dev compose with build targets and healthchecks
 [2026-03-10 17:39:13 +0100] chore(deps): add @dnd-kit/utilities package
 [2026-03-10 15:30:09 +0100] docs(claude): update CLAUDE.md files in server test directories
+[2026-03-11 09:59:27 +0100] style(server/ia): apply Biome formatter to IA analysis services and tests
