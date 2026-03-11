@@ -1157,3 +1157,4 @@
 [2026-03-11 15:59:18 +0100] docs(drizzle): update drizzle CLAUDE.md
 [2026-03-11 16:04:09 +0100] docs(modules): update CLAUDE.md for core CRM modules
 [2026-03-11 16:08:57 +0100] docs(modules): update CLAUDE.md for integration and infra modules
+[2026-03-11 16:10:06 +0100] chore(biome): disable useImportType rule
