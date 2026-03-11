@@ -1116,3 +1116,4 @@
 [2026-03-10 15:30:09 +0100] docs(claude): update CLAUDE.md files in server test directories
 [2026-03-11 09:59:27 +0100] style(server/ia): apply Biome formatter to IA analysis services and tests
 [2026-03-11 09:59:35 +0100] style(server/drizzle): apply Biome formatter to Drizzle ORM schema
+[2026-03-11 09:59:35 +0100] style(server/nest-core): apply Biome formatter to NestJS core infrastructure
