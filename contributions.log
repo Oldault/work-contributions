@@ -1892,3 +1892,4 @@
 [2026-03-13T11:37:21+01:00] fix(docker): make husky prepare script non-fatal in prod
 [2026-03-13T11:50:23+01:00] fix(icons): add missing backslash to unicode escapes in fontawesome.css
 [2026-03-13T12:02:23+01:00] fix(settings): guard credits_per_month against undefined in plans map
+[2026-03-13T12:33:50+01:00] fix(settings): reload users when selected organization changes
