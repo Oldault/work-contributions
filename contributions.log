@@ -1164,3 +1164,4 @@
 [2026-03-11 18:11:31 +0100] docs: update CLAUDE.md files across modules, services, and tests
 [2026-03-11 18:11:40 +0100] fix(frontend): regenerate FontAwesome CSS to fix icon hex code display
 [2026-03-11 18:11:49 +0100] style(frontend): apply Biome import-type and formatting fixes to frontend components
+[2026-03-13 14:03:16 +0100] index on new-stack: 8d363cde style(frontend): apply Biome import-type and formatting fixes to frontend components
