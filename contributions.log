@@ -1896,3 +1896,4 @@
 [2026-03-13T13:58:38+01:00] fix(db): add missing credits columns to cfnews_config and infogreffe_config
 [2026-03-13T14:00:00+01:00] feat(migrations): add SQL migration for CRM tables
 [2026-03-13T14:04:47+01:00] fix(financial-deepsearch): replace query() with adapter lock methods
+[2026-03-13T14:40:32+01:00] fix(cfnews): add portfolio_type column to cfnews_fund_portfolio_cache
