@@ -1899,3 +1899,4 @@
 [2026-03-13T14:40:32+01:00] fix(cfnews): add portfolio_type column to cfnews_fund_portfolio_cache
 [2026-03-13T14:59:53+01:00] fix(daily-news): remove module.exports from ES module client files
 [2026-03-13T15:19:33+01:00] chore(server): remove legacy .js files superseded by .ts migration
+[2026-03-13T15:31:44+01:00] fix(dailynews): break circular dependency between DealRow and DealRowExpanded
