@@ -1890,3 +1890,4 @@
 [2026-03-13T11:30:00+01:00] feat(schema): add CRM Drizzle schema with contacts, emails, and agenda tables
 [2026-03-13T11:34:38+01:00] fix(docker): compile sharp native bindings in production stage
 [2026-03-13T11:37:21+01:00] fix(docker): make husky prepare script non-fatal in prod
+[2026-03-13T11:50:23+01:00] fix(icons): add missing backslash to unicode escapes in fontawesome.css
