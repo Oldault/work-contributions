@@ -1901,3 +1901,4 @@
 [2026-03-13T15:19:33+01:00] chore(server): remove legacy .js files superseded by .ts migration
 [2026-03-13T15:31:44+01:00] fix(dailynews): break circular dependency between DealRow and DealRowExpanded
 [2026-03-13T15:38:03+01:00] refactor(MonAbonnement): optimize data loading with useCallback for better performance
+[2026-03-13T15:55:11+01:00] feat(cfnews): implement cache expiration logic and enhance actor search query
