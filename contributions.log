@@ -1888,3 +1888,4 @@
 [2026-03-13T11:08:55+01:00] fix(docker): fix staging backend build context to project root
 [2026-03-13T11:13:21+01:00] fix(docker): copy server/codes_mapping into frontend build stage
 [2026-03-13T11:30:00+01:00] feat(schema): add CRM Drizzle schema with contacts, emails, and agenda tables
+[2026-03-13T11:34:38+01:00] fix(docker): compile sharp native bindings in production stage
