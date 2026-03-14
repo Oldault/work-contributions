@@ -1172,3 +1172,4 @@
 [2026-03-14T09:30:00+01:00] feat(crm-emails): add email accounts and email sending modules
 [2026-03-14T11:15:00+01:00] feat(crm-agenda): add agenda module and register CRM in app
 [2026-03-14T14:30:00+01:00] feat(frontend): add CRM API services and Zustand store
+[2026-03-14T17:00:00+01:00] feat(frontend): add CRM UI components
