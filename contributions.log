@@ -1169,3 +1169,4 @@
 [2026-03-13T14:03:16+01:00] index on new-stack: 8d363cde style(frontend): apply Biome import-type and formatting fixes to frontend components
 [2026-03-13T14:03:16+01:00] WIP on new-stack: 8d363cde style(frontend): apply Biome import-type and formatting fixes to frontend components
 [2026-03-13T16:45:00+01:00] feat(crm-contacts): add contacts module with CRUD and search
+[2026-03-14T09:30:00+01:00] feat(crm-emails): add email accounts and email sending modules
