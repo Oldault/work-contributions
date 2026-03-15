@@ -1933,3 +1933,4 @@
 [2026-03-18T15:09:56+01:00] fix(fonds): extract fund name from nested actor structure (.actor.name)
 [2026-03-18T15:24:17+01:00] fix: rename "bénéficiaire effectif" → "Prospect" + reorganize fonds synthèse layout
 [2026-03-18T15:31:22+01:00] fix(company): protect against object-as-child React errors
+[2026-03-15T19:59:13+01:00] feat(types): add EnrichedEmail interface for multi-email support
