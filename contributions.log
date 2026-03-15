@@ -1935,3 +1935,4 @@
 [2026-03-18T15:31:22+01:00] fix(company): protect against object-as-child React errors
 [2026-03-15T19:59:13+01:00] feat(types): add EnrichedEmail interface for multi-email support
 [2026-03-15T19:59:26+01:00] feat(backend): collect all emails from FullEnrich with type and status
+[2026-03-15T19:59:46+01:00] feat(frontend): display multiple enriched emails with type badges
