@@ -1174,3 +1174,4 @@
 [2026-03-14T14:30:00+01:00] feat(frontend): add CRM API services and Zustand store
 [2026-03-14T17:00:00+01:00] feat(frontend): add CRM UI components
 [2026-03-15T10:00:00+01:00] feat(frontend): add CRM page views
+[2026-03-15T11:30:00+01:00] feat(frontend): add CRM routing and view access configuration
