@@ -1183,3 +1183,4 @@
 [2026-03-15T19:59:46+01:00] feat(frontend): display multiple enriched emails with type badges
 [2026-03-15T19:59:54+01:00] feat(frontend): propagate emails array through contact enrichment flow
 [2026-03-15T20:00:08+01:00] fix(frontend): resolve React hooks exhaustive-deps warnings
+[2026-03-15T20:00:13+01:00] fix(frontend): wrap updateDropdownPosition in useCallback
