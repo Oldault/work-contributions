@@ -1939,3 +1939,4 @@
 [2026-03-15T19:59:54+01:00] feat(frontend): propagate emails array through contact enrichment flow
 [2026-03-18T15:35:15+01:00] fix(synthese): use unique key for allSourceFinancials map (year+index)
 [2026-03-15T20:00:08+01:00] fix(frontend): resolve React hooks exhaustive-deps warnings
+[2026-03-15T20:00:19+01:00] test(e2e): add FullEnrich contact enrichment test suite
