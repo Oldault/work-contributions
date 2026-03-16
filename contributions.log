@@ -1199,3 +1199,4 @@
 [2026-03-16T18:18:24+01:00] feat(crm): add CRMHome dashboard page, CRMOAuthCallback popup page, update routing
 [2026-03-16T15:11:36+01:00] docs(crm): add plan for save-contact-from-recherche feature
 [2026-03-16T16:04:27+01:00] fix(financial-deepsearch): remove cfnews.net from PAYWALLED_DOMAINS
+[2026-03-16T18:40:30+01:00] feat(financial-deepsearch): fetch cfnews.net URLs via API instead of Firecrawl
