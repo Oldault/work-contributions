@@ -1192,3 +1192,4 @@
 [2026-03-16T15:24:39+01:00] feat(crm-contacts): add duplicate detection endpoint
 [2026-03-16T15:48:58+01:00] chore(config): add Google and Microsoft OAuth2 environment variables
 [2026-03-16T18:17:15+01:00] feat(crm-email-accounts): implement OAuth2 token exchange, refresh, and transport
+[2026-03-16T15:14:22+01:00] feat(crm): add CRMLayout shell and migrate all CRM pages to use it
