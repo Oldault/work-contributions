@@ -1197,3 +1197,4 @@
 [2026-03-16T16:03:53+01:00] feat(crm): add SaveToCRMModal and "Ajouter au CRM" button in contact enrichment
 [2026-03-16T16:03:53+01:00] feat(beneficiaire): wire SaveToCRMModal into BeneficiaireDetail
 [2026-03-16T18:18:24+01:00] feat(crm): add CRMHome dashboard page, CRMOAuthCallback popup page, update routing
+[2026-03-16T15:11:36+01:00] docs(crm): add plan for save-contact-from-recherche feature
