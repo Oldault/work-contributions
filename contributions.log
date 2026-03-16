@@ -1196,3 +1196,4 @@
 [2026-03-16T18:17:54+01:00] feat(crm-email-accounts): add OAuth2 flow to EmailAccountSetup UI
 [2026-03-16T16:03:53+01:00] feat(crm): add SaveToCRMModal and "Ajouter au CRM" button in contact enrichment
 [2026-03-16T16:03:53+01:00] feat(beneficiaire): wire SaveToCRMModal into BeneficiaireDetail
+[2026-03-16T18:18:24+01:00] feat(crm): add CRMHome dashboard page, CRMOAuthCallback popup page, update routing
