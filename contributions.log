@@ -1187,3 +1187,4 @@
 [2026-03-15T20:00:19+01:00] test(e2e): add FullEnrich contact enrichment test suite
 [2026-03-15T20:00:24+01:00] docs: update CLAUDE.md activity logs for contacts and types modules
 [2026-03-16T14:05:50+01:00] chore(docker): add SELinux :z labels to volume mounts
+[2026-03-16T14:24:27+01:00] chore(crm): remove CRM entry from FiltersSidebar nav, add /crm route config
