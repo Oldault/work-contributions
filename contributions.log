@@ -1940,3 +1940,4 @@
 [2026-03-18T15:35:15+01:00] fix(synthese): use unique key for allSourceFinancials map (year+index)
 [2026-03-15T20:00:08+01:00] fix(frontend): resolve React hooks exhaustive-deps warnings
 [2026-03-15T20:00:19+01:00] test(e2e): add FullEnrich contact enrichment test suite
+[2026-03-16T14:05:50+01:00] chore(docker): add SELinux :z labels to volume mounts
