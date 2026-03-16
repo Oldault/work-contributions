@@ -1188,3 +1188,4 @@
 [2026-03-15T20:00:24+01:00] docs: update CLAUDE.md activity logs for contacts and types modules
 [2026-03-16T14:05:50+01:00] chore(docker): add SELinux :z labels to volume mounts
 [2026-03-16T14:24:27+01:00] chore(crm): remove CRM entry from FiltersSidebar nav, add /crm route config
+[2026-03-16T15:15:09+01:00] feat(crm-email-accounts): add OAuth2 support for Gmail and Outlook
