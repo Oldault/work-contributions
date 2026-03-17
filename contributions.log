@@ -1201,3 +1201,4 @@
 [2026-03-16T16:04:27+01:00] fix(financial-deepsearch): remove cfnews.net from PAYWALLED_DOMAINS
 [2026-03-16T18:40:30+01:00] feat(financial-deepsearch): fetch cfnews.net URLs via API instead of Firecrawl
 [2026-03-17T10:38:30+01:00] fix(deps): add missing @testing-library/dom peer dependency
+[2026-03-17T13:49:17+01:00] chore(config): add centralized AI model identifiers
