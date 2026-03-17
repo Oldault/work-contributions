@@ -1206,3 +1206,4 @@
 [2026-03-17T17:57:12+01:00] refactor(ai): migrate NLP and analysis services from OpenAI to Gemini
 [2026-03-18T11:37:48+01:00] refactor(ai): adopt aiModels constants across all AI services
 [2026-03-17T17:39:08+01:00] refactor(deepsearch): use shared utils in search provider services
+[2026-03-17T17:39:20+01:00] feat(deepsearch): add Gemini prompt caching and enhanced extraction pipeline
