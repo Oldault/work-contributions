@@ -1902,3 +1902,4 @@
 [2026-03-13T15:31:44+01:00] fix(dailynews): break circular dependency between DealRow and DealRowExpanded
 [2026-03-13T15:38:03+01:00] refactor(MonAbonnement): optimize data loading with useCallback for better performance
 [2026-03-13T15:55:11+01:00] feat(cfnews): implement cache expiration logic and enhance actor search query
+[2026-03-17T13:20:31+01:00] fix(suivi-fonds): correct column config persistence, animation saccades, and workflow 500 errors
