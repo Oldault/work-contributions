@@ -1961,3 +1961,4 @@
 [2026-03-18T16:36:45+01:00] feat(contrepartie): Fix 6 backend — DB cache per org + cached endpoints
 [2026-03-18T16:47:17+01:00] feat(contrepartie): Fix 6 — auto-load + cache-first + remove search cache
 [2026-03-18T16:50:32+01:00] fix(contrepartie): prevent infinite loop in tab components
+[2026-03-18T16:54:33+01:00] fix(contrepartie): remove demo mode from all tab components
