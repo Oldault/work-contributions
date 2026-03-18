@@ -1968,3 +1968,4 @@
 [2026-03-18T17:17:46+01:00] fix(contrepartie): hide empty dates in synthèse activity
 [2026-03-18T17:21:41+01:00] fix(contrepartie): synthèse uses topOperations from Operations tab
 [2026-03-18T17:23:53+01:00] fix(contrepartie): load operations at parent level for synthèse
+[2026-03-18T17:24:45+01:00] fix(contrepartie): handle both entreprise and companyName field names
