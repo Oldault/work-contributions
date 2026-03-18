@@ -1942,3 +1942,4 @@
 [2026-03-15T20:00:19+01:00] test(e2e): add FullEnrich contact enrichment test suite
 [2026-03-16T14:05:50+01:00] chore(docker): add SELinux :z labels to volume mounts
 [2026-03-17T10:38:30+01:00] fix(deps): add missing @testing-library/dom peer dependency
+[2026-03-18T15:38:59+01:00] fix(listings): store 'prospect' instead of 'beneficiaire_effectif' in DB
