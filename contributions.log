@@ -1930,3 +1930,4 @@
 [2026-03-18T14:54:48+01:00] fix(fonds): use getActorRecommendedOperations for fund recent activity
 [2026-03-18T14:59:30+01:00] fix(fonds): use portfolio page 1 for recent activity (not search by name)
 [2026-03-18T15:02:21+01:00] fix(fonds): use /operation endpoint with fund name for recent activity
+[2026-03-18T15:09:56+01:00] fix(fonds): extract fund name from nested actor structure (.actor.name)
