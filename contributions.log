@@ -1910,3 +1910,4 @@
 [2026-03-18T10:01:06+01:00] fix(beneficiaire): remove auto-load of financial data
 [2026-03-18T10:08:29+01:00] fix(beneficiaire): show only companies in N2 cartography, no persons
 [2026-03-18T10:14:22+01:00] fix(valuation): prevent 500 crash on null toFixed in valuation endpoint
+[2026-03-18T10:23:35+01:00] fix(valuation): call PartialValuationService.getSectorFromNAF directly
