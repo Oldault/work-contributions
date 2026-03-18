@@ -1966,3 +1966,4 @@
 [2026-03-18T17:08:08+01:00] fix(contrepartie): fix operations not loading + extract date from name
 [2026-03-18T17:10:57+01:00] fix(contrepartie): handle French date strings in formatDate
 [2026-03-18T17:17:46+01:00] fix(contrepartie): hide empty dates in synthèse activity
+[2026-03-18T17:21:41+01:00] fix(contrepartie): synthèse uses topOperations from Operations tab
