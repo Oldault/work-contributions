@@ -1926,3 +1926,4 @@
 [2026-03-18T12:53:20+01:00] feat(fonds): T5 — custom columns + edit history preservation on refresh
 [2026-03-18T12:57:34+01:00] feat(fonds): T2f+T9 — auto-load all data on mount with cache-first
 [2026-03-18T14:41:55+01:00] fix(fonds): 3 UI fixes — empty state, missing data logging, cell click navigation
+[2026-03-18T14:48:57+01:00] fix(fonds): actor details cache-first with completeness check + don't cache empty activity
