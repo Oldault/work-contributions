@@ -1973,3 +1973,4 @@
 [2026-03-18T17:32:11+01:00] fix(contrepartie): operations tab uses parent data, no double-load
 [2026-03-18T17:59:24+01:00] fix(contrepartie): single API call for operations, shared with synthèse
 [2026-03-18T18:00:15+01:00] wip(contrepartie): pending fixes for operations display
+[2026-03-18T18:01:56+01:00] fix(contrepartie): operations clickable → navigate to /operation/:id
