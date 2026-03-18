@@ -1971,3 +1971,4 @@
 [2026-03-18T17:24:45+01:00] fix(contrepartie): handle both entreprise and companyName field names
 [2026-03-18T17:27:58+01:00] fix(contrepartie): synthèse uses ONLY topOperations, no own API call
 [2026-03-18T17:32:11+01:00] fix(contrepartie): operations tab uses parent data, no double-load
+[2026-03-18T17:59:24+01:00] fix(contrepartie): single API call for operations, shared with synthèse
