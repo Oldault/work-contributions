@@ -1945,3 +1945,4 @@
 [2026-03-18T15:38:59+01:00] fix(listings): store 'prospect' instead of 'beneficiaire_effectif' in DB
 [2026-03-18T15:46:07+01:00] fix(fonds): move effectifs/associés from Chiffres clés to Équipe dirigeante
 [2026-03-18T15:47:02+01:00] fix(fonds): remove duplicate associés from Partenaires bloc
+[2026-03-18T15:53:51+01:00] feat: Fix 1 + Fix 3 — simplified portfolio + editable cells with history panel
