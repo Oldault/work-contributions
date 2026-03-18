@@ -1963,3 +1963,4 @@
 [2026-03-18T16:50:32+01:00] fix(contrepartie): prevent infinite loop in tab components
 [2026-03-18T16:54:33+01:00] fix(contrepartie): remove demo mode from all tab components
 [2026-03-18T17:02:21+01:00] fix(contrepartie): auto-load all tabs on mount, remove hasLoadedCFNews guard
+[2026-03-18T17:08:08+01:00] fix(contrepartie): fix operations not loading + extract date from name
