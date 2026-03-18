@@ -1976,3 +1976,4 @@
 [2026-03-18T18:01:56+01:00] fix(contrepartie): operations clickable → navigate to /operation/:id
 [2026-03-18T18:04:25+01:00] fix(contrepartie): use real CFNEWS operation ID (metadata.id)
 [2026-03-18T18:14:20+01:00] fix(contrepartie): load operations ONCE in parent, share with both tabs
+[2026-03-18T18:15:50+01:00] fix(contrepartie): convert French dates to ISO for proper sorting
