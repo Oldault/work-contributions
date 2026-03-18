@@ -1204,3 +1204,4 @@
 [2026-03-17T13:49:17+01:00] chore(config): add centralized AI model identifiers
 [2026-03-17T17:38:11+01:00] refactor(utils): extract shared service utility modules
 [2026-03-17T17:57:12+01:00] refactor(ai): migrate NLP and analysis services from OpenAI to Gemini
+[2026-03-18T11:37:48+01:00] refactor(ai): adopt aiModels constants across all AI services
