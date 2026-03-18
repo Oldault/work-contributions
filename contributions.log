@@ -1916,3 +1916,4 @@
 [2026-03-18T10:54:07+01:00] chore: clean up PartialValuationService export
 [2026-03-18T11:06:48+01:00] fix(cfnews): fix TTL check fallback to createdAt when updatedAt is null
 [2026-03-18T11:26:31+01:00] fix(cfnews): restore fund search query encoding from main
+[2026-03-18T11:37:05+01:00] fix(cfnews): remove cache for fund search
