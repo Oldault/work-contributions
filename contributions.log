@@ -1209,3 +1209,4 @@
 [2026-03-17T17:39:20+01:00] feat(deepsearch): add Gemini prompt caching and enhanced extraction pipeline
 [2026-03-18T12:14:50+01:00] feat(deepsearch): add source priority ranking, n-gram dedup, and Tier-2 discovery fallback
 [2026-03-18T11:56:47+01:00] feat(deepsearch): unify pipeline to single standard depth, add orgId advisory lock
+[2026-03-18T12:10:13+01:00] feat(deepsearch): add DB migration and depth label utility
