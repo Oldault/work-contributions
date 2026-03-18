@@ -1211,3 +1211,4 @@
 [2026-03-18T11:56:47+01:00] feat(deepsearch): unify pipeline to single standard depth, add orgId advisory lock
 [2026-03-18T12:10:13+01:00] feat(deepsearch): add DB migration and depth label utility
 [2026-03-18T15:03:43+01:00] refactor(deepsearch): remove depth selector from store and UI
+[2026-03-18T14:45:25+01:00] feat(deepsearch): overhaul recap panel UI components
