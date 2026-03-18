@@ -1991,3 +1991,4 @@
 [2026-03-18T20:45:55+01:00] feat(suivi-fonds): history panel slides from left when cell is past mid-screen
 [2026-03-18T21:08:30+01:00] fix(suivi-fonds): use event.clientX for panel side detection
 [2026-03-18T21:24:26+01:00] fix(suivi-fonds): history panel always opens on the LEFT
+[2026-03-18T21:25:56+01:00] fix(suivi-fonds): default panel side is LEFT (was right)
