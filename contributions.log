@@ -1924,3 +1924,4 @@
 [2026-03-18T12:37:52+01:00] feat(fonds): T7+T8 — synthèse with recent activity + sidebar verified
 [2026-03-18T12:44:18+01:00] feat(fonds): T4+T6f — portfolio 3 sub-tabs + all columns editable with history
 [2026-03-18T12:53:20+01:00] feat(fonds): T5 — custom columns + edit history preservation on refresh
+[2026-03-18T12:57:34+01:00] feat(fonds): T2f+T9 — auto-load all data on mount with cache-first
