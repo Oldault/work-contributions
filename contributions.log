@@ -1922,3 +1922,4 @@
 [2026-03-18T12:32:23+01:00] feat(fonds): T1+T6 — recent activity endpoint + column edit history
 [2026-03-18T12:36:15+01:00] feat(fonds): T2+T3 — cache-only endpoints for fonds detail
 [2026-03-18T12:37:52+01:00] feat(fonds): T7+T8 — synthèse with recent activity + sidebar verified
+[2026-03-18T12:44:18+01:00] feat(fonds): T4+T6f — portfolio 3 sub-tabs + all columns editable with history
