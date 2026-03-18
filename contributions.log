@@ -1907,3 +1907,4 @@
 [2026-03-18T09:35:47+01:00] fix(synthese): use all financial sources for ACTIVITÉ block
 [2026-03-18T09:50:17+01:00] feat(beneficiaire): auto-load all data + DB cache per organization
 [2026-03-18T09:55:32+01:00] refactor(beneficiaire): remove cartographieN3 (unused)
+[2026-03-18T10:01:06+01:00] fix(beneficiaire): remove auto-load of financial data
