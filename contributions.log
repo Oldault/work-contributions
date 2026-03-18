@@ -1978,3 +1978,4 @@
 [2026-03-18T18:14:20+01:00] fix(contrepartie): load operations ONCE in parent, share with both tabs
 [2026-03-18T18:15:50+01:00] fix(contrepartie): convert French dates to ISO for proper sorting
 [2026-03-18T18:21:26+01:00] fix(contrepartie): use character class instead of \w for French months
+[2026-03-18T18:28:47+01:00] fix(contrepartie): remove useless CFNEWS empty state in Actualités
