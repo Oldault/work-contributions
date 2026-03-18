@@ -1988,3 +1988,4 @@
 [2026-03-18T20:07:30+01:00] fix(suivi-fonds): map first_name/last_name from SQL to user display
 [2026-03-18T20:21:01+01:00] feat(suivi-fonds): history panel opens on click for ALL cells (including custom)
 [2026-03-18T20:22:24+01:00] fix(suivi-fonds): history panel without overlay, narrower (380px)
+[2026-03-18T20:45:55+01:00] feat(suivi-fonds): history panel slides from left when cell is past mid-screen
