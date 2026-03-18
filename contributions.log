@@ -1951,3 +1951,4 @@
 [2026-03-18T16:01:10+01:00] fix(fonds): use portfolio data for operations bloc in synthèse
 [2026-03-18T16:03:51+01:00] fix(fonds): use portfolio + DeepSearch store for synthèse activity blocs
 [2026-03-18T16:08:28+01:00] fix(fonds): use recentActivity for operations + DeepSearch store for articles
+[2026-03-18T16:16:34+01:00] fix(fonds): use portfolio top 3 for synthèse operations, link to /operation/:id
