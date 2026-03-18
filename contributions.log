@@ -1911,3 +1911,4 @@
 [2026-03-18T10:08:29+01:00] fix(beneficiaire): show only companies in N2 cartography, no persons
 [2026-03-18T10:14:22+01:00] fix(valuation): prevent 500 crash on null toFixed in valuation endpoint
 [2026-03-18T10:23:35+01:00] fix(valuation): call PartialValuationService.getSectorFromNAF directly
+[2026-03-18T10:48:27+01:00] feat(beneficiaire): use pid (prenom_nom_dateNaissance) as unique cache key
