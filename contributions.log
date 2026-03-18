@@ -1948,3 +1948,4 @@
 [2026-03-18T15:53:51+01:00] feat: Fix 1 + Fix 3 — simplified portfolio + editable cells with history panel
 [2026-03-18T15:56:55+01:00] fix(fonds): split activité récente into 2 blocs (opérations + articles)
 [2026-03-18T15:57:51+01:00] fix(contrepartie): update ContrepartiePortefeuille for new FondsPortefeuille API
+[2026-03-18T16:01:10+01:00] fix(fonds): use portfolio data for operations bloc in synthèse
