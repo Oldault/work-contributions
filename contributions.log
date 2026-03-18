@@ -2000,3 +2000,4 @@
 [2026-03-18T22:01:12+01:00] feat(suivi-fonds): record workflow changes (status, priority, interest, assignment) in edit history
 [2026-03-18T22:06:17+01:00] fix(suivi-fonds): comments panel opens left + remove blocking overlay
 [2026-03-18T22:08:22+01:00] fix(suivi-fonds): comments panel side follows click position like history
+[2026-03-18T22:11:54+01:00] fix(suivi-fonds): always merge local edits on portfolio load (not just forceRefresh)
