@@ -1906,3 +1906,4 @@
 [2026-03-17T21:50:07+01:00] feat(company): auto-load all data with cache-first pattern + CFNEWS access layer
 [2026-03-18T09:35:47+01:00] fix(synthese): use all financial sources for ACTIVITÉ block
 [2026-03-18T09:50:17+01:00] feat(beneficiaire): auto-load all data + DB cache per organization
+[2026-03-18T09:55:32+01:00] refactor(beneficiaire): remove cartographieN3 (unused)
