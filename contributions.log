@@ -1920,3 +1920,4 @@
 [2026-03-18T11:53:15+01:00] fix(cfnews): add wildcard * for partial fund/actor name search
 [2026-03-18T12:23:09+01:00] feat(fonds): T0 — barrel index for shared FundDetailV2 components
 [2026-03-18T12:32:23+01:00] feat(fonds): T1+T6 — recent activity endpoint + column edit history
+[2026-03-18T12:36:15+01:00] feat(fonds): T2+T3 — cache-only endpoints for fonds detail
