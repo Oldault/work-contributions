@@ -1956,3 +1956,4 @@
 [2026-03-18T16:22:07+01:00] fix(fonds): use Link for operations + update chiffres clés from portfolio data
 [2026-03-18T16:23:54+01:00] fix(fonds): entreprises en portefeuille uses portfolio_now count only
 [2026-03-18T16:25:11+01:00] fix(fonds): click on operation navigates to /operation/:id not /company/:siren
+[2026-03-18T16:28:21+01:00] fix(operation): add back arrow button in header for navigation
