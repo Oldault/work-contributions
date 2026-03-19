@@ -2013,3 +2013,4 @@
 [2026-03-19T12:46:08+01:00] feat(daily-news): staging mailing mode with recipient override and banner
 [2026-03-19T14:00:00+01:00] chore(company): remove debug console.log from ActualitesSection
 [2026-03-19T14:30:00+01:00] fix(company): correct useEffect dependency arrays for BODACC enrichment
+[2026-03-19T15:56:07+01:00] refactor(docker): remove embedded Langfuse from staging and prod
