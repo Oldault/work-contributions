@@ -2003,3 +2003,4 @@
 [2026-03-18T22:11:54+01:00] fix(suivi-fonds): always merge local edits on portfolio load (not just forceRefresh)
 [2026-03-18T22:41:25+01:00] fix(suivi-fonds): persist cell edits across refresh + fix edit history panel
 [2026-03-18T22:44:09+01:00] Merge pull request #101 from Tailorlead/recette_staging
+[2026-03-19T09:13:32+01:00] fix(suivi-fonds): replace blocking overlay with mousedown listener for edit history panel
