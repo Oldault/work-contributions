@@ -2016,3 +2016,4 @@
 [2026-03-19T15:56:07+01:00] refactor(docker): remove embedded Langfuse from staging and prod
 [2026-03-20T09:00:00+01:00] feat(ui): add shared motion presets library for framer-motion
 [2026-03-20T09:30:00+01:00] chore(deps): upgrade framer-motion to 12.38.0
+[2026-03-20T09:39:20+01:00] fix(daily-news): fix broken firecrawlClient import + implement fetchArticleContent
