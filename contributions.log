@@ -2022,3 +2022,4 @@
 [2026-03-20T12:17:50+01:00] fix(admin): fix AdminDailyNews crashes + SSE auth + add settings link
 [2026-03-20T12:30:24+01:00] fix(daily-news): guard NaN values in deal storage to prevent bigint errors
 [2026-03-20T14:06:35+01:00] fix(daily-news): serialize operation_types array as PostgreSQL text[] literal
+[2026-03-20T14:43:04+01:00] fix(daily-news): fix all Drizzle array serialization in deals repository
