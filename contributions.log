@@ -2024,3 +2024,4 @@
 [2026-03-20T14:06:35+01:00] fix(daily-news): serialize operation_types array as PostgreSQL text[] literal
 [2026-03-20T14:43:04+01:00] fix(daily-news): fix all Drizzle array serialization in deals repository
 [2026-03-20T16:24:03+01:00] fix(daily-news): copy prompts to Docker image + fix paths for prod build
+[2026-03-21T09:00:00+01:00] feat(deepsearch): add activity log to search progress store
