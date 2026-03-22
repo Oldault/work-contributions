@@ -2028,3 +2028,4 @@
 [2026-03-21T10:45:00+01:00] feat(deepsearch): add generation counter and activity logging to search manager
 [2026-03-21T14:00:00+01:00] refactor(deepsearch): use camelCase field names in history service interface
 [2026-03-21T14:30:00+01:00] fix(deepsearch): filter empty history entries and use camelCase fields
+[2026-03-22T09:15:00+01:00] fix(deepsearch): tune quality scoring thresholds and reduce scrape penalty
