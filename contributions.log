@@ -2030,3 +2030,4 @@
 [2026-03-21T14:30:00+01:00] fix(deepsearch): filter empty history entries and use camelCase fields
 [2026-03-22T09:15:00+01:00] fix(deepsearch): tune quality scoring thresholds and reduce scrape penalty
 [2026-03-22T10:00:00+01:00] feat(deepsearch): propagate abort signal through service and provider layers
+[2026-03-22T11:30:00+01:00] feat(deepsearch): detect client disconnect and abort SSE pipeline
