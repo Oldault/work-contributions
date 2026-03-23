@@ -2034,3 +2034,4 @@
 [2026-03-22T14:00:00+01:00] fix(test): update searchStream tests to pass mock request object
 [2026-03-23T09:00:00+01:00] refactor(deepsearch): simplify header to compact tab bar
 [2026-03-23T11:00:00+01:00] refactor(deepsearch): convert filter sidebar to floating popover panel
+[2026-03-23T14:30:00+01:00] refactor(deepsearch): polish search panel, input, key facts, and name banner
