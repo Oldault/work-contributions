@@ -1216,3 +1216,4 @@
 [2026-03-18T15:45:51+01:00] refactor(ui): standardize border color on shadcn overlay components
 [2026-03-18T15:45:51+01:00] chore: add project docs, brand assets, e2e tests, and config files
 [2026-03-18T16:05:25+01:00] fix(lint): resolve all biome errors across changed files
+[2026-03-23T21:51:12+01:00] feat(ui): add animated logo SVGs and replace generic spinners
