@@ -1225,3 +1225,4 @@
 [2026-03-24T10:24:24Z] fix(company): show deepsearch effectif in banner when more recent
 [2026-03-24T10:30:11Z] fix(auth): include can_see_beneficiaires_effectifs in AuthGuard user
 [2026-03-24T10:44:43Z] fix(recherche): disable autocomplete suggestions on search page
+[2026-03-24T10:50:03Z] fix(recherche): default enableAutocomplete to false in SearchInputBar
