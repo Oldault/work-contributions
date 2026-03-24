@@ -1236,3 +1236,4 @@
 [2026-03-24T12:05:25Z] feat(structure): recursive auto-load of corporate shareholders (max 3 levels)
 [2026-03-24T12:11:25Z] fix(structure): exclude carto edges connecting to target company
 [2026-03-24T12:40:29Z] fix(structure): deduplicate loaded shareholders + filter orphan carto nodes
+[2026-03-24T12:49:07Z] feat(structure): auto-load actionnaires when entering Structure section
