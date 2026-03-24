@@ -1238,3 +1238,4 @@
 [2026-03-24T12:40:29Z] fix(structure): deduplicate loaded shareholders + filter orphan carto nodes
 [2026-03-24T12:49:07Z] feat(structure): auto-load actionnaires when entering Structure section
 [2026-03-24T14:31:54Z] feat(personne): ownership hierarchy diagram with auto-load and filtering
+[2026-03-24T14:43:17Z] fix(personne): use actionnaires to orient ownership hierarchy correctly
