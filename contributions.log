@@ -1234,3 +1234,4 @@
 [2026-03-24T11:49:57Z] fix(structure): fix carto edge direction — owners above owned in diagram
 [2026-03-24T12:03:48Z] feat(structure): auto-load corporate shareholders for full ownership chain
 [2026-03-24T12:05:25Z] feat(structure): recursive auto-load of corporate shareholders (max 3 levels)
+[2026-03-24T12:11:25Z] fix(structure): exclude carto edges connecting to target company
