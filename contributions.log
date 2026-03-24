@@ -1218,3 +1218,4 @@
 [2026-03-18T16:05:25+01:00] fix(lint): resolve all biome errors across changed files
 [2026-03-23T21:51:12+01:00] feat(ui): add animated logo SVGs and replace generic spinners
 [2026-03-24T09:26:09Z] fix(daily-news): move pre-extracted bypass before freshness filter
+[2026-03-24T10:01:30Z] fix(finances): improve deepsearch plausibility guards in financial table
