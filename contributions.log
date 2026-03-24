@@ -1231,3 +1231,4 @@
 [2026-03-24T11:14:45Z] fix(company): refresh button now reloads all data sources
 [2026-03-24T11:23:53Z] fix(structure): show all beneficial owners in diagram even without percentage
 [2026-03-24T11:42:02Z] feat(structure): unified ownership graph reconciling BE + actionnaires + cartographie
+[2026-03-24T11:49:57Z] fix(structure): fix carto edge direction — owners above owned in diagram
