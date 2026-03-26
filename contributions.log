@@ -2041,3 +2041,4 @@
 [2026-03-25T09:00:00+01:00] refactor(deepsearch): animate NewsFeed and integrate StreamingProgressView
 [2026-03-25T10:30:00+01:00] fix(deepsearch): minor fixes in IdentityCard, WatchedEntityCard, MentionedEntities
 [2026-03-25T14:00:00+01:00] refactor(deepsearch): update WatchlistManager styling and text
+[2026-03-26T09:00:00+01:00] feat(deepsearch): add onResultsLoaded callback and embedded cancel to ActualiteBlock
