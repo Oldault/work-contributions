@@ -1243,3 +1243,4 @@
 [2026-03-26T20:55:43+01:00] feat(deepsearch): improve search pipeline, drop profile selector, add name guard
 [2026-03-26T20:56:56+01:00] fix(test): update ProtectedRoute test to match new loading UI
 [2026-03-26T20:58:51+01:00] feat(analytics): integrate PostHog Cloud for session replay and pageview tracking
+[2026-03-27T09:00:00+01:00] feat(deepsearch): overhaul main page with animations, notifications, and new layout
