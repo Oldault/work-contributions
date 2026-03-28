@@ -1248,3 +1248,4 @@
 [2026-03-28T07:52:21+01:00] chore: add developer tracking infrastructure
 [2026-03-28T07:56:49+01:00] fix(chore): improve changelog quality and developer tracking
 [2026-03-28T07:58:50+01:00] fix(ci): add missing health module and Google Maps to issue templates
+[2026-03-28T08:02:13+01:00] fix(chore): add developer tracking targets to make help output
