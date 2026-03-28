@@ -1258,3 +1258,4 @@
 [2026-03-28T10:30:00+02:00] fix(daily-news): expand discovery_source CHECK constraint for new sources
 [2026-03-28T11:00:00+02:00] fix(daily-news): remove dead RSS feeds and fix broken URLs
 [2026-03-28T11:30:00+02:00] feat(daily-news): improve RSS client resilience and observability
+[2026-03-28T12:00:00+02:00] refactor(daily-news): extract shared retry utility with exponential backoff
