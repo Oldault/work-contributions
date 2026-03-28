@@ -1245,3 +1245,4 @@
 [2026-03-26T20:58:51+01:00] feat(analytics): integrate PostHog Cloud for session replay and pageview tracking
 [2026-03-27T09:00:00+01:00] feat(deepsearch): overhaul main page with animations, notifications, and new layout
 [2026-03-27T10:00:00+01:00] docs(plans): add design docs for daily-news reliability and embedded deepsearch
+[2026-03-28T07:52:21+01:00] chore: add developer tracking infrastructure
