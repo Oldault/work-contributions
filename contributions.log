@@ -1256,3 +1256,4 @@
 [2026-03-28T08:16:00+01:00] docs(daily-news): add reliability improvements design document
 [2026-03-28T10:00:00+02:00] docs(daily-news): add yield recovery and reliability design document
 [2026-03-28T10:30:00+02:00] fix(daily-news): expand discovery_source CHECK constraint for new sources
+[2026-03-28T11:00:00+02:00] fix(daily-news): remove dead RSS feeds and fix broken URLs
