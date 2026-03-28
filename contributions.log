@@ -1246,3 +1246,4 @@
 [2026-03-27T09:00:00+01:00] feat(deepsearch): overhaul main page with animations, notifications, and new layout
 [2026-03-27T10:00:00+01:00] docs(plans): add design docs for daily-news reliability and embedded deepsearch
 [2026-03-28T07:52:21+01:00] chore: add developer tracking infrastructure
+[2026-03-28T07:56:49+01:00] fix(chore): improve changelog quality and developer tracking
