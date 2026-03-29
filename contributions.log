@@ -1261,3 +1261,4 @@
 [2026-03-28T12:00:00+02:00] refactor(daily-news): extract shared retry utility with exponential backoff
 [2026-03-28T14:00:00+02:00] feat(daily-news): enrich BODACC deals with acte parsing and acquirer extraction
 [2026-03-28T14:30:00+02:00] refactor(daily-news): remove feature flag gates, auto-enable from API keys
+[2026-03-29T09:00:00+02:00] docs(daily-news): simplify .env.example discovery source documentation
