@@ -2046,3 +2046,4 @@
 [2026-03-26T10:30:00+01:00] feat(beneficiaire): pass first enterprise SIREN to person deepsearch
 [2026-03-29T13:19:21+02:00] feat(cfnews): fund list global cache + superadmin org switcher
 [2026-03-29T13:24:00+02:00] fix(auth): superadmin gets full access to BE and CFNEWS features
+[2026-03-29T13:30:32+02:00] fix(apiClient): handle invalid localStorage JSON in addContext
