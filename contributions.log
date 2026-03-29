@@ -2088,3 +2088,4 @@
 [2026-03-29T23:56:46+02:00] fix(finances): show all marge nette sources instead of picking one
 [2026-03-30T00:02:41+02:00] refactor(listing): replace ContactEnrichmentModal with BulkEnrichmentDrawer
 [2026-03-30T00:05:28+02:00] fix(enrichment): force re-mount BulkEnrichmentDrawer on contact change
+[2026-03-30T00:09:15+02:00] fix(enrichment): reset store on drawer close to prevent stale data
