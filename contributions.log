@@ -1265,3 +1265,4 @@
 [2026-03-29T09:15:00+02:00] fix(daily-news): add new discovery sources to quality controller schema
 [2026-03-29T09:30:00+02:00] fix(daily-news): reduce Pass 1 false-negative rate with explicit validity rules
 [2026-03-29T10:00:00+02:00] feat(daily-news): add extraction retries, content truncation, and sentinel deals
+[2026-03-29T10:30:00+02:00] feat(daily-news): add Claude Haiku filtering fallback with passthrough safety net
