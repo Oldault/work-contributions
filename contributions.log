@@ -2058,3 +2058,4 @@
 [2026-03-29T17:12:25+02:00] feat(packs): frontend pack store, sidebar quotas, apiClient _pack support
 [2026-03-29T17:12:53+02:00] feat(packs): add hourly cron for auto-renewal of expired packs
 [2026-03-29T17:22:12+02:00] feat(packs): explicit consultation billing at page/action level
+[2026-03-29T22:13:58+02:00] fix(packs): fix DrizzleModule import path and DRIZZLE token injection
