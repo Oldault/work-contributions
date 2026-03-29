@@ -2061,3 +2061,4 @@
 [2026-03-29T22:13:58+02:00] fix(packs): fix DrizzleModule import path and DRIZZLE token injection
 [2026-03-29T22:16:47+02:00] feat(packs): admin UI for pack management + assign packs to organizations
 [2026-03-29T22:21:38+02:00] feat(packs): move quota display from sidebar to Mon Abonnement page
+[2026-03-29T22:22:31+02:00] fix(subscription): guard against undefined credits_per_month in ChangePlanDialog
