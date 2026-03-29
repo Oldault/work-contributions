@@ -2078,3 +2078,4 @@
 [2026-03-29T23:18:13+02:00] fix(cfnews): use op_conseillees for company operations instead of text search
 [2026-03-29T23:22:57+02:00] fix(company): silent auto-load for Infogreffe + remove Infogreffe branding from messages
 [2026-03-29T23:33:21+02:00] fix(synthese): use actual operations count instead of cfnews.nb_deals
+[2026-03-29T23:36:40+02:00] fix(company): force refresh CFNEWS data bypasses client and server cache
