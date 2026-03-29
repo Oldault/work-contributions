@@ -2086,3 +2086,4 @@
 [2026-03-29T23:51:03+02:00] feat(finances): label Documents comptables as social when consolidated exists
 [2026-03-29T23:55:20+02:00] fix(finances): use Pappers pre-calculated marge_nette in history table
 [2026-03-29T23:56:46+02:00] fix(finances): show all marge nette sources instead of picking one
+[2026-03-30T00:02:41+02:00] refactor(listing): replace ContactEnrichmentModal with BulkEnrichmentDrawer
