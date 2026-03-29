@@ -2070,3 +2070,4 @@
 [2026-03-29T22:43:31+02:00] feat(packs): record personne consultation on contact enrichment
 [2026-03-29T22:46:33+02:00] feat(packs): record personne consultation on listing contact enrichment
 [2026-03-29T22:51:48+02:00] fix(abonnement): show actual funds in watchlists count for fonds quota
+[2026-03-29T23:01:29+02:00] feat(company): auto-load all data on company page mount
