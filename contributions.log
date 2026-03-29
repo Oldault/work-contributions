@@ -2073,3 +2073,4 @@
 [2026-03-29T23:01:29+02:00] feat(company): auto-load all data on company page mount
 [2026-03-29T23:04:29+02:00] feat(company): auto-load Pappers comptes annuels détaillés on mount
 [2026-03-29T23:09:00+02:00] feat(company): make 'Dernier deal' metric clickable to navigate to Actualités tab
+[2026-03-29T23:11:06+02:00] fix(company): show actual operations count in deal metric instead of nb_deals
