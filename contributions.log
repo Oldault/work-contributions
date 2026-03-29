@@ -2072,3 +2072,4 @@
 [2026-03-29T22:51:48+02:00] fix(abonnement): show actual funds in watchlists count for fonds quota
 [2026-03-29T23:01:29+02:00] feat(company): auto-load all data on company page mount
 [2026-03-29T23:04:29+02:00] feat(company): auto-load Pappers comptes annuels détaillés on mount
+[2026-03-29T23:09:00+02:00] feat(company): make 'Dernier deal' metric clickable to navigate to Actualités tab
