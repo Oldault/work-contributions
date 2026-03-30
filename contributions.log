@@ -2107,3 +2107,4 @@
 [2026-03-30T09:46:02Z] docs: update changelog [skip ci]
 [2026-03-30T11:55:34+02:00] fix(org-switcher): clear org-dependent stores when switching organization
 [2026-03-30T09:56:31Z] docs: update changelog [skip ci]
+[2026-03-30T12:04:52+02:00] fix(cfnews): graceful handling of suivi-fonds endpoints for orgs without CFNEWS data
