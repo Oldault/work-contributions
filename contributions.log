@@ -2095,3 +2095,4 @@
 [2026-03-30T07:21:33Z] deps(backend): bump the minor-and-patch group across 1 directory with 14 updates
 [2026-03-30T07:24:48Z] deps(frontend): bump the minor-and-patch group across 1 directory with 23 updates
 [2026-03-30T10:48:31+02:00] fix(settings): use org switcher selection for user management tab
+[2026-03-30T10:52:21+02:00] refactor(settings): remove credit system remnants from user management
