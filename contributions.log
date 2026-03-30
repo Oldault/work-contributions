@@ -2118,3 +2118,4 @@
 [2026-03-30T14:54:59+02:00] fix(recherche): show Dirigeant tab instead of hiding Personne when no BE access
 [2026-03-30T12:55:17Z] docs: update changelog [skip ci]
 [2026-03-30T15:15:07+02:00] fix(recherche): fix dirigeant search endpoint and filter mapping
+[2026-03-30T13:15:27Z] docs: update changelog [skip ci]
