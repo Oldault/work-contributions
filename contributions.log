@@ -2100,3 +2100,4 @@
 [2026-03-30T11:08:53+02:00] chore: hide credit dashboard until adapted to pack system
 [2026-03-30T11:13:30+02:00] feat(dashboard): replace credit dashboard with consultation tracking
 [2026-03-30T11:17:04+02:00] refactor(admin): remove legacy credit tabs from AdminCredits
+[2026-03-30T11:25:53+02:00] feat(dashboard): add detailed consultation history with timestamps
