@@ -2094,3 +2094,4 @@
 [2026-03-30T07:18:19Z] ci: bump codecov/codecov-action from 5 to 6
 [2026-03-30T07:21:33Z] deps(backend): bump the minor-and-patch group across 1 directory with 14 updates
 [2026-03-30T07:24:48Z] deps(frontend): bump the minor-and-patch group across 1 directory with 23 updates
+[2026-03-30T10:48:31+02:00] fix(settings): use org switcher selection for user management tab
