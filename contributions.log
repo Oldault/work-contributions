@@ -2103,3 +2103,4 @@
 [2026-03-30T11:25:53+02:00] feat(dashboard): add detailed consultation history with timestamps
 [2026-03-30T11:36:08+02:00] fix(final-listings): add OrganizationGuard + use effectiveOrganizationId
 [2026-03-30T11:40:11+02:00] fix(superadmin): allow viewing all listings and work-lists across org users
+[2026-03-30T11:45:46+02:00] Merge pull request #119 from Tailorlead/feat/financial-data-refactor
