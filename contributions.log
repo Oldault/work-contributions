@@ -2146,3 +2146,4 @@
 [2026-03-31T17:54:58+02:00] fix(config): add feature flag to disable auto-load actionnariat
 [2026-03-31T17:55:07+02:00] fix(ui): polish dialog animations and toast alignment
 [2026-03-31T17:55:17+02:00] feat(pappers): add mentions légales fallback for URL-based company search
+[2026-03-31T17:55:27+02:00] fix(pappers): use effectiveOrganizationId in company controller
