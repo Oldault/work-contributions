@@ -2150,3 +2150,4 @@
 [2026-03-31T17:55:39+02:00] feat(linkedin-discovery): extract profile photos from og:image during URL validation
 [2026-03-31T17:55:49+02:00] fix(db): enable beneficiaires effectifs for test organization in seed
 [2026-03-31T17:55:58+02:00] feat(recherche): add selection mode and improve personne table formatting
+[2026-03-31T17:56:06+02:00] fix(recherche): remove actualites from personne demo sections
