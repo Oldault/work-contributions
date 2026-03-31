@@ -2129,3 +2129,4 @@
 [2026-03-31T10:06:54+02:00] fix(frontend): corrections staging feedback — auto-launch, sources, concurrence
 [2026-03-31T10:10:49+02:00] Merge pull request #120 from Tailorlead/fix/staging-feedback
 [2026-03-31T08:11:02Z] docs: update changelog [skip ci]
+[2026-03-31T10:24:20+02:00] fix(deepsearch): changer la profondeur de recherche par défaut à standard
