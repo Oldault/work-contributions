@@ -2142,3 +2142,4 @@
 [2026-03-31T11:56:39+02:00] Merge pull request #124 from Tailorlead/fix/staging-feedback
 [2026-03-31T09:56:55Z] docs: update changelog [skip ci]
 [2026-03-31T12:49:59+02:00] docs(config): add brand assets directory with logos, colors, and typography
+[2026-03-31T12:49:59+02:00] feat(contacts): overhaul bulk enrichment UI with persistent state and orchestrator callbacks
