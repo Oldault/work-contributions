@@ -2148,3 +2148,4 @@
 [2026-03-31T17:55:17+02:00] feat(pappers): add mentions légales fallback for URL-based company search
 [2026-03-31T17:55:27+02:00] fix(pappers): use effectiveOrganizationId in company controller
 [2026-03-31T17:55:39+02:00] feat(linkedin-discovery): extract profile photos from og:image during URL validation
+[2026-03-31T17:55:49+02:00] fix(db): enable beneficiaires effectifs for test organization in seed
