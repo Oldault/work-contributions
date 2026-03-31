@@ -2126,3 +2126,4 @@
 [2026-03-31T08:22:37+02:00] feat(docker): add host.docker.internal mapping for local development
 [2026-03-31T08:22:45+02:00] feat(daily-news): add BODACC LLM extraction via Gemini Flash
 [2026-03-31T08:22:52+02:00] test(daily-news): add BODACC LLM extraction unit tests
+[2026-03-31T10:06:54+02:00] fix(frontend): corrections staging feedback — auto-launch, sources, concurrence
