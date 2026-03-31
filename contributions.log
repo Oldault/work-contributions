@@ -2139,3 +2139,4 @@
 [2026-03-31T11:47:08+02:00] Merge pull request #123 from Tailorlead/fix/staging-feedback
 [2026-03-31T09:47:25Z] docs: update changelog [skip ci]
 [2026-03-31T11:55:31+02:00] feat(frontend): enable PostHog autocapture for user interactions
+[2026-03-31T11:56:39+02:00] Merge pull request #124 from Tailorlead/fix/staging-feedback
