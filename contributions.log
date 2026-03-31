@@ -2136,3 +2136,4 @@
 [2026-03-31T10:56:13+02:00] Merge pull request #122 from Tailorlead/fix/staging-feedback
 [2026-03-31T08:56:29Z] docs: update changelog [skip ci]
 [2026-03-31T11:46:01+02:00] fix(docker): pass PostHog env vars as build args to frontend
+[2026-03-31T11:47:08+02:00] Merge pull request #123 from Tailorlead/fix/staging-feedback
