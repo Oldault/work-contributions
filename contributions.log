@@ -2132,3 +2132,4 @@
 [2026-03-31T10:24:20+02:00] fix(deepsearch): changer la profondeur de recherche par défaut à standard
 [2026-03-31T10:26:03+02:00] Merge pull request #121 from Tailorlead/fix/staging-feedback
 [2026-03-31T08:26:19Z] docs: update changelog [skip ci]
+[2026-03-31T10:53:40+02:00] feat(contacts): enrichissement async résilient — survit navigation, refresh, changement d'appareil
