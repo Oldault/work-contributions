@@ -2154,3 +2154,4 @@
 [2026-03-31T23:23:53+02:00] Merge branch 'fix/staging' into staging
 [2026-04-01T00:07:46+02:00] add firecrawl local
 [2026-03-31T22:08:45Z] docs: update changelog [skip ci]
+[2026-04-01T16:11:45+02:00] fix(ui): fix Icon leading-none and LinkedInProfileResult badge sizing
