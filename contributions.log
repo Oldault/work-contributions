@@ -2161,3 +2161,4 @@
 [2026-04-01T16:12:05+02:00] refactor(contacts): overhaul enrichment types, stores, and add useParallelEnrichment hook
 [2026-04-01T16:12:14+02:00] refactor(contacts): rewrite person-level enrichment UI with streaming layout
 [2026-04-01T16:12:20+02:00] feat(companies): rewrite bulk enrichment with streaming layout and new panel components
+[2026-04-01T16:12:26+02:00] test(contacts): update e2e fixtures to remove reservation field
