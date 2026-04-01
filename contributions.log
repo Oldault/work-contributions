@@ -2159,3 +2159,4 @@
 [2026-04-01T16:11:53+02:00] feat(contacts): add useEnrichmentPipeline and useEnrichmentStreamingState hooks
 [2026-04-01T16:12:02+02:00] fix(server): backend fixes for enrichment pipeline
 [2026-04-01T16:12:05+02:00] refactor(contacts): overhaul enrichment types, stores, and add useParallelEnrichment hook
+[2026-04-01T16:12:14+02:00] refactor(contacts): rewrite person-level enrichment UI with streaming layout
