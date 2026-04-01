@@ -2155,3 +2155,4 @@
 [2026-04-01T00:07:46+02:00] add firecrawl local
 [2026-03-31T22:08:45Z] docs: update changelog [skip ci]
 [2026-04-01T16:11:45+02:00] fix(ui): fix Icon leading-none and LinkedInProfileResult badge sizing
+[2026-04-01T16:11:51+02:00] feat(contacts): add enrichment streaming UI components and types
