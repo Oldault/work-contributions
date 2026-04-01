@@ -2165,3 +2165,4 @@
 [2026-04-01T16:12:28+02:00] docs(contacts): add unified enrichment architecture design document
 [2026-04-01T17:43:00+02:00] refactor(contacts,final-listings): remove CreditsModule dependency from enrichment modules
 [2026-04-02T15:06:51+02:00] refactor(contacts): strip credit deduction from web contact search flow
+[2026-04-01T17:43:12+02:00] test(contacts): update spec and docs to reflect credit removal
