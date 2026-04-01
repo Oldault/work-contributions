@@ -2157,3 +2157,4 @@
 [2026-04-01T16:11:45+02:00] fix(ui): fix Icon leading-none and LinkedInProfileResult badge sizing
 [2026-04-01T16:11:51+02:00] feat(contacts): add enrichment streaming UI components and types
 [2026-04-01T16:11:53+02:00] feat(contacts): add useEnrichmentPipeline and useEnrichmentStreamingState hooks
+[2026-04-01T16:12:02+02:00] fix(server): backend fixes for enrichment pipeline
