@@ -2180,3 +2180,4 @@
 [2026-04-02T17:29:11+02:00] feat(db): add company_summary_cache table and migration
 [2026-04-02T17:49:09+02:00] feat(server): add CompanySummaryAi service and cache repository methods
 [2026-04-02T17:32:47+02:00] feat(companies): add POST /api/companies/:siren/summary endpoint with caching
+[2026-04-02T17:49:09+02:00] feat(frontend): add AI company summary to SyntheseSection and fix ContactsSection enrichment state
