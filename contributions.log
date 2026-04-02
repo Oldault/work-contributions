@@ -2169,3 +2169,4 @@
 [2026-04-02T15:06:51+02:00] refactor(final-listings): remove credit checks from beneficiary enrichment
 [2026-04-02T15:05:50+02:00] feat(geocode): add batch geocoding endpoint with in-memory cache
 [2026-04-02T11:28:27+02:00] fix(linkedin-discovery): deduplicate scored candidates with identical name+company+title
+[2026-04-02T13:25:37+02:00] feat(frontend): add domain_resolving job status and error pipeline step state
