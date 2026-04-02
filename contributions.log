@@ -2179,3 +2179,4 @@
 [2026-04-02T16:36:34+02:00] style(frontend): fix remaining biome warnings (a11y, exhaustive-deps, dangerouslySetInnerHTML)
 [2026-04-02T17:29:11+02:00] feat(db): add company_summary_cache table and migration
 [2026-04-02T17:49:09+02:00] feat(server): add CompanySummaryAi service and cache repository methods
+[2026-04-02T17:32:47+02:00] feat(companies): add POST /api/companies/:siren/summary endpoint with caching
