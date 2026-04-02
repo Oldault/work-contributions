@@ -2177,3 +2177,4 @@
 [2026-04-02T16:13:44+02:00] style(server): fix biome lint warnings and formatting across server codebase
 [2026-04-02T16:13:55+02:00] style(frontend): fix biome lint warnings and useExhaustiveDependencies across frontend
 [2026-04-02T16:36:34+02:00] style(frontend): fix remaining biome warnings (a11y, exhaustive-deps, dangerouslySetInnerHTML)
+[2026-04-02T17:29:11+02:00] feat(db): add company_summary_cache table and migration
