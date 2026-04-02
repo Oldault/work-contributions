@@ -2186,3 +2186,4 @@
 [2026-04-02T22:23:50+02:00] fix(contacts,final-listings): unify enrichment storage and fix UI bugs
 [2026-04-02T22:42:08+02:00] feat(final-listings): display all emails and phones in listing table and enrichment modal
 [2026-04-02T20:43:17Z] docs: update changelog [skip ci]
+[2026-04-02T22:44:46+02:00] Merge branch 'worktree-fix+infogreffe-errors' into staging (#130)
