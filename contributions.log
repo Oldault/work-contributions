@@ -2174,3 +2174,4 @@
 [2026-04-02T15:10:24+02:00] fix(ui): fix false-positive company detection and add toast action button
 [2026-04-02T15:58:57+02:00] feat(frontend): wire domain_resolving status, timer persistence, batch geocode, and error state in enrichment UI
 [2026-04-02T16:13:33+02:00] chore(config): exclude playwright-report, server/data, and brand_assets from biome
+[2026-04-02T16:13:44+02:00] style(server): fix biome lint warnings and formatting across server codebase
