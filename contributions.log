@@ -2168,3 +2168,4 @@
 [2026-04-01T17:43:12+02:00] test(contacts): update spec and docs to reflect credit removal
 [2026-04-02T15:06:51+02:00] refactor(final-listings): remove credit checks from beneficiary enrichment
 [2026-04-02T15:05:50+02:00] feat(geocode): add batch geocoding endpoint with in-memory cache
+[2026-04-02T11:28:27+02:00] fix(linkedin-discovery): deduplicate scored candidates with identical name+company+title
