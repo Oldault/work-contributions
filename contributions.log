@@ -2171,3 +2171,4 @@
 [2026-04-02T11:28:27+02:00] fix(linkedin-discovery): deduplicate scored candidates with identical name+company+title
 [2026-04-02T13:25:37+02:00] feat(frontend): add domain_resolving job status and error pipeline step state
 [2026-04-02T15:33:25+02:00] fix(frontend): fix stale closure and batch completion race in enrichment hooks
+[2026-04-02T15:10:24+02:00] fix(ui): fix false-positive company detection and add toast action button
