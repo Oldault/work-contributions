@@ -2201,3 +2201,4 @@
 [2026-04-06T11:00:00+02:00] feat(daily-news): overhaul discovery config and client parameters
 [2026-04-07T09:15:00+02:00] feat(daily-news): optimize pipeline with pre-fetch filtering and parallel scraping
 [2026-04-07T15:45:00+02:00] refactor(daily-news): rewrite historical dedup with composite scoring
+[2026-04-08T09:30:00+02:00] feat(daily-news): redesign page with category tabs, KPI cards, and sector pills
