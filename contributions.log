@@ -2203,3 +2203,4 @@
 [2026-04-07T15:45:00+02:00] refactor(daily-news): rewrite historical dedup with composite scoring
 [2026-04-08T09:30:00+02:00] feat(daily-news): redesign page with category tabs, KPI cards, and sector pills
 [2026-04-08T14:00:00+02:00] fix(daily-news): update deal components for sector array and compact display
+[2026-04-08T17:30:00+02:00] chore(daily-news): update scripts, tests, docs, and service wiring
