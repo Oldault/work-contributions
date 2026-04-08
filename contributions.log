@@ -2202,3 +2202,4 @@
 [2026-04-07T09:15:00+02:00] feat(daily-news): optimize pipeline with pre-fetch filtering and parallel scraping
 [2026-04-07T15:45:00+02:00] refactor(daily-news): rewrite historical dedup with composite scoring
 [2026-04-08T09:30:00+02:00] feat(daily-news): redesign page with category tabs, KPI cards, and sector pills
+[2026-04-08T14:00:00+02:00] fix(daily-news): update deal components for sector array and compact display
