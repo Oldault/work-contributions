@@ -2213,3 +2213,4 @@
 [2026-04-09T15:35:57+02:00] Merge branch 'staging' of github.com-jeremy-tl:Tailorlead/web_app into staging
 [2026-04-09T13:36:13Z] docs: update changelog [skip ci]
 [2026-04-09T15:39:24+02:00] feat(daily-news): add company lookup popover to deal list items
+[2026-04-09T15:48:37+02:00] merge: integrate feat/daily-news++ into staging
