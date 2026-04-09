@@ -2215,3 +2215,4 @@
 [2026-04-09T15:39:24+02:00] feat(daily-news): add company lookup popover to deal list items
 [2026-04-09T15:48:37+02:00] merge: integrate feat/daily-news++ into staging
 [2026-04-09T16:15:01+02:00] Merge pull request #135 from Tailorlead/merge/daily-news-into-staging
+[2026-04-09T14:15:19Z] docs: update changelog [skip ci]
