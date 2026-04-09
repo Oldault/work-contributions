@@ -2216,3 +2216,4 @@
 [2026-04-09T15:48:37+02:00] merge: integrate feat/daily-news++ into staging
 [2026-04-09T16:15:01+02:00] Merge pull request #135 from Tailorlead/merge/daily-news-into-staging
 [2026-04-09T14:15:19Z] docs: update changelog [skip ci]
+[2026-04-09T16:52:57+02:00] fix(packs): count followed funds (watchlist) instead of stale used_fonds column + fix infinite loop in AdminCredits
