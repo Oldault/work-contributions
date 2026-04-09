@@ -2204,3 +2204,4 @@
 [2026-04-08T09:30:00+02:00] feat(daily-news): redesign page with category tabs, KPI cards, and sector pills
 [2026-04-08T14:00:00+02:00] fix(daily-news): update deal components for sector array and compact display
 [2026-04-08T17:30:00+02:00] chore(daily-news): update scripts, tests, docs, and service wiring
+[2026-04-09T10:22:15+02:00] feat(tholex): add missing identity filters (forme_exercice, type_personne, ess, societe_mission, entreprise_agricole, associe_unique)
