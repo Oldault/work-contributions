@@ -2206,3 +2206,4 @@
 [2026-04-08T17:30:00+02:00] chore(daily-news): update scripts, tests, docs, and service wiring
 [2026-04-09T10:22:15+02:00] feat(tholex): add missing identity filters (forme_exercice, type_personne, ess, societe_mission, entreprise_agricole, associe_unique)
 [2026-04-09T14:53:03+02:00] Merge pull request #134 from Tailorlead/staging_thomas
+[2026-04-09T12:53:20Z] docs: update changelog [skip ci]
