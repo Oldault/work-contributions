@@ -2230,3 +2230,4 @@
 [2026-04-10T17:56:55+02:00] fix(deepsearch): delay auto-launch by 5s to avoid 409 Conflict
 [2026-04-10T18:00:45+02:00] fix(deepsearch): prevent infinite recursion in localStorage persist
 [2026-04-10T18:22:34+02:00] refactor(ui): add key={siren} to Company for clean SPA remounts
+[2026-04-10T18:26:46+02:00] refactor(companies): replace 8 auto-triggers with single sequential orchestrator
