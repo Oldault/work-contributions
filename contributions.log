@@ -2249,3 +2249,4 @@
 [2026-04-11T00:46:13+02:00] fix(deepsearch): add autoLaunch on all DeepSearchActualiteBlock usages
 [2026-04-11T00:53:13+02:00] Merge pull request #138 from Tailorlead/refactor/company-loader-orchestrator
 [2026-04-10T22:53:30Z] docs: update changelog [skip ci]
+[2026-04-11T00:53:44+02:00] Merge pull request #139 from Tailorlead/staging
