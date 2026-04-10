@@ -2247,3 +2247,4 @@
 [2026-04-11T00:30:39+02:00] fix(companies): always load shareholders, remove env flag guard
 [2026-04-11T00:38:23+02:00] fix(ui): hide empty pie chart message when shareholders table has data
 [2026-04-11T00:46:13+02:00] fix(deepsearch): add autoLaunch on all DeepSearchActualiteBlock usages
+[2026-04-11T00:53:13+02:00] Merge pull request #138 from Tailorlead/refactor/company-loader-orchestrator
