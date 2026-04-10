@@ -2234,3 +2234,4 @@
 [2026-04-10T18:32:04+02:00] refactor(deepsearch): remove child auto-launch, switch to sessionStorage
 [2026-04-10T19:29:08+02:00] fix(companies): always run all orchestrator phases regardless of cache
 [2026-04-10T23:18:21+02:00] fix(deepsearch): restore autoLaunch on child components
+[2026-04-10T23:26:40+02:00] feat(companies): auto-launch all DeepSearch from orchestrator (Phase 5)
