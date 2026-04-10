@@ -2237,3 +2237,4 @@
 [2026-04-10T23:26:40+02:00] feat(companies): auto-launch all DeepSearch from orchestrator (Phase 5)
 [2026-04-10T23:35:23+02:00] fix(deepsearch): remove autoLaunch from child components to avoid 409
 [2026-04-10T23:45:29+02:00] fix(companies): render Finances + Actualites persistently to preserve DeepSearch state
+[2026-04-10T23:56:10+02:00] fix(companies): fix hasAnnualAccountsData skipping enrichment on basic ratios
