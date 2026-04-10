@@ -2236,3 +2236,4 @@
 [2026-04-10T23:18:21+02:00] fix(deepsearch): restore autoLaunch on child components
 [2026-04-10T23:26:40+02:00] feat(companies): auto-launch all DeepSearch from orchestrator (Phase 5)
 [2026-04-10T23:35:23+02:00] fix(deepsearch): remove autoLaunch from child components to avoid 409
+[2026-04-10T23:45:29+02:00] fix(companies): render Finances + Actualites persistently to preserve DeepSearch state
