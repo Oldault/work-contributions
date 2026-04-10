@@ -2228,3 +2228,4 @@
 [2026-04-10T17:31:21+02:00] fix(tholex): sanitize API params, inject current date in NLP prompt
 [2026-04-10T17:43:29+02:00] fix(deepsearch): move auto-launch effect after handleSearch declaration
 [2026-04-10T17:56:55+02:00] fix(deepsearch): delay auto-launch by 5s to avoid 409 Conflict
+[2026-04-10T18:00:45+02:00] fix(deepsearch): prevent infinite recursion in localStorage persist
