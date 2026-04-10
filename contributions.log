@@ -2233,3 +2233,4 @@
 [2026-04-10T18:26:46+02:00] refactor(companies): replace 8 auto-triggers with single sequential orchestrator
 [2026-04-10T18:32:04+02:00] refactor(deepsearch): remove child auto-launch, switch to sessionStorage
 [2026-04-10T19:29:08+02:00] fix(companies): always run all orchestrator phases regardless of cache
+[2026-04-10T23:18:21+02:00] fix(deepsearch): restore autoLaunch on child components
