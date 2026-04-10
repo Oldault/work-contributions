@@ -2241,3 +2241,4 @@
 [2026-04-11T00:01:46+02:00] feat(companies): enrich header Détention + Dernier deal metrics
 [2026-04-11T00:05:15+02:00] fix(companies): read cfnewsOperations.items for deal count in header
 [2026-04-11T00:11:23+02:00] fix(companies): yield to React between orchestrator phases
+[2026-04-11T00:16:08+02:00] fix(companies): use refs to fix stale closure in orchestrator
