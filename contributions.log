@@ -2224,3 +2224,4 @@
 [2026-04-09T19:32:15+02:00] Merge pull request #137 from Tailorlead/staging
 [2026-04-10T16:48:52+02:00] fix(deepsearch,ui): fix deepsearch crash, auto-launch + UI improvements
 [2026-04-10T16:51:03+02:00] fix(docker): add env_file to backend service in prod compose
+[2026-04-10T17:02:47+02:00] fix(ui): harmonize fullscreen listing view with compact view
