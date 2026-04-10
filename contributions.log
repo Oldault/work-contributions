@@ -2226,3 +2226,4 @@
 [2026-04-10T16:51:03+02:00] fix(docker): add env_file to backend service in prod compose
 [2026-04-10T17:02:47+02:00] fix(ui): harmonize fullscreen listing view with compact view
 [2026-04-10T17:31:21+02:00] fix(tholex): sanitize API params, inject current date in NLP prompt
+[2026-04-10T17:43:29+02:00] fix(deepsearch): move auto-launch effect after handleSearch declaration
