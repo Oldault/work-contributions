@@ -2258,3 +2258,4 @@
 [2026-04-11T22:49:54+02:00] refactor(credits): remove credit system entirely
 [2026-04-11T22:50:06+02:00] Merge branch 'fix/staging-contacts-deepsearch-listings' into fix/staging-all-fixes
 [2026-04-11T22:50:08+02:00] Merge branch 'fix/staging-shareholders-flow' into fix/staging-all-fixes
+[2026-04-11T22:50:10+02:00] Merge branch 'fix/staging-fund-tracking' into fix/staging-all-fixes
