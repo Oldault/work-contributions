@@ -2253,3 +2253,4 @@
 [2026-04-11T21:01:47+02:00] fix(ui): fix contact selection, deepsearch view, and listing enrichment
 [2026-04-11T21:05:21+02:00] fix(ui): remove legacy credit references and fix staging UI issues
 [2026-04-11T22:42:52+02:00] fix(surveillance): improve filter visibility, persist column widths, add presets on create
+[2026-04-11T22:46:22+02:00] fix(ui): redirect to /home after login instead of /recherche
