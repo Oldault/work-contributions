@@ -2255,3 +2255,4 @@
 [2026-04-11T22:42:52+02:00] fix(surveillance): improve filter visibility, persist column widths, add presets on create
 [2026-04-11T22:46:22+02:00] fix(ui): redirect to /home after login instead of /recherche
 [2026-04-11T22:48:41+02:00] fix(companies): remove shareholders auto-loading from orchestrator
+[2026-04-11T22:49:54+02:00] refactor(credits): remove credit system entirely
