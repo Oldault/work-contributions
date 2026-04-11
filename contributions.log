@@ -2260,3 +2260,4 @@
 [2026-04-11T22:50:08+02:00] Merge branch 'fix/staging-shareholders-flow' into fix/staging-all-fixes
 [2026-04-11T22:50:10+02:00] Merge branch 'fix/staging-fund-tracking' into fix/staging-all-fixes
 [2026-04-11T22:58:36+02:00] fix: address code review findings on staging integration
+[2026-04-11T23:29:55+02:00] feat(surveillance): show active filter value in column headers and fix column width persistence
