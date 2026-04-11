@@ -2259,3 +2259,4 @@
 [2026-04-11T22:50:06+02:00] Merge branch 'fix/staging-contacts-deepsearch-listings' into fix/staging-all-fixes
 [2026-04-11T22:50:08+02:00] Merge branch 'fix/staging-shareholders-flow' into fix/staging-all-fixes
 [2026-04-11T22:50:10+02:00] Merge branch 'fix/staging-fund-tracking' into fix/staging-all-fixes
+[2026-04-11T22:58:36+02:00] fix: address code review findings on staging integration
