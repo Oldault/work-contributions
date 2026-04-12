@@ -2262,3 +2262,4 @@
 [2026-04-11T22:58:36+02:00] fix: address code review findings on staging integration
 [2026-04-11T23:29:55+02:00] feat(surveillance): show active filter value in column headers and fix column width persistence
 [2026-04-11T23:38:59+02:00] feat: fund alert URL fix, listing name split, copy watchlist config
+[2026-04-12T14:41:56+02:00] fix(surveillance): column widths now persist across page reloads
