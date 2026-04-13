@@ -2269,3 +2269,4 @@
 [2026-04-13T07:24:16Z] deps(backend): Bump jsdom from 28.1.0 to 29.0.2 in /server
 [2026-04-13T07:24:26Z] deps(backend): Bump typescript from 5.9.3 to 6.0.2 in /server
 [2026-04-13T07:24:39Z] deps(backend): Bump isomorphic-dompurify from 2.36.0 to 3.8.0 in /server
+[2026-04-13T09:52:47+02:00] fix(surveillance): column widths now correctly persist across saves
