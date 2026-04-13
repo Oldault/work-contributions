@@ -2299,3 +2299,4 @@
 [2026-04-13T20:07:23+02:00] chore(docker): migrate prod domain from app-v2 to app.tailorlead.io
 [2026-04-13T20:08:41+02:00] Merge pull request #158 from Tailorlead/thomas_researchv2
 [2026-04-13T20:09:04+02:00] Merge pull request #159 from Tailorlead/staging
+[2026-04-13T18:09:21Z] docs: update changelog [skip ci]
