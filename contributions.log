@@ -2284,3 +2284,4 @@
 [2026-04-13T10:07:51+02:00] Merge pull request #154 from Tailorlead/fix/staging-all-fixes
 [2026-04-13T08:08:06Z] docs: update changelog [skip ci]
 [2026-04-13T10:15:29+02:00] Merge pull request #155 from Tailorlead/staging
+[2026-04-13T13:36:52+02:00] feat(admin): add consumption tracking tab for packs
