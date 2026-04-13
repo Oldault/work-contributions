@@ -2273,3 +2273,4 @@
 [2026-04-13T07:59:18Z] deps(frontend): Bump the minor-and-patch group with 53 updates
 [2026-04-13T08:00:14Z] deps(frontend): Bump lucide-react from 0.576.0 to 1.8.0
 [2026-04-13T10:00:35+02:00] fix(surveillance): restore column visibility/order imperative apply
+[2026-04-13T08:00:58Z] deps(frontend): Bump express from 4.22.1 to 5.2.1
