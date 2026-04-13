@@ -2286,3 +2286,4 @@
 [2026-04-13T10:15:29+02:00] Merge pull request #155 from Tailorlead/staging
 [2026-04-13T13:36:52+02:00] feat(admin): add consumption tracking tab for packs
 [2026-04-13T14:17:48+02:00] feat(admin): re-add packs admin route and settings card
+[2026-04-13T14:30:04+02:00] fix(admin): preserve consumption counters when adjusting pack quotas
