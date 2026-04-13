@@ -2279,3 +2279,4 @@
 [2026-04-13T08:03:10Z] deps(frontend): Bump isomorphic-dompurify from 2.36.0 to 3.8.0
 [2026-04-13T08:03:56Z] deps(frontend): Bump recharts from 2.15.4 to 3.8.1
 [2026-04-13T08:04:46Z] deps(frontend): Bump jsdom from 28.1.0 to 29.0.2
+[2026-04-13T08:06:18Z] deps(frontend): Bump bcrypt from 5.1.1 to 6.0.0
