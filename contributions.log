@@ -2289,3 +2289,4 @@
 [2026-04-13T14:30:04+02:00] fix(admin): preserve consumption counters when adjusting pack quotas
 [2026-04-13T14:32:06+02:00] fix(packs): show error toast when consultation quota is exceeded
 [2026-04-13T16:49:44+02:00] feat(cfnews): selective blur based on subscription + token status
+[2026-04-13T16:54:00+02:00] fix(pappers): clarify q vs objet_social vs code_naf in NLP prompt
