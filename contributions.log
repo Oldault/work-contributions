@@ -2266,3 +2266,4 @@
 [2026-04-12T14:54:21+02:00] fix(surveillance): remove debug logs after column widths tests pass
 [2026-04-13T07:18:44Z] ci: Bump pnpm/action-setup from 4 to 6
 [2026-04-13T07:24:10Z] deps(backend): Bump the minor-and-patch group in /server with 28 updates
+[2026-04-13T07:24:16Z] deps(backend): Bump jsdom from 28.1.0 to 29.0.2 in /server
