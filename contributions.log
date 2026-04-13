@@ -2281,3 +2281,4 @@
 [2026-04-13T08:04:46Z] deps(frontend): Bump jsdom from 28.1.0 to 29.0.2
 [2026-04-13T08:06:18Z] deps(frontend): Bump bcrypt from 5.1.1 to 6.0.0
 [2026-04-13T10:06:31+02:00] fix(surveillance): column order now persists across reloads and reflects in UI
+[2026-04-13T10:07:51+02:00] Merge pull request #154 from Tailorlead/fix/staging-all-fixes
