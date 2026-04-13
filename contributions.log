@@ -2294,3 +2294,4 @@
 [2026-04-13T16:57:05+02:00] fix(tholex): clarify q vs objet_social vs code_naf in NLP prompt
 [2026-04-13T17:23:04+02:00] fix(tholex): objet_social as primary search field, q for named entities
 [2026-04-13T17:23:49+02:00] Merge pull request #156 from Tailorlead/thomas_researchv2
+[2026-04-13T15:24:06Z] docs: update changelog [skip ci]
