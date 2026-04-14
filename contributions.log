@@ -2300,3 +2300,4 @@
 [2026-04-13T20:08:41+02:00] Merge pull request #158 from Tailorlead/thomas_researchv2
 [2026-04-13T20:09:04+02:00] Merge pull request #159 from Tailorlead/staging
 [2026-04-13T18:09:21Z] docs: update changelog [skip ci]
+[2026-04-14T09:37:06+02:00] fix(daily-news): prevent concurrent pipeline runs after timeout
