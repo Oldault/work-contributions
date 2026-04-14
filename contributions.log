@@ -2305,3 +2305,4 @@
 [2026-04-14T15:56:00+02:00] chore(docker): add host.docker.internal gateway to staging backend
 [2026-04-14T16:20:00+02:00] chore(deps): bump posthog-js to 1.364.3
 [2026-04-14T15:56:00+02:00] fix(financial-deepsearch): remove credit check from streaming endpoint
+[2026-04-14T15:56:00+02:00] fix(fund-intelligence): resolve Firecrawl base URL for non-Docker environments
