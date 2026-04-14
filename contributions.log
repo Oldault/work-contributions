@@ -2302,3 +2302,4 @@
 [2026-04-13T18:09:21Z] docs: update changelog [skip ci]
 [2026-04-14T09:37:06+02:00] fix(daily-news): prevent concurrent pipeline runs after timeout
 [2026-04-14T07:37:26Z] docs: update changelog [skip ci]
+[2026-04-14T15:56:00+02:00] chore(docker): add host.docker.internal gateway to staging backend
