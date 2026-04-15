@@ -2307,3 +2307,4 @@
 [2026-04-14T15:56:00+02:00] fix(financial-deepsearch): remove credit check from streaming endpoint
 [2026-04-14T15:56:00+02:00] fix(fund-intelligence): resolve Firecrawl base URL for non-Docker environments
 [2026-04-14T15:56:00+02:00] feat(frontend): update financial deepsearch UI — remove credit display, adjust time estimate
+[2026-04-15T13:10:00+02:00] feat(financial-deepsearch): wire domain-resolution adapter for website fallback discovery
