@@ -2311,3 +2311,4 @@
 [2026-04-15T13:10:00+02:00] feat(financial-deepsearch): add fallback phase to progress stepper and SSE event types
 [2026-04-15T14:59:00+02:00] feat(financial-deepsearch): add streaming scraper method to FirecrawlService
 [2026-04-15T14:58:00+02:00] feat(financial-deepsearch): overhaul pipeline to v6 with adaptive signal, fallback discovery, and quality improvements
+[2026-04-15T14:01:00+02:00] chore(financial-deepsearch): add benchmark tooling and Makefile targets
