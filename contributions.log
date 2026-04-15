@@ -2309,3 +2309,4 @@
 [2026-04-14T15:56:00+02:00] feat(frontend): update financial deepsearch UI — remove credit display, adjust time estimate
 [2026-04-15T13:10:00+02:00] feat(financial-deepsearch): wire domain-resolution adapter for website fallback discovery
 [2026-04-15T13:10:00+02:00] feat(financial-deepsearch): add fallback phase to progress stepper and SSE event types
+[2026-04-15T14:59:00+02:00] feat(financial-deepsearch): add streaming scraper method to FirecrawlService
