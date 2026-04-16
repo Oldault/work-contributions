@@ -2332,3 +2332,4 @@
 [2026-04-16T15:39:43+02:00] docs(chat): promote design doc to reference + add flow A chaining test
 [2026-04-16T15:50:03+02:00] test(chat): CLI interactive simulant le LLM front (Claude Haiku + tool-use)
 [2026-04-16T16:09:25+02:00] feat(chat): companies/details + orchestrated financial-profile stream
+[2026-04-16T16:17:01+02:00] test(chat): mini web UI preview for LLM orchestration
