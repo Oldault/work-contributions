@@ -2317,3 +2317,4 @@
 [2026-04-16T14:38:15+02:00] docs(financial-deepsearch): add source-authority tiering design document
 [2026-04-16T14:38:20+02:00] docs(financial-deepsearch): add accuracy/latency rebalance analysis document
 [2026-04-16T14:38:29+02:00] chore(deps): add drizzle-kit to server devDependencies
+[2026-04-16T14:38:36+02:00] feat(db): add ai_conversations and ai_messages schema with RLS policies
