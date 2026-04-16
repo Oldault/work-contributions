@@ -2330,3 +2330,4 @@
 [2026-04-16T15:29:53+02:00] fix(chat): correct web-search param mapping to ContactsService
 [2026-04-16T15:34:00+02:00] feat(chat): observability via ChatToolLoggingInterceptor
 [2026-04-16T15:39:43+02:00] docs(chat): promote design doc to reference + add flow A chaining test
+[2026-04-16T15:50:03+02:00] test(chat): CLI interactive simulant le LLM front (Claude Haiku + tool-use)
