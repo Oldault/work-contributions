@@ -2333,3 +2333,4 @@
 [2026-04-16T15:50:03+02:00] test(chat): CLI interactive simulant le LLM front (Claude Haiku + tool-use)
 [2026-04-16T16:09:25+02:00] feat(chat): companies/details + orchestrated financial-profile stream
 [2026-04-16T16:17:01+02:00] test(chat): mini web UI preview for LLM orchestration
+[2026-04-16T16:26:30+02:00] feat(chat): enrich SSE events with user-friendly labels + context
