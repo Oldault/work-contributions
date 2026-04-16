@@ -2315,3 +2315,4 @@
 [2026-04-15T14:46:00+02:00] docs(financial-deepsearch): add design documents for v2-v4 pipeline iterations
 [2026-04-15T18:45:06+02:00] feat(financial-deepsearch): add LLM pre-filter and URL tiering for v2 speed optimization
 [2026-04-16T14:38:15+02:00] docs(financial-deepsearch): add source-authority tiering design document
+[2026-04-16T14:38:20+02:00] docs(financial-deepsearch): add accuracy/latency rebalance analysis document
