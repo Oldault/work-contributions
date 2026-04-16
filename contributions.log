@@ -2323,3 +2323,4 @@
 [2026-04-16T14:38:57+02:00] feat(financial-deepsearch): add source-authority tiering, aggregator suspicion gate, and fiscal-year prompt fixes
 [2026-04-16T14:45:12+02:00] docs(chat): API design + fixtures for chat LLM integration
 [2026-04-16T14:45:31+02:00] feat(chat): scaffold module + sse helper + types + throttler
+[2026-04-16T14:54:01+02:00] feat(chat): companies/search + persons/search tools
