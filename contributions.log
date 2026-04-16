@@ -2326,3 +2326,4 @@
 [2026-04-16T14:54:01+02:00] feat(chat): companies/search + persons/search tools
 [2026-04-16T15:05:26+02:00] feat(chat): companies/stakeholders unified tool
 [2026-04-16T15:13:40+02:00] feat(chat): companies/annual-accounts with infogreffe fallback
+[2026-04-16T15:23:46+02:00] feat(chat): streaming SSE tools + contacts enrich
