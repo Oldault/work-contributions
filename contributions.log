@@ -2337,3 +2337,4 @@
 [2026-04-16T17:04:53+02:00] feat(chat): persons/linkedin companies now optional (flow C without company)
 [2026-04-16T17:21:06+02:00] feat(chat): listings CRUD — list/get/create/add-company/add-person
 [2026-04-16T17:31:04+02:00] feat(chat): persist already-enriched data when adding to listings
+[2026-04-16T17:58:56+02:00] feat(chat): login screen in web UI — per-user JWT auth
