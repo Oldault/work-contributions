@@ -2328,3 +2328,4 @@
 [2026-04-16T15:13:40+02:00] feat(chat): companies/annual-accounts with infogreffe fallback
 [2026-04-16T15:23:46+02:00] feat(chat): streaming SSE tools + contacts enrich
 [2026-04-16T15:29:53+02:00] fix(chat): correct web-search param mapping to ContactsService
+[2026-04-16T15:34:00+02:00] feat(chat): observability via ChatToolLoggingInterceptor
