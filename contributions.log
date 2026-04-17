@@ -2356,3 +2356,4 @@
 [2026-04-17T11:39:44+02:00] test(chat): fix tests for emails[]/phones[] + cache + history mocks
 [2026-04-17T12:09:10+02:00] Merge pull request #165 from Tailorlead/feat/financial-deepsearch-v2
 [2026-04-17T10:09:28Z] docs: update changelog [skip ci]
+[2026-04-17T14:36:18+02:00] Merge remote-tracking branch 'origin/main' into staging
