@@ -2361,3 +2361,4 @@
 [2026-04-17T12:46:28Z] docs: update changelog [skip ci]
 [2026-04-17T14:50:46+02:00] fix(ci): remove [skip ci] from auto-changelog commit
 [2026-04-17T15:04:39+02:00] chore(ci): trigger workflow re-run
+[2026-04-17T15:16:36+02:00] Merge pull request #166 from Tailorlead/staging
