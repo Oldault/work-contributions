@@ -2372,3 +2372,4 @@
 [2026-04-17T13:19:44Z] deps(frontend): Bump isomorphic-dompurify from 2.36.0 to 3.8.0
 [2026-04-17T13:19:44Z] deps(frontend): Bump express from 4.22.1 to 5.2.1
 [2026-04-17T13:19:48Z] deps(frontend): Bump jsdom from 28.1.0 to 29.0.2
+[2026-04-17T13:19:50Z] deps(frontend): Bump typescript from 5.9.3 to 6.0.2
