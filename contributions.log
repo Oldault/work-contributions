@@ -2380,3 +2380,4 @@
 [2026-04-17T17:19:38Z] docs: update changelog
 [2026-04-17T19:39:40+02:00] fix(pappers): add Firecrawl fallback for CSR-rendered mentions légales pages
 [2026-04-17T17:40:55Z] docs: update changelog
+[2026-04-17T20:30:29+02:00] chore(ui): hide third-party provider names from user-facing copy
