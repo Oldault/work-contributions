@@ -2341,3 +2341,4 @@
 [2026-04-17T09:50:07+02:00] fix(chat): contacts/enrich now checks cache + saves enrichment to DB
 [2026-04-17T09:56:42+02:00] fix(chat): save search history + record Pappers usage from chat tools
 [2026-04-17T10:00:57+02:00] feat(chat): companies/search now supports URL/domain search
+[2026-04-17T10:02:36+02:00] fix(chat): prompt — don't refuse domain search on non-.fr TLDs
