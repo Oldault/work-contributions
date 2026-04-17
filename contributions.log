@@ -2346,3 +2346,4 @@
 [2026-04-17T10:12:37+02:00] fix(chat): auto-link beneficiary to company in listing by SIREN
 [2026-04-17T10:31:24+02:00] refactor(chat): separate listings and saved-searches endpoints
 [2026-04-17T10:36:33+02:00] fix(chat): listings add-person always linked to a company
+[2026-04-17T10:39:56+02:00] docs(chat): update CLAUDE.md with complete 19-endpoint catalog
