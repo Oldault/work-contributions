@@ -2363,3 +2363,4 @@
 [2026-04-17T15:04:39+02:00] chore(ci): trigger workflow re-run
 [2026-04-17T15:16:36+02:00] Merge pull request #166 from Tailorlead/staging
 [2026-04-17T13:17:49Z] ci: Bump pnpm/action-setup from 4 to 6
+[2026-04-17T13:18:06Z] deps(backend): Bump jsdom from 28.1.0 to 29.0.2 in /server
