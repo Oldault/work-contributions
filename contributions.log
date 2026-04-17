@@ -2351,3 +2351,4 @@
 [2026-04-17T10:51:31+02:00] fix(chat): accept bare domains in url field (remove Zod .url() validator)
 [2026-04-17T11:01:33+02:00] fix(chat): write email/phone to dedicated columns in listings
 [2026-04-17T11:21:49+02:00] docs(chat): update all docs to reflect V1.2 state (19 endpoints)
+[2026-04-17T11:24:20+02:00] feat(chat): listings add-person accepts emails[] and phones[] arrays
