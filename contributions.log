@@ -2344,3 +2344,4 @@
 [2026-04-17T10:02:36+02:00] fix(chat): prompt — don't refuse domain search on non-.fr TLDs
 [2026-04-17T10:07:43+02:00] fix(chat): auto-detect domain in query field (LLM-proof)
 [2026-04-17T10:12:37+02:00] fix(chat): auto-link beneficiary to company in listing by SIREN
+[2026-04-17T10:31:24+02:00] refactor(chat): separate listings and saved-searches endpoints
