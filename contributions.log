@@ -2383,3 +2383,4 @@
 [2026-04-17T20:30:29+02:00] chore(ui): hide third-party provider names from user-facing copy
 [2026-04-17T18:31:14Z] docs: update changelog
 [2026-04-18T00:53:07+02:00] feat(chat): expose photo_url in LinkedinMatch and contacts/enrich response
+[2026-04-18T12:40:40+02:00] fix(chat): propagate photo_url on best_match when selectedCandidate is null
