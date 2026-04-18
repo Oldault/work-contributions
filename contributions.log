@@ -2385,3 +2385,4 @@
 [2026-04-18T00:53:07+02:00] feat(chat): expose photo_url in LinkedinMatch and contacts/enrich response
 [2026-04-18T12:40:40+02:00] fix(chat): propagate photo_url on best_match when selectedCandidate is null
 [2026-04-18T12:50:10+02:00] fix(linkedin-discovery): unblock cross-origin image proxy for TailorAI avatars
+[2026-04-18T13:02:33+02:00] fix(chat): use Serper image search as photo fallback in contacts/enrich
