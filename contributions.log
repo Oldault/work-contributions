@@ -2387,3 +2387,4 @@
 [2026-04-18T12:50:10+02:00] fix(linkedin-discovery): unblock cross-origin image proxy for TailorAI avatars
 [2026-04-18T13:02:33+02:00] fix(chat): use Serper image search as photo fallback in contacts/enrich
 [2026-04-18T15:07:35+02:00] fix(deepsearch): guard Serper image search + log full 400 body
+[2026-04-20T10:56:35+02:00] Merge pull request #169 from Tailorlead/backend_ai
