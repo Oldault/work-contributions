@@ -2389,3 +2389,4 @@
 [2026-04-18T15:07:35+02:00] fix(deepsearch): guard Serper image search + log full 400 body
 [2026-04-20T10:56:35+02:00] Merge pull request #169 from Tailorlead/backend_ai
 [2026-04-20T08:56:53Z] docs: update changelog
+[2026-04-21T17:45:13+02:00] linkedin-stream
