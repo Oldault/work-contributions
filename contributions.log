@@ -2396,3 +2396,4 @@
 [2026-04-22T10:45:08+02:00] Merge pull request #172 from Tailorlead/fix/app-tweaks
 [2026-04-22T08:45:26Z] docs: update changelog
 [2026-04-22T11:36:05+02:00] feat(db): add ai_conversations and ai_messages tables
+[2026-04-22T11:37:13+02:00] feat(ai-conversations): scaffold NestJS module
