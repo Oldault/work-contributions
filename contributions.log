@@ -2405,3 +2405,4 @@
 [2026-04-23T10:20:00+02:00] refactor(financial-deepsearch): drop the 4000-char reduced-extract retry
 [2026-04-23T10:30:00+02:00] feat(financial-deepsearch): tighten extraction prompts for M&A, currency, period_type
 [2026-04-23T10:40:00+02:00] feat(financial-deepsearch): validate per-share, USD, truncated, and zero-value findings
+[2026-04-23T10:45:00+02:00] feat(financial-deepsearch): regex safety net for M&A valorisation findings missed by Gemini
