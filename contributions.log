@@ -2401,3 +2401,4 @@
 [2026-04-23T09:30:00+02:00] feat(financial-deepsearch): add French PE/M&A trade press to Tier 1 editorial sources
 [2026-04-23T09:45:00+02:00] feat(financial-deepsearch): raise URL cap to 32 and pipeline timeout to 90s
 [2026-04-23T10:00:00+02:00] feat(financial-deepsearch): migrate to Gemini 3.1 Flash Lite with reasoning disabled
+[2026-04-23T10:10:00+02:00] feat(financial-deepsearch): append mandatory M&A deal query to Perplexity search
