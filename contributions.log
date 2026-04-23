@@ -2398,3 +2398,4 @@
 [2026-04-22T11:36:05+02:00] feat(db): add ai_conversations and ai_messages tables
 [2026-04-22T11:37:13+02:00] feat(ai-conversations): scaffold NestJS module
 [2026-04-22T12:06:46+02:00] feat(ai-conversations): implement conversation and message endpoints
+[2026-04-23T09:30:00+02:00] feat(financial-deepsearch): add French PE/M&A trade press to Tier 1 editorial sources
