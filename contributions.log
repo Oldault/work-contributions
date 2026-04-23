@@ -2409,3 +2409,4 @@
 [2026-04-23T10:50:00+02:00] fix(financial-deepsearch): drain remaining LLM work up to pipeline deadline
 [2026-04-23T10:51:06+02:00] fix(financial-deepsearch): pre-resolution filter drops invalid valorisation subtypes
 [2026-04-23T12:00:48+02:00] Merge pull request #173 from Tailorlead/feat/tailor-ai
+[2026-04-23T10:01:04Z] docs: update changelog
