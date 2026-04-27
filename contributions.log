@@ -2438,3 +2438,4 @@
 [2026-04-27T13:59:26+02:00] fix(realtime): support aggregated mode + force AG Grid refresh on event
 [2026-04-27T14:05:00+02:00] feat(logo): expose clearCachedDomain on ImageFetcherProvider
 [2026-04-27T14:35:00+02:00] feat(logo): add resolveWebsite cascade with per-org override priority
+[2026-04-27T14:50:00+02:00] feat(financial-deepsearch): add recall-gap-report tool
