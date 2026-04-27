@@ -2414,3 +2414,4 @@
 [2026-04-23T10:06:34Z] docs: update changelog
 [2026-04-23T13:02:33+02:00] Merge pull request #175 from Tailorlead/staging
 [2026-04-27T07:51:02Z] deps(backend): bump the minor-and-patch group across 1 directory with 29 updates
+[2026-04-27T10:05:28+02:00] fix(ui): financial cells respect unit per source (M€ vs raw €)
