@@ -2435,3 +2435,4 @@
 [2026-04-27T13:05:00+02:00] feat(logo): add WebsiteResolverProvider sharing daily-news cache
 [2026-04-27T13:15:00+02:00] feat(financial-deepsearch): add migrate-to-discovered-truth tool
 [2026-04-27T13:50:00+02:00] feat(one-pager): add clearCachedDomain helper for cache invalidation
+[2026-04-27T13:59:26+02:00] fix(realtime): support aggregated mode + force AG Grid refresh on event
