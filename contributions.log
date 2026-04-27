@@ -2420,3 +2420,4 @@
 [2026-04-27T10:20:18+02:00] fix(cfnews): normalize portfolio numeric fields to float on cache read
 [2026-04-27T10:24:33+02:00] fix(ui): Montant + Valorisation use formatMoney for auto Md€/M€/k€
 [2026-04-27T08:27:49Z] deps(frontend): bump the minor-and-patch group across 1 directory with 55 updates
+[2026-04-27T10:30:00+02:00] feat(team-discovery): add service with abort + cache invalidation surface
