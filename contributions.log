@@ -2440,3 +2440,4 @@
 [2026-04-27T14:35:00+02:00] feat(logo): add resolveWebsite cascade with per-org override priority
 [2026-04-27T14:50:00+02:00] feat(financial-deepsearch): add recall-gap-report tool
 [2026-04-27T14:55:00+02:00] feat(logo): add /api/logo/website endpoint with org-aware resolution
+[2026-04-27T15:10:00+02:00] feat(logo): export websiteResolver and image-fetcher to other modules
