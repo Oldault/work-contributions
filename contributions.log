@@ -2418,3 +2418,4 @@
 [2026-04-27T10:11:58+02:00] fix(ui): financial cells handle non-numeric values (NaN guard)
 [2026-04-27T10:17:17+02:00] fix(ui): financial cell falls back to base if active source is non-numeric
 [2026-04-27T10:20:18+02:00] fix(cfnews): normalize portfolio numeric fields to float on cache read
+[2026-04-27T10:24:33+02:00] fix(ui): Montant + Valorisation use formatMoney for auto Md€/M€/k€
