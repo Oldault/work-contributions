@@ -2446,3 +2446,4 @@
 [2026-04-27T15:36:43+02:00] fix(suivi-fonds): dedupe workflow edit history + skip notif refetch
 [2026-04-27T15:43:12+02:00] fix(suivi-fonds): hide old-value placeholder in edit history when empty
 [2026-04-27T15:57:30+02:00] fix(suivi-fonds): resolve user IDs + operation labels in edit history
+[2026-04-27T16:05:29+02:00] fix(suivi-fonds): z-index on edit-history filter dropdowns
