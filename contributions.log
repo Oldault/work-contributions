@@ -2432,3 +2432,4 @@
 [2026-04-27T11:51:53+02:00] feat(realtime): presence avatars + live notifications (Phase 2 & 3)
 [2026-04-27T12:09:20+02:00] test(realtime): E2E spec covering live sync, presence, notifications
 [2026-04-27T12:10:00+02:00] feat(daily-news): expose resolveWebsiteForCompany for cross-module use
+[2026-04-27T13:05:00+02:00] feat(logo): add WebsiteResolverProvider sharing daily-news cache
