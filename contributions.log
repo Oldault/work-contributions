@@ -2457,3 +2457,4 @@
 [2026-04-27T19:00:00+02:00] feat(equipe): add TeamMemberCard component
 [2026-04-27T19:30:00+02:00] feat(equipe): add EquipeSection with crawl progress and team grid
 [2026-04-27T20:05:00+02:00] feat(companies): add CompanyWebsiteEditor for inline override UI
+[2026-04-27T20:30:00+02:00] feat(companies): show resolved website + arrow in CompanyHeader
