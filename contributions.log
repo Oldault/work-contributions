@@ -2427,3 +2427,4 @@
 [2026-04-27T10:55:23+02:00] fix(ui): financial cell falls back to manual value if active source is empty
 [2026-04-27T11:00:00+02:00] feat(financial-deepsearch): add promote-reference tool for golden updates
 [2026-04-27T11:20:00+02:00] feat(team-discovery): add controller with SSE streaming endpoint
+[2026-04-27T11:35:00+02:00] feat(team-discovery): wire NestJS module with all providers
