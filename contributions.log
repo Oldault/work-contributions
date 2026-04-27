@@ -2442,3 +2442,4 @@
 [2026-04-27T14:55:00+02:00] feat(logo): add /api/logo/website endpoint with org-aware resolution
 [2026-04-27T15:10:00+02:00] feat(logo): export websiteResolver and image-fetcher to other modules
 [2026-04-27T15:29:49+02:00] feat(realtime): live cell-edit markers + value patches + URL deep-link
+[2026-04-27T15:30:00+02:00] feat(companies): expose updated_at on cached synthèse for TTL check
