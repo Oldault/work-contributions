@@ -2423,3 +2423,4 @@
 [2026-04-27T10:30:00+02:00] feat(team-discovery): add service with abort + cache invalidation surface
 [2026-04-27T10:33:21+02:00] fix(ui): restore financial overrides from edit history on load
 [2026-04-27T10:40:16+02:00] fix(financial): strip source suffixes from edit history merge
+[2026-04-27T10:54:55+02:00] fix(financial): apply sanitizeEditedValue to all 7 portfolio merge points
