@@ -2428,3 +2428,4 @@
 [2026-04-27T11:00:00+02:00] feat(financial-deepsearch): add promote-reference tool for golden updates
 [2026-04-27T11:20:00+02:00] feat(team-discovery): add controller with SSE streaming endpoint
 [2026-04-27T11:35:00+02:00] feat(team-discovery): wire NestJS module with all providers
+[2026-04-27T11:47:15+02:00] feat(realtime): add WebSocket live sync for /suivi-fonds (Phase 1)
