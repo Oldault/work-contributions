@@ -2533,3 +2533,4 @@
 [2026-04-29T16:26:12+02:00] test(frontend): update TeamMemberCard and teamService tests; add enrichment integration test
 [2026-04-29T16:26:12+02:00] docs(team-discovery): update CLAUDE.md with enrichment pipeline context
 [2026-04-29T15:53:11+02:00] docs: add and update Equipe tab design documents
+[2026-04-28T17:06:03+02:00] chore(team-discovery): add manual benchmarks for role-search provider variants
