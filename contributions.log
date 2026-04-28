@@ -2479,3 +2479,4 @@
 [2026-04-28T10:12:38Z] docs: update changelog
 [2026-04-28T12:19:45+02:00] fix(audit): hide admin.* actions from org admins
 [2026-04-28T10:21:23Z] docs: update changelog
+[2026-04-28T12:30:00+02:00] test(team-discovery): add unit tests for providers and pipeline
