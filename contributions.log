@@ -2493,3 +2493,4 @@
 [2026-04-28T11:58:14Z] deps(frontend): bump typescript from 5.9.3 to 6.0.3
 [2026-04-28T11:58:15Z] deps(frontend): bump isomorphic-dompurify from 2.36.0 to 3.10.0
 [2026-04-28T11:58:17Z] deps(frontend): bump recharts from 2.15.4 to 3.8.1
+[2026-04-28T11:58:18Z] deps(frontend): bump jsdom from 28.1.0 to 29.1.0
