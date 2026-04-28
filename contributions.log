@@ -2489,3 +2489,4 @@
 [2026-04-28T11:56:13Z] ci: bump pnpm/action-setup from 4 to 6
 [2026-04-28T11:56:47Z] deps(backend): bump jsdom from 28.1.0 to 29.1.0 in /server
 [2026-04-28T11:56:52Z] deps(backend): bump typescript from 5.9.3 to 6.0.3 in /server
+[2026-04-28T11:57:30Z] deps(backend): bump isomorphic-dompurify in /server
