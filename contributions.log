@@ -2500,3 +2500,4 @@
 [2026-04-28T11:58:24Z] deps(frontend): bump lucide-react from 0.576.0 to 1.11.0
 [2026-04-28T14:00:00+02:00] test(companies): bump constructor mocks for new dependencies
 [2026-04-28T12:02:45Z] deps(backend): bump the minor-and-patch group across 1 directory with 29 updates
+[2026-04-28T14:15:00+02:00] test(equipe): add frontend tests for components and teamService
