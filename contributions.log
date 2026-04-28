@@ -2491,3 +2491,4 @@
 [2026-04-28T11:56:52Z] deps(backend): bump typescript from 5.9.3 to 6.0.3 in /server
 [2026-04-28T11:57:30Z] deps(backend): bump isomorphic-dompurify in /server
 [2026-04-28T11:58:14Z] deps(frontend): bump typescript from 5.9.3 to 6.0.3
+[2026-04-28T11:58:15Z] deps(frontend): bump isomorphic-dompurify from 2.36.0 to 3.10.0
