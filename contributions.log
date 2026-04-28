@@ -2470,3 +2470,4 @@
 [2026-04-28T11:11:42+02:00] ci: trigger CI workflow on staging branch
 [2026-04-28T09:13:04Z] docs: update changelog
 [2026-04-28T11:15:00+02:00] docs(companies): document synthèse grounding and website overrides
+[2026-04-28T11:25:24+02:00] fix(realtime): mount Socket.IO under /api/socket.io for prod proxy
