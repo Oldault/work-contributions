@@ -2459,3 +2459,4 @@
 [2026-04-27T20:05:00+02:00] feat(companies): add CompanyWebsiteEditor for inline override UI
 [2026-04-27T20:30:00+02:00] feat(companies): show resolved website + arrow in CompanyHeader
 [2026-04-27T21:00:00+02:00] feat(equipe): wire Équipe tab into sidebar and Company page
+[2026-04-28T09:00:00+02:00] chore(deps): add Playwright Chromium for team-discovery click-expand
