@@ -2465,3 +2465,4 @@
 [2026-04-28T10:15:00+02:00] docs(equipe): add tab recall-fixes design
 [2026-04-28T10:59:47+02:00] feat(admin): audit trail + reorganized settings hub
 [2026-04-28T11:00:00+02:00] docs(team-discovery): add module CLAUDE.md with pipeline reference
+[2026-04-28T11:08:57+02:00] Merge pull request #176 from Tailorlead/review/suivi-fonds-prod-readiness
