@@ -2495,3 +2495,4 @@
 [2026-04-28T11:58:17Z] deps(frontend): bump recharts from 2.15.4 to 3.8.1
 [2026-04-28T11:58:18Z] deps(frontend): bump jsdom from 28.1.0 to 29.1.0
 [2026-04-28T11:58:19Z] deps(frontend): bump express from 4.22.1 to 5.2.1
+[2026-04-28T11:58:20Z] deps(frontend): bump bcrypt from 5.1.1 to 6.0.0
