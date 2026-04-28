@@ -2461,3 +2461,4 @@
 [2026-04-27T21:00:00+02:00] feat(equipe): wire Équipe tab into sidebar and Company page
 [2026-04-28T09:00:00+02:00] chore(deps): add Playwright Chromium for team-discovery click-expand
 [2026-04-28T09:30:00+02:00] docs(team-discovery): add click-expand design doc
+[2026-04-28T09:45:00+02:00] feat(financial-deepsearch): refresh golden dataset with discovered_truth
