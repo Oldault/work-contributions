@@ -2464,3 +2464,4 @@
 [2026-04-28T09:45:00+02:00] feat(financial-deepsearch): refresh golden dataset with discovered_truth
 [2026-04-28T10:15:00+02:00] docs(equipe): add tab recall-fixes design
 [2026-04-28T10:59:47+02:00] feat(admin): audit trail + reorganized settings hub
+[2026-04-28T11:00:00+02:00] docs(team-discovery): add module CLAUDE.md with pipeline reference
