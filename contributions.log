@@ -2481,3 +2481,4 @@
 [2026-04-28T10:21:23Z] docs: update changelog
 [2026-04-28T12:30:00+02:00] test(team-discovery): add unit tests for providers and pipeline
 [2026-04-28T13:00:00+02:00] test(team-discovery): add integration tests for shell-fallback and click-expand
+[2026-04-28T13:30:00+02:00] test(companies): add integration tests for synthèse and override cascades
