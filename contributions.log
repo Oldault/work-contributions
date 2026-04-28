@@ -2467,3 +2467,4 @@
 [2026-04-28T11:00:00+02:00] docs(team-discovery): add module CLAUDE.md with pipeline reference
 [2026-04-28T11:08:57+02:00] Merge pull request #176 from Tailorlead/review/suivi-fonds-prod-readiness
 [2026-04-28T09:09:34Z] docs: update changelog
+[2026-04-28T11:11:42+02:00] ci: trigger CI workflow on staging branch
