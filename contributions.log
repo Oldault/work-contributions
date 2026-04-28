@@ -2511,3 +2511,4 @@
 [2026-04-29T16:26:12+02:00] feat(team-discovery): extend type definitions for enrichment pipeline
 [2026-04-28T18:09:56+02:00] feat(team-discovery): add role taxonomy for operational-team classification
 [2026-04-29T11:16:22+02:00] feat(team-discovery): add BE-matcher provider for beneficial-owner deduplication
+[2026-04-28T18:44:40+02:00] feat(team-discovery): add role-search provider for web-based team discovery
