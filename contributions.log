@@ -2502,3 +2502,4 @@
 [2026-04-28T12:02:45Z] deps(backend): bump the minor-and-patch group across 1 directory with 29 updates
 [2026-04-28T14:15:00+02:00] test(equipe): add frontend tests for components and teamService
 [2026-04-28T14:30:00+02:00] docs(financial-deepsearch): add phase 0 readiness design
+[2026-04-28T14:42:35+02:00] docs(financial-deepsearch): add phase 1 architecture design
