@@ -2486,3 +2486,4 @@
 [2026-04-28T13:45:00+02:00] chore(financial-deepsearch): record latest recall-gap report
 [2026-04-28T13:50:00+02:00] test(companies): add unit tests for synthèse-website and website-override
 [2026-04-28T13:55:08+02:00] Merge pull request #177 from Tailorlead/staging
+[2026-04-28T11:56:13Z] ci: bump pnpm/action-setup from 4 to 6
