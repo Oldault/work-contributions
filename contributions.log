@@ -2473,3 +2473,4 @@
 [2026-04-28T11:25:24+02:00] fix(realtime): mount Socket.IO under /api/socket.io for prod proxy
 [2026-04-28T09:27:07Z] docs: update changelog
 [2026-04-28T11:30:00+02:00] docs: add team-discovery to module map and commit-scope list
+[2026-04-28T12:00:00+02:00] test(firecrawl): add unit tests for waitFor + namespaced cache options
