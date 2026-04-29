@@ -2550,3 +2550,4 @@
 [2026-04-29T12:24:30+02:00] fix(companies): inject current date into company-summary prompt to prevent time-extrapolation
 [2026-04-29T12:24:30+02:00] fix(financial-deepsearch): inject current date into summary prompt and export generateSummary
 [2026-04-29T12:24:30+02:00] feat(companies): add force-refresh flag to getOrGenerateSummary
+[2026-04-29T12:24:30+02:00] feat(frontend): propagate force flag through frontend company summary service
