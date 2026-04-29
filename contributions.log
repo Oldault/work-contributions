@@ -2535,3 +2535,4 @@
 [2026-04-29T15:53:11+02:00] docs: add and update Equipe tab design documents
 [2026-04-28T17:06:03+02:00] chore(team-discovery): add manual benchmarks for role-search provider variants
 [2026-04-29T11:26:39+02:00] feat(financial-deepsearch): add sector-mapping config for NAF → sector-tag derivation
+[2026-04-29T11:28:50+02:00] feat(financial-deepsearch): add host-tiers config with tightened tier classification
