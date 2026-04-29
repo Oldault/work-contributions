@@ -2546,3 +2546,4 @@
 [2026-04-29T12:35:37+02:00] feat(financial-deepsearch): add Stage 3 ranker with two-pass tier-quota algorithm
 [2026-04-29T12:24:30+02:00] feat(financial-deepsearch): refine query templates — gates, year policy, and new site targets
 [2026-04-29T12:24:30+02:00] feat(financial-deepsearch): wire CompanyPolicy gates and year policy into query expansion
+[2026-04-29T12:24:30+02:00] feat(financial-deepsearch): register POC providers in the v2 module
