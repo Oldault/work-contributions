@@ -2543,3 +2543,4 @@
 [2026-04-29T12:20:38+02:00] feat(financial-deepsearch): add Stage 5b margin derivation provider
 [2026-04-29T12:22:02+02:00] feat(financial-deepsearch): add Stage 4 Firecrawl scraper provider
 [2026-04-29T12:22:31+02:00] feat(financial-deepsearch): add Stage 5 Gemini extractor provider with strict JSON schema
+[2026-04-29T12:35:37+02:00] feat(financial-deepsearch): add Stage 3 ranker with two-pass tier-quota algorithm
