@@ -2556,3 +2556,4 @@
 [2026-04-29T12:24:30+02:00] feat(financial-deepsearch): add captures output to v2-discovery bench harness
 [2026-04-29T16:14:42+02:00] feat(financial-deepsearch): add per-company oracle verification JSONs (15 companies)
 [2026-04-29T16:25:51+02:00] feat(financial-deepsearch): add oracle verification report and audit script
+[2026-04-29T16:40:07+02:00] feat(financial-deepsearch): add oracle-audit.json — host accessibility audit results
