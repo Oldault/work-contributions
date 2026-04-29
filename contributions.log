@@ -2529,3 +2529,4 @@
 [2026-04-29T16:26:12+02:00] style(ui): add CSS utilities for Equipe tab redesign
 [2026-04-29T12:52:12+02:00] test(team-discovery): add unit tests for BE-matcher and team-enrichment providers
 [2026-04-29T16:26:12+02:00] test(team-discovery): update controller and pipeline unit tests for enrichment route
+[2026-04-29T16:22:47+02:00] test(ui): add unit tests for new Equipe tab components and PersonneDetail page
