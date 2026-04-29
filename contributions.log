@@ -2536,3 +2536,4 @@
 [2026-04-28T17:06:03+02:00] chore(team-discovery): add manual benchmarks for role-search provider variants
 [2026-04-29T11:26:39+02:00] feat(financial-deepsearch): add sector-mapping config for NAF → sector-tag derivation
 [2026-04-29T11:28:50+02:00] feat(financial-deepsearch): add host-tiers config with tightened tier classification
+[2026-04-29T11:27:15+02:00] feat(financial-deepsearch): add Stage 0 company profile resolver and Pappers HTTP client
