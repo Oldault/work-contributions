@@ -2517,3 +2517,4 @@
 [2026-04-28T18:18:15+02:00] feat(team-discovery): add team-merger provider for deduplication across sources
 [2026-04-29T16:26:12+02:00] feat(team-discovery): wire new providers into discovery pipeline
 [2026-04-29T16:26:12+02:00] feat(team-discovery): add enrichment endpoint to TeamDiscoveryService
+[2026-04-29T16:26:12+02:00] feat(team-discovery): expose POST /enrich SSE endpoint in controller
