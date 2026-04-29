@@ -2558,3 +2558,4 @@
 [2026-04-29T16:25:51+02:00] feat(financial-deepsearch): add oracle verification report and audit script
 [2026-04-29T16:40:07+02:00] feat(financial-deepsearch): add oracle-audit.json — host accessibility audit results
 [2026-04-29T16:29:20+02:00] feat(financial-deepsearch): add per-company oracle gap analysis reports (15 companies)
+[2026-04-29T16:40:05+02:00] feat(financial-deepsearch): add host-truth oracle — per-company JSONs, aggregate, and report
