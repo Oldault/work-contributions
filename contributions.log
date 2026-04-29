@@ -2520,3 +2520,4 @@
 [2026-04-29T16:26:12+02:00] feat(team-discovery): expose POST /enrich SSE endpoint in controller
 [2026-04-29T16:26:12+02:00] chore(team-discovery): register new providers in NestJS module declarations
 [2026-04-29T16:26:12+02:00] feat(frontend): add enrichTeam SSE helper to apiClient
+[2026-04-29T16:26:12+02:00] feat(frontend): add enrichTeam action to teamService
