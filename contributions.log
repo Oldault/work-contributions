@@ -2526,3 +2526,4 @@
 [2026-04-29T16:22:47+02:00] feat(ui): add FeaturedMemberCard, RosterGroup, MemberDetailPanel components
 [2026-04-29T16:26:29+02:00] feat(ui): update TeamMemberCard and EquipeSection with enrichment UI
 [2026-04-29T16:26:12+02:00] feat(frontend): add PersonneDetail page and register /personne/:id route
+[2026-04-29T16:26:12+02:00] style(ui): add CSS utilities for Equipe tab redesign
