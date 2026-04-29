@@ -2508,3 +2508,4 @@
 [2026-04-28T15:45:10+02:00] feat(financial-deepsearch): track 2 — search fan-out + URL canonicalize (mean 325 URLs/company)
 [2026-04-29T11:35:05+02:00] chore(db): add action_cost entry for team_enrichment
 [2026-04-29T16:26:12+02:00] refactor(config): expose FirecrawlService through shared NestJS module
+[2026-04-29T16:26:12+02:00] feat(team-discovery): extend type definitions for enrichment pipeline
