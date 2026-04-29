@@ -2561,3 +2561,4 @@
 [2026-04-29T16:40:05+02:00] feat(financial-deepsearch): add host-truth oracle — per-company JSONs, aggregate, and report
 [2026-04-29T11:20:54+02:00] docs(financial-deepsearch): add v2 POC design document
 [2026-04-29T14:35:10+02:00] docs(financial-deepsearch): add recall-uplift design and update phase-1 architecture doc
+[2026-04-29T17:05:44+02:00] test(ui): align TeamMemberCard shareholder assertion with percent-only badge
