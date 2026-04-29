@@ -2506,3 +2506,4 @@
 [2026-04-28T14:50:46+02:00] feat(financial-deepsearch): track 1 — query expansion module (no bench yet)
 [2026-04-28T15:00:00+02:00] docs(financial-deepsearch): add v2 plan design
 [2026-04-28T15:45:10+02:00] feat(financial-deepsearch): track 2 — search fan-out + URL canonicalize (mean 325 URLs/company)
+[2026-04-29T11:35:05+02:00] chore(db): add action_cost entry for team_enrichment
