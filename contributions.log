@@ -2568,3 +2568,4 @@
 [2026-04-30T16:59:50+02:00] perf(ui): memoize slot state and normalize fresh-member keys
 [2026-04-30T17:02:25+02:00] refactor(ui): share hostnameOf util and fix mismatch badge position
 [2026-04-30T17:16:25+02:00] fix(ui): add SR-only SheetTitle to Equipe member detail bottom-sheet
+[2026-04-30T17:37:08+02:00] feat(financial-deepsearch): add ProbeResolverProvider for adaptive host probing
