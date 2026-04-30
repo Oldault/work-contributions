@@ -2564,3 +2564,4 @@
 [2026-04-29T17:05:44+02:00] test(ui): align TeamMemberCard shareholder assertion with percent-only badge
 [2026-04-29T17:07:18+02:00] test(financial-deepsearch): align v2 unit tests with new provider behavior
 [2026-04-30T16:55:42+02:00] refactor(frontend): remove legacy Equipe components and consolidate pipeline strip
+[2026-04-30T16:58:35+02:00] feat(ui): polish Equipe member detail panel
