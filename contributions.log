@@ -2569,3 +2569,4 @@
 [2026-04-30T17:02:25+02:00] refactor(ui): share hostnameOf util and fix mismatch badge position
 [2026-04-30T17:16:25+02:00] fix(ui): add SR-only SheetTitle to Equipe member detail bottom-sheet
 [2026-04-30T17:37:08+02:00] feat(financial-deepsearch): add ProbeResolverProvider for adaptive host probing
+[2026-04-30T17:28:00+02:00] test(financial-deepsearch): add iterative tuning bench runs (Apr 30 16:38–17:28)
