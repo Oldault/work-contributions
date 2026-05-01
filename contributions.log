@@ -2572,3 +2572,4 @@
 [2026-04-30T17:28:00+02:00] test(financial-deepsearch): add iterative tuning bench runs (Apr 30 16:38–17:28)
 [2026-04-30T17:30:44+02:00] test(financial-deepsearch): add v3 vs v2 discovery comparison report
 [2026-04-30T17:44:43+02:00] test(financial-deepsearch): add final Apr 30 recall runs after probe-resolver landing
+[2026-05-01T09:42:00+02:00] refactor(frontend): remove PersonneDetail page and /personne route
