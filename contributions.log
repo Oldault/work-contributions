@@ -2577,3 +2577,4 @@
 [2026-05-02T07:43:45+02:00] docs(financial-deepsearch): design doc for discovery session handoff
 [2026-05-02T10:24:00+02:00] chore(ui): polish Equipe sidebar icon and copy-to-clipboard toast
 [2026-05-02T12:51:00+02:00] feat(team-discovery): surface LinkedIn headshot URL through enrichment result
+[2026-05-02T17:09:00+02:00] fix(team-discovery): reject SVG placeholders and probe lazy-load image attributes
