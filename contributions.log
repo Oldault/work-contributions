@@ -2574,3 +2574,4 @@
 [2026-04-30T17:44:43+02:00] test(financial-deepsearch): add final Apr 30 recall runs after probe-resolver landing
 [2026-05-01T09:42:00+02:00] refactor(frontend): remove PersonneDetail page and /personne route
 [2026-05-01T15:18:00+02:00] feat(ui): add BeneficiaireSuggestionsModal component
+[2026-05-02T07:43:45+02:00] docs(financial-deepsearch): design doc for discovery session handoff
