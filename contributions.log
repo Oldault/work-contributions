@@ -2588,3 +2588,4 @@
 [2026-05-04T11:39:03+02:00] feat(team-discovery): show source favicon in member detail panel
 [2026-05-04T13:38:33+02:00] feat(financial-deepsearch): add adaptive discovery orchestrator scaffold (static mode)
 [2026-05-04T13:50:17+02:00] feat(financial-deepsearch): implement quality-first adaptive discovery orchestration
+[2026-05-04T13:56:48+02:00] feat(financial-deepsearch): bench harness reports adaptive discovery routing stats
