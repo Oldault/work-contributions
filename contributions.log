@@ -2581,3 +2581,4 @@
 [2026-05-03T11:05:00+02:00] docs(team-discovery): add Equipe tab cleanup-and-polish design doc
 [2026-05-03T16:33:00+02:00] fix(team-discovery): only enforce per-hour throttle in production
 [2026-05-04T09:48:00+02:00] feat(team-discovery): Playwright-direct fallback and MEDIUM-tier reserve for shell-rendered sites
+[2026-05-04T10:35:45+02:00] docs(financial-deepsearch): design doc for per-run discovery budget cap
