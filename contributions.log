@@ -2586,3 +2586,4 @@
 [2026-05-04T10:56:56+02:00] feat(financial-deepsearch): update QueryExpansionProvider for adaptive budget-aware firing
 [2026-05-04T14:21:00+02:00] test: align team-discovery and Equipe tests with v6 pipeline
 [2026-05-04T11:39:03+02:00] feat(team-discovery): show source favicon in member detail panel
+[2026-05-04T13:38:33+02:00] feat(financial-deepsearch): add adaptive discovery orchestrator scaffold (static mode)
