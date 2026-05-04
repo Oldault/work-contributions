@@ -2594,3 +2594,4 @@
 [2026-05-04T17:00:26+02:00] feat(financial-deepsearch): lower EV stop threshold 0.5 -> 0.3
 [2026-05-04T17:21:38+02:00] feat(financial-deepsearch): add exa to primary set for issuer-PDF and AMF templates
 [2026-05-04T17:54:44+02:00] Merge branch 'main' into staging
+[2026-05-04T20:10:33+02:00] Merge pull request #191 from Tailorlead/staging
