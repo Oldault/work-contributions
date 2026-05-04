@@ -2584,3 +2584,4 @@
 [2026-05-04T10:35:45+02:00] docs(financial-deepsearch): design doc for per-run discovery budget cap
 [2026-05-04T11:42:07+02:00] docs(financial-deepsearch): design doc for adaptive discovery algorithm
 [2026-05-04T10:56:56+02:00] feat(financial-deepsearch): update QueryExpansionProvider for adaptive budget-aware firing
+[2026-05-04T14:21:00+02:00] test: align team-discovery and Equipe tests with v6 pipeline
