@@ -2620,3 +2620,4 @@
 [2026-05-05T12:49:07+02:00] docs(team-discovery): design docs and CLAUDE.md update for error-handling and perf fixes
 [2026-05-05T14:45:56+02:00] Merge pull request #193 from Tailorlead/staging
 [2026-05-05T14:59:20+02:00] fix(financial-deepsearch): v2.2 IR section 2-hop BFS discovery
+[2026-05-05T15:24:51+02:00] docs(financial-deepsearch): bench cost rules — smoke-test by default
