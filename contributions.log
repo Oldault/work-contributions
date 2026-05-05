@@ -2623,3 +2623,4 @@
 [2026-05-05T15:24:51+02:00] docs(financial-deepsearch): bench cost rules — smoke-test by default
 [2026-05-05T15:26:26+02:00] fix(companies): implement fetchWebsiteExcerptForSummary on CompaniesService
 [2026-05-05T15:55:33+02:00] refactor(financial-deepsearch): v2.3 drop zero-yield wire archive strategies
+[2026-05-05T15:55:45+02:00] test(financial-deepsearch): v2.3 offline canonicalization rescore tool
