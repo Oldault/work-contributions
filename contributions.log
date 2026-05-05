@@ -2602,3 +2602,4 @@
 [2026-05-05T11:22:47+02:00] feat(financial-deepsearch): v2.2 remove zero-yield AMF templates
 [2026-05-05T11:30:41+02:00] feat(financial-deepsearch): v2.2 DirectoryEnumerationProvider core
 [2026-05-05T11:33:24+02:00] feat(financial-deepsearch): v2.2 directory_enumeration budget bucket
+[2026-05-05T11:38:49+02:00] feat(financial-deepsearch): v2.2 wire DirectoryEnumeration into orchestrator
