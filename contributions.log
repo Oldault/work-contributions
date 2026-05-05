@@ -2615,3 +2615,4 @@
 [2026-05-05T16:09:06+02:00] feat(team-discovery): pipeline error propagation, requestId telemetry, and cache replay
 [2026-05-05T15:26:26+02:00] feat(companies): expose website field and company-summary AI module
 [2026-05-05T14:44:14+02:00] feat(frontend): Equipe tab error-handling components and teamErrors service
+[2026-05-05T15:26:38+02:00] feat(frontend): EquipeSection refresh, enrichment store, and teamService SSE error handling
