@@ -2614,3 +2614,4 @@
 [2026-05-05T12:47:47+02:00] feat(team-discovery): Firecrawl browser-pool, streaming timeouts, and websiteName extraction
 [2026-05-05T16:09:06+02:00] feat(team-discovery): pipeline error propagation, requestId telemetry, and cache replay
 [2026-05-05T15:26:26+02:00] feat(companies): expose website field and company-summary AI module
+[2026-05-05T14:44:14+02:00] feat(frontend): Equipe tab error-handling components and teamErrors service
