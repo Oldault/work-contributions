@@ -2609,3 +2609,4 @@
 [2026-05-05T11:55:52+02:00] Merge pull request #192 from Tailorlead/fix/enrichment-throttle
 [2026-05-05T11:56:23+02:00] Merge branch 'main' into staging
 [2026-05-05T12:30:34+02:00] fix(financial-deepsearch): v2.2 strategy fixes — adapt to live IR sites
+[2026-05-05T12:47:47+02:00] chore(config): add request-id middleware and vite proxy timeout
