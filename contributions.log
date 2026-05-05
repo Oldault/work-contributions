@@ -2624,3 +2624,4 @@
 [2026-05-05T15:26:26+02:00] fix(companies): implement fetchWebsiteExcerptForSummary on CompaniesService
 [2026-05-05T15:55:33+02:00] refactor(financial-deepsearch): v2.3 drop zero-yield wire archive strategies
 [2026-05-05T15:55:45+02:00] test(financial-deepsearch): v2.3 offline canonicalization rescore tool
+[2026-05-05T16:02:21+02:00] fix(financial-deepsearch): v2.3 bench canonicalizes date-stamped slug drift
