@@ -2612,3 +2612,4 @@
 [2026-05-05T12:47:47+02:00] chore(config): add request-id middleware and vite proxy timeout
 [2026-05-05T12:47:47+02:00] feat(team-discovery): introduce typed error codes and structured error payloads
 [2026-05-05T12:47:47+02:00] feat(team-discovery): Firecrawl browser-pool, streaming timeouts, and websiteName extraction
+[2026-05-05T16:09:06+02:00] feat(team-discovery): pipeline error propagation, requestId telemetry, and cache replay
