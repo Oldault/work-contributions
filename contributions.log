@@ -2595,3 +2595,4 @@
 [2026-05-04T17:21:38+02:00] feat(financial-deepsearch): add exa to primary set for issuer-PDF and AMF templates
 [2026-05-04T17:54:44+02:00] Merge branch 'main' into staging
 [2026-05-04T20:10:33+02:00] Merge pull request #191 from Tailorlead/staging
+[2026-05-05T10:22:59+02:00] revert(financial-deepsearch): drop exa-primary on issuer-pdf/AMF templates (revert bb2881c1)
