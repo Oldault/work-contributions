@@ -2606,3 +2606,4 @@
 [2026-05-05T11:44:39+02:00] feat(financial-deepsearch): v2.2 bench harness directory-enumeration columns
 [2026-05-05T11:48:03+02:00] refactor(financial-deepsearch): v2.2 directory-enum cleanup pass
 [2026-05-05T11:54:58+02:00] fix(server): relax enrichment throttle + add DISABLE_THROTTLE kill-switch
+[2026-05-05T11:55:52+02:00] Merge pull request #192 from Tailorlead/fix/enrichment-throttle
