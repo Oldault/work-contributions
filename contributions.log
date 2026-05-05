@@ -2600,3 +2600,4 @@
 [2026-05-05T10:38:46+02:00] feat(financial-deepsearch): v2.1 query templates + probe SIREN override
 [2026-05-05T11:19:32+02:00] feat(financial-deepsearch): v2.2 directory enumeration filter config
 [2026-05-05T11:22:47+02:00] feat(financial-deepsearch): v2.2 remove zero-yield AMF templates
+[2026-05-05T11:30:41+02:00] feat(financial-deepsearch): v2.2 DirectoryEnumerationProvider core
