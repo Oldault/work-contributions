@@ -2616,3 +2616,4 @@
 [2026-05-05T15:26:26+02:00] feat(companies): expose website field and company-summary AI module
 [2026-05-05T14:44:14+02:00] feat(frontend): Equipe tab error-handling components and teamErrors service
 [2026-05-05T15:26:38+02:00] feat(frontend): EquipeSection refresh, enrichment store, and teamService SSE error handling
+[2026-05-05T15:28:11+02:00] test: add team-discovery pipeline, error-handling, and Firecrawl unit tests
