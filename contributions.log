@@ -2633,3 +2633,4 @@
 [2026-05-05T16:19:36+02:00] test(financial-deepsearch): align fanout-integration test with row-1 0.75
 [2026-05-06T10:37:32+02:00] test(financial-deepsearch): 2026-05-06 smoke validation results
 [2026-05-06T10:37:50+02:00] docs(financial-deepsearch): v2.3 hand-off doc reflects shipped state
+[2026-05-06T10:38:13+02:00] docs(financial-deepsearch): consolidate v2 design docs into reference
