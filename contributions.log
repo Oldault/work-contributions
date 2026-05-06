@@ -2631,3 +2631,4 @@
 [2026-05-05T16:16:38+02:00] test(financial-deepsearch): v2.1 pre-enum bench results
 [2026-05-05T16:16:48+02:00] test(financial-deepsearch): v2.2/v2.3 directory-enum bench results
 [2026-05-05T16:19:36+02:00] test(financial-deepsearch): align fanout-integration test with row-1 0.75
+[2026-05-06T10:37:32+02:00] test(financial-deepsearch): 2026-05-06 smoke validation results
