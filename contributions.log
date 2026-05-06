@@ -2634,3 +2634,4 @@
 [2026-05-06T10:37:32+02:00] test(financial-deepsearch): 2026-05-06 smoke validation results
 [2026-05-06T10:37:50+02:00] docs(financial-deepsearch): v2.3 hand-off doc reflects shipped state
 [2026-05-06T10:38:13+02:00] docs(financial-deepsearch): consolidate v2 design docs into reference
+[2026-05-06T13:47:19+02:00] docs(financial-deepsearch): v2 stages 4-6 design doc + corrected baseline
