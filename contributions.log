@@ -2640,3 +2640,4 @@
 [2026-05-07T10:32:41+02:00] feat(financial-deepsearch): persist raw ledger alongside captures
 [2026-05-07T10:40:05+02:00] feat(financial-deepsearch): forensic missing-cell audit tool
 [2026-05-07T12:51:50+02:00] feat(financial-deepsearch): plumb requestedYears through EnumerationContext
+[2026-05-07T12:57:26+02:00] feat(financial-deepsearch): add Workstream X config constants + record actusnews probe finding
