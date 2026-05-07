@@ -2638,3 +2638,4 @@
 [2026-05-06T14:48:50+02:00] feat(financial-deepsearch): close §4.3 stages 4-6 — recall 38.5% → 55.1%
 [2026-05-07T10:30:45+02:00] feat(financial-deepsearch): mission-aligned recall_v2_online in v2-poc bench
 [2026-05-07T10:32:41+02:00] feat(financial-deepsearch): persist raw ledger alongside captures
+[2026-05-07T10:40:05+02:00] feat(financial-deepsearch): forensic missing-cell audit tool
