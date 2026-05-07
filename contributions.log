@@ -2656,3 +2656,4 @@
 [2026-05-07T17:42:41+02:00] feat(server): wire FinancialDeepsearchV2Module behind FDS_V2_ENABLED flag
 [2026-05-07T11:19:38+02:00] docs(designs): add assurance-credit vertical opportunity analysis
 [2026-05-07T12:06:32+02:00] feat(financial-deepsearch): persist augmented findings and audit-consume them
+[2026-05-07T12:06:49+02:00] docs(financial-deepsearch): close Phase B with §5 shipped, §4.2 regression evidence
