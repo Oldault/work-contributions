@@ -2645,3 +2645,4 @@
 [2026-05-07T13:02:59+02:00] feat(financial-deepsearch): ir-archive-year-walk strategy + tests
 [2026-05-07T13:05:26+02:00] feat(financial-deepsearch): webdisclosure-year-filter stub (deferred — design premise disconfirmed)
 [2026-05-07T13:07:14+02:00] feat(financial-deepsearch): canonicalize strips ?an=*/?annee=* on archive listings
+[2026-05-07T13:12:47+02:00] feat(financial-deepsearch): bench passes oracle years; v2-poc fires directory enumeration
