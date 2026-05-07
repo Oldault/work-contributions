@@ -2651,3 +2651,4 @@
 [2026-05-07T16:42:47+02:00] feat(financial-deepsearch): period-rollup derivation (W-EXT §4.1)
 [2026-05-07T16:42:56+02:00] feat(financial-deepsearch): host-trust auto-populate from resolver (W-EXT §4.4)
 [2026-05-07T16:43:08+02:00] feat(financial-deepsearch): bench wires probe-resolver, period-type filter, trustUpdates consumption
+[2026-05-07T16:48:32+02:00] feat(financial-deepsearch): narrative-% + multi-year extraction prompt amendment
