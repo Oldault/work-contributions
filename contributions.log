@@ -2649,3 +2649,4 @@
 [2026-05-07T16:42:27+02:00] docs(financial-deepsearch): v2 quality closeout design + extraction-quality + historical-filings + pipeline map
 [2026-05-07T16:42:37+02:00] feat(financial-deepsearch): rank-stage year-match promotion (W-X'.1)
 [2026-05-07T16:42:47+02:00] feat(financial-deepsearch): period-rollup derivation (W-EXT §4.1)
+[2026-05-07T16:42:56+02:00] feat(financial-deepsearch): host-trust auto-populate from resolver (W-EXT §4.4)
