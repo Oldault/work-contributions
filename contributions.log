@@ -2672,3 +2672,4 @@
 [2026-05-09T18:14:26+02:00] feat(financial-deepsearch): Layer C — demote Anglosphere wires for unlisted SMEs
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): Layer C — word-boundary nameMatch + Anglosphere gate in ranker
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): Layer C — thread isUnlistedSme flag through conflict resolver
+[2026-05-09T18:13:49+02:00] feat(financial-deepsearch): Layer D — inject identity block into Gemini prompt for homonym rejection
