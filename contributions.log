@@ -2680,3 +2680,4 @@
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): add v2 diagnostic types to frontend (EmptyReason, PipelineDiagnostic, StageWarning)
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): extend Zustand store with diagnostic, warnings, and emptyReason state
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): explicit cancel via DELETE endpoint + SSE handlers for v2 diagnostic events
+[2026-05-09T11:38:18+02:00] feat(financial-deepsearch): add diagnostic UI components and wire into FinancialDeepSearch
