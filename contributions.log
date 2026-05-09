@@ -2664,3 +2664,4 @@
 [2026-05-07T22:34:34+02:00] feat(financial-deepsearch): frontend wires v2 SSE + progress UX hardening
 [2026-05-09T18:13:49+02:00] deps(financial-deepsearch): add posthog-node for server-side analytics
 [2026-05-09T18:13:49+02:00] config(financial-deepsearch): document PostHog env vars in .env.example
+[2026-05-09T11:38:18+02:00] docs(financial-deepsearch): add entity-disambiguation design + ship-path + provider codes
