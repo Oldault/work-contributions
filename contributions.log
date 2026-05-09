@@ -2675,3 +2675,4 @@
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): Layer D — inject identity block into Gemini prompt for homonym rejection
 [2026-05-09T18:07:18+02:00] feat(financial-deepsearch): Layer E — size-bucket sanity filter drops order-of-magnitude outliers
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): add onProgress callback and provider introspection to search fanout
+[2026-05-09T18:13:49+02:00] feat(financial-deepsearch): v2 service wires disambiguation layers A–E, diagnostic, and warnings
