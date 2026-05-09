@@ -2683,3 +2683,4 @@
 [2026-05-09T11:38:18+02:00] feat(financial-deepsearch): add diagnostic UI components and wire into FinancialDeepSearch
 [2026-05-09T18:13:49+02:00] refactor(frontend): normalize API error handling and redact provider names in apiClient
 [2026-05-09T18:13:49+02:00] refactor(frontend): redact provider names from logs/toasts and remove error-swallowing try/catch
+[2026-05-09T18:20:47+02:00] test(financial-deepsearch): update query-expansion tests for Layer A + wire disambiguation into bench
