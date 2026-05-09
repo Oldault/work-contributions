@@ -2670,3 +2670,4 @@
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): quote {name} in all search query templates (Layer A §4)
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): apply name normalization before query expansion (Layer A §4)
 [2026-05-09T18:14:26+02:00] feat(financial-deepsearch): Layer C — demote Anglosphere wires for unlisted SMEs
+[2026-05-09T18:13:49+02:00] feat(financial-deepsearch): Layer C — word-boundary nameMatch + Anglosphere gate in ranker
