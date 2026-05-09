@@ -2679,3 +2679,4 @@
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): v2 controller — PostHog tracking, no-abort-on-disconnect, diagnostic on SSE events
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): add v2 diagnostic types to frontend (EmptyReason, PipelineDiagnostic, StageWarning)
 [2026-05-09T18:13:49+02:00] feat(financial-deepsearch): extend Zustand store with diagnostic, warnings, and emptyReason state
+[2026-05-09T18:13:49+02:00] feat(financial-deepsearch): explicit cancel via DELETE endpoint + SSE handlers for v2 diagnostic events
