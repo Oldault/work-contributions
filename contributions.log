@@ -2686,3 +2686,4 @@
 [2026-05-09T18:20:47+02:00] test(financial-deepsearch): update query-expansion tests for Layer A + wire disambiguation into bench
 [2026-05-09T18:13:49+02:00] test(frontend): update apiClient test to match 5xx generic-message behavior
 [2026-05-10T19:21:45+02:00] fix(financial-deepsearch): tighten audit-missing-cells percent matching to remove B2 false positives
+[2026-05-10T19:21:59+02:00] docs(financial-deepsearch): add WS-4 attempt-2 run log + audit-correction + WS-3 decision to ship-path doc
