@@ -2692,3 +2692,4 @@
 [2026-05-10T19:59:50+02:00] docs(financial-deepsearch): record W-EXT-2 commits + smoke-1778435390548 run log
 [2026-05-10T20:47:07+02:00] fix(financial-deepsearch): audit requires '%' suffix on percent-metric variants
 [2026-05-10T20:53:00+02:00] feat(financial-deepsearch): add SOURCE_TARGETED_HISTORICAL_TEMPLATES for archive discovery
+[2026-05-10T20:53:56+02:00] docs(financial-deepsearch): record audit percent-fix + historical-source templates in ship-path doc
