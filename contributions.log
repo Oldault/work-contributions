@@ -2688,3 +2688,4 @@
 [2026-05-10T19:21:45+02:00] fix(financial-deepsearch): tighten audit-missing-cells percent matching to remove B2 false positives
 [2026-05-10T19:21:59+02:00] docs(financial-deepsearch): add WS-4 attempt-2 run log + audit-correction + WS-3 decision to ship-path doc
 [2026-05-10T19:33:17+02:00] feat(financial-deepsearch): add rules 15-17 to extractor prompt for multi-total tables
+[2026-05-10T19:38:55+02:00] feat(financial-deepsearch): add historical-7y year policy for margin/croissance discovery
