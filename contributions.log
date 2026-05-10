@@ -2689,3 +2689,4 @@
 [2026-05-10T19:21:59+02:00] docs(financial-deepsearch): add WS-4 attempt-2 run log + audit-correction + WS-3 decision to ship-path doc
 [2026-05-10T19:33:17+02:00] feat(financial-deepsearch): add rules 15-17 to extractor prompt for multi-total tables
 [2026-05-10T19:38:55+02:00] feat(financial-deepsearch): add historical-7y year policy for margin/croissance discovery
+[2026-05-10T19:59:50+02:00] docs(financial-deepsearch): record W-EXT-2 commits + smoke-1778435390548 run log
