@@ -2694,3 +2694,4 @@
 [2026-05-10T20:53:00+02:00] feat(financial-deepsearch): add SOURCE_TARGETED_HISTORICAL_TEMPLATES for archive discovery
 [2026-05-10T20:53:56+02:00] docs(financial-deepsearch): record audit percent-fix + historical-source templates in ship-path doc
 [2026-05-10T21:21:13+02:00] docs(financial-deepsearch): add cost-reduction zero-regression design doc
+[2026-05-10T21:27:09+02:00] docs(financial-deepsearch): add latency zero-regression design doc
