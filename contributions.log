@@ -2697,3 +2697,4 @@
 [2026-05-10T21:27:09+02:00] docs(financial-deepsearch): add latency zero-regression design doc
 [2026-05-10T21:26:34+02:00] feat(db): add fds_v2 extraction, scrape, and probe cache tables
 [2026-05-10T21:28:06+02:00] feat(financial-deepsearch): add deterministic cache-key builder
+[2026-05-10T21:45:21+02:00] feat(financial-deepsearch): add early-exit decision for private SMEs
