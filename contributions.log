@@ -2695,3 +2695,4 @@
 [2026-05-10T20:53:56+02:00] docs(financial-deepsearch): record audit percent-fix + historical-source templates in ship-path doc
 [2026-05-10T21:21:13+02:00] docs(financial-deepsearch): add cost-reduction zero-regression design doc
 [2026-05-10T21:27:09+02:00] docs(financial-deepsearch): add latency zero-regression design doc
+[2026-05-10T21:26:34+02:00] feat(db): add fds_v2 extraction, scrape, and probe cache tables
