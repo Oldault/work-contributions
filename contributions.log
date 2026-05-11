@@ -2703,3 +2703,4 @@
 [2026-05-10T21:45:21+02:00] feat(financial-deepsearch): add Firecrawl scrape cache with tier-TTL revalidation
 [2026-05-10T21:45:21+02:00] feat(financial-deepsearch): wire caches, probe parallelism, early-exit, latency bumps
 [2026-05-10T21:45:21+02:00] chore(deps): add undici for keep-alive HTTP transport (latency Phase 1)
+[2026-05-11T16:16:32+02:00] feat(financial-deepsearch): cache hit/miss counters and content-addressed chunk keys
