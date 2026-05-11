@@ -2706,3 +2706,4 @@
 [2026-05-11T16:16:32+02:00] feat(financial-deepsearch): cache hit/miss counters and content-addressed chunk keys
 [2026-05-11T16:16:39+02:00] docs(financial-deepsearch): closing design pair — cache observability + finish plan
 [2026-05-11T19:33:51+02:00] docs(financial-deepsearch): record WS-3 decision and 2026-05-11 bench outcome
+[2026-05-11T19:38:23+02:00] docs(financial-deepsearch): archive 36 v2 design docs and write retrospective
