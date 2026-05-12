@@ -2711,3 +2711,4 @@
 [2026-05-12T11:05:13+02:00] feat(financial-deepsearch-v2): implement HybridMergeService with tier-0 promotion rules
 [2026-05-12T11:00:23+02:00] feat(financial-deepsearch-v2): add admin shadow-summary endpoint and register HybridMergeService in module
 [2026-05-12T11:03:20+02:00] feat(financial-deepsearch-v2): wire hybrid v1+v2 merge into streaming controller
+[2026-05-12T11:17:03+02:00] feat(financial-deepsearch): merge v1+v2 in /cache endpoint and expose getCachedFindings
