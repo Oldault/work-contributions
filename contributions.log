@@ -2709,3 +2709,4 @@
 [2026-05-11T19:38:23+02:00] docs(financial-deepsearch): archive 36 v2 design docs and write retrospective
 [2026-05-12T10:54:49+02:00] feat(financial-deepsearch-v2): add source_origin field to V1Finding and separate v2 cache key
 [2026-05-12T11:05:13+02:00] feat(financial-deepsearch-v2): implement HybridMergeService with tier-0 promotion rules
+[2026-05-12T11:00:23+02:00] feat(financial-deepsearch-v2): add admin shadow-summary endpoint and register HybridMergeService in module
