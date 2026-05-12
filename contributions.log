@@ -2714,3 +2714,4 @@
 [2026-05-12T11:17:03+02:00] feat(financial-deepsearch): merge v1+v2 in /cache endpoint and expose getCachedFindings
 [2026-05-12T11:07:45+02:00] feat(frontend): propagate source_origin and render hybrid provenance in finance cells
 [2026-05-12T11:07:06+02:00] chore(config): document FDS_V2_ENABLED and FDS_HYBRID_ENABLED env vars
+[2026-05-12T15:27:11+02:00] revert(financial-deepsearch-v2): undo hybrid v1+v2 mode
