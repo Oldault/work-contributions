@@ -2719,3 +2719,4 @@
 [2026-05-12T15:29:30+02:00] chore(companies): remove debug console.log calls in FinancesSection
 [2026-05-12T15:29:37+02:00] fix(docker): use container IP for Langfuse healthcheck
 [2026-05-13T10:17:58+02:00] fix(financial-deepsearch-v2): correct cibox identity in golden-dataset
+[2026-05-13T10:23:15+02:00] test(financial-deepsearch-v2): add POC 1+1b scripts and workspace artifacts
