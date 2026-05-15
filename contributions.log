@@ -2721,3 +2721,4 @@
 [2026-05-13T10:17:58+02:00] fix(financial-deepsearch-v2): correct cibox identity in golden-dataset
 [2026-05-13T10:23:15+02:00] test(financial-deepsearch-v2): add POC 1+1b scripts and workspace artifacts
 [2026-05-13T10:23:34+02:00] docs(financial-deepsearch-v2): add revival POC plan + 2026-05-13 postmortem
+[2026-05-15T12:16:59+02:00] chore(financial-deepsearch-v2): add itesoft POC 1 model-swap extraction artifact
