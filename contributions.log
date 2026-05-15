@@ -2724,3 +2724,4 @@
 [2026-05-15T12:16:59+02:00] chore(financial-deepsearch-v2): add itesoft POC 1 model-swap extraction artifact
 [2026-05-15T12:17:07+02:00] feat(financial-deepsearch-v2): add Reachability type and reachability field to GroundTruthValue
 [2026-05-15T12:17:13+02:00] feat(financial-deepsearch-v2): wire reachability into recall scorer, add OutOfV2ScopeReport
+[2026-05-15T12:17:20+02:00] chore(financial-deepsearch-v2): stamp reachability classifications + add audit tooling
