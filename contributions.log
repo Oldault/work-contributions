@@ -2727,3 +2727,4 @@
 [2026-05-15T12:17:20+02:00] chore(financial-deepsearch-v2): stamp reachability classifications + add audit tooling
 [2026-05-15T12:17:27+02:00] fix(financial-deepsearch-v2): loosen confidence/scope gates in margin-derivation provider
 [2026-05-15T12:17:35+02:00] test(financial-deepsearch-v2): add unit tests for scope/confidence loosening in margin-derivation
+[2026-05-15T12:17:43+02:00] docs(financial-deepsearch-v2): add §7-§9 to postmortem — oracle calibration, scope correction, cibox deep-dive
