@@ -2732,3 +2732,4 @@
 [2026-05-19T11:26:17+02:00] fix(financial-deepsearch): sanitize synthetic host URLs and infer projection flag in mapper
 [2026-05-19T11:51:25+02:00] fix(frontend): downgrade expected 4xx API errors from error to warn level
 [2026-05-19T11:04:28+02:00] fix(ui): guard source links against empty URL in finance table cells and popovers
+[2026-05-19T11:44:05+02:00] feat(ui): add SourceChip component, Proj. badge, and marge nette fallback derivation
