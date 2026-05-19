@@ -2730,3 +2730,4 @@
 [2026-05-15T12:17:43+02:00] docs(financial-deepsearch-v2): add §7-§9 to postmortem — oracle calibration, scope correction, cibox deep-dive
 [2026-05-19T11:51:25+02:00] chore(financial-deepsearch): document FDS_V2_ENABLED master switch in env example
 [2026-05-19T11:26:17+02:00] fix(financial-deepsearch): sanitize synthetic host URLs and infer projection flag in mapper
+[2026-05-19T11:51:25+02:00] fix(frontend): downgrade expected 4xx API errors from error to warn level
