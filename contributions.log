@@ -2738,3 +2738,4 @@
 [2026-05-22T12:57:21+02:00] chore(benchmarks): ignore financial-deepsearch cache and POC artifacts
 [2026-05-22T12:57:34+02:00] feat(mastra): scaffold Tholex search POC with adaptive search agent
 [2026-05-22T15:46:41+02:00] chore(docker): upgrade Langfuse to v3 stack
+[2026-05-22T15:46:49+02:00] chore(deps): add @mastra/langfuse and exa-js to mastra
