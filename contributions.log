@@ -2751,3 +2751,4 @@
 [2026-05-22T16:57:50+02:00] feat(mastra): add narrated Tavily search/extract wrappers
 [2026-05-22T16:58:00+02:00] feat(tholex): narrate every Tholex tool call on its Langfuse span
 [2026-05-22T16:58:07+02:00] feat(mastra): narrate exa_web_search span with query + top domains
+[2026-05-22T16:58:15+02:00] feat(mastra): narrate cluster_results_by_group with size + score
