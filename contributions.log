@@ -2742,3 +2742,4 @@
 [2026-05-22T15:46:58+02:00] feat(mastra): wire Langfuse exporter into observability config
 [2026-05-22T15:47:07+02:00] feat(mastra): add Exa full-page web search tool
 [2026-05-22T15:47:16+02:00] feat(mastra): wire Exa into searchOrchestrator and redact its name
+[2026-05-22T15:47:26+02:00] chore(mastra): tighten tool descriptions for LLM legibility
