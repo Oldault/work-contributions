@@ -2740,3 +2740,4 @@
 [2026-05-22T15:46:41+02:00] chore(docker): upgrade Langfuse to v3 stack
 [2026-05-22T15:46:49+02:00] chore(deps): add @mastra/langfuse and exa-js to mastra
 [2026-05-22T15:46:58+02:00] feat(mastra): wire Langfuse exporter into observability config
+[2026-05-22T15:47:07+02:00] feat(mastra): add Exa full-page web search tool
