@@ -2758,3 +2758,4 @@
 [2026-05-22T16:58:51+02:00] chore(mastra): add reset-working-memory script
 [2026-05-22T21:46:29+02:00] feat(mastra): decompose orchestrator into router + 4 specialists
 [2026-05-22T21:17:11+02:00] feat(mastra): add enterpriseOrchestrator, teamAgent, and webapp tool surface
+[2026-05-22T17:21:14+02:00] docs(mastra): update search-status design doc for decomposed architecture
