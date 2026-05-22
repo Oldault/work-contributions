@@ -2753,3 +2753,4 @@
 [2026-05-22T16:58:07+02:00] feat(mastra): narrate exa_web_search span with query + top domains
 [2026-05-22T16:58:15+02:00] feat(mastra): narrate cluster_results_by_group with size + score
 [2026-05-22T16:58:24+02:00] feat(mastra): add voluntary setPhase tool for adaptive trace narration
+[2026-05-22T16:58:33+02:00] feat(mastra): surface Sonnet extended thinking as Langfuse trace spans
