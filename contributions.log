@@ -2754,3 +2754,4 @@
 [2026-05-22T16:58:15+02:00] feat(mastra): narrate cluster_results_by_group with size + score
 [2026-05-22T16:58:24+02:00] feat(mastra): add voluntary setPhase tool for adaptive trace narration
 [2026-05-22T16:58:33+02:00] feat(mastra): surface Sonnet extended thinking as Langfuse trace spans
+[2026-05-22T16:58:44+02:00] refactor(mastra): wire narration/setPhase/reasoning + slim working memory
