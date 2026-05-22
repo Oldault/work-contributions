@@ -2749,3 +2749,4 @@
 [2026-05-22T16:57:31+02:00] feat(mastra): add narrateToolSpan helper for tool span observability
 [2026-05-22T16:57:41+02:00] feat(mastra): promote tool-span summaries into Langfuse trace tree titles
 [2026-05-22T16:57:50+02:00] feat(mastra): add narrated Tavily search/extract wrappers
+[2026-05-22T16:58:00+02:00] feat(tholex): narrate every Tholex tool call on its Langfuse span
