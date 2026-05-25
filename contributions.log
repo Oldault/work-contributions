@@ -2771,3 +2771,4 @@
 [2026-05-25T17:09:13+02:00] refactor(mastra): update agent wiring after disambiguation and enrichment split
 [2026-05-25T16:27:08+02:00] feat(mastra): register domainHeadResolver and enrichmentAgent in Mastra index
 [2026-05-25T18:04:46+02:00] test(mastra): add smoke scripts for disambiguation, enrichment, and enterprise flows
+[2026-05-25T16:31:54+02:00] docs(config): add internal-mastra to module map in CLAUDE.md
