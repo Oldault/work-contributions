@@ -2763,3 +2763,4 @@
 [2026-05-25T16:27:08+02:00] chore(mastra): add FULLENRICH_API_KEY and OPENAI_BASE_URL to env template
 [2026-05-25T16:14:14+02:00] feat(internal-mastra): add NestJS module exposing Mastra-only HTTP endpoints
 [2026-05-25T16:27:08+02:00] feat(internal-mastra): register InternalMastraModule in app root module
+[2026-05-25T16:31:23+02:00] feat(domain-resolution): expose reverse-lookup method for Mastra sidecar
