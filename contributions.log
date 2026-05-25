@@ -2769,3 +2769,4 @@
 [2026-05-25T16:17:30+02:00] feat(mastra): add domainHeadResolver agent for domain-to-siren mapping
 [2026-05-25T18:03:36+02:00] feat(mastra): add enrichmentAgent for person contact enrichment via FullEnrich
 [2026-05-25T17:09:13+02:00] refactor(mastra): update agent wiring after disambiguation and enrichment split
+[2026-05-25T16:27:08+02:00] feat(mastra): register domainHeadResolver and enrichmentAgent in Mastra index
