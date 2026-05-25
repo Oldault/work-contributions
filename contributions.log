@@ -2767,3 +2767,4 @@
 [2026-05-25T17:47:19+02:00] feat(mastra): add companyNews, domainToSiren, fullenrichPerson, and personEnrichments webapp tools
 [2026-05-25T16:10:02+02:00] feat(mastra): add shared disambiguation module for entity resolution logic
 [2026-05-25T16:17:30+02:00] feat(mastra): add domainHeadResolver agent for domain-to-siren mapping
+[2026-05-25T18:03:36+02:00] feat(mastra): add enrichmentAgent for person contact enrichment via FullEnrich
