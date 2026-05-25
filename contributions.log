@@ -2760,3 +2760,4 @@
 [2026-05-22T21:17:11+02:00] feat(mastra): add enterpriseOrchestrator, teamAgent, and webapp tool surface
 [2026-05-22T17:21:14+02:00] docs(mastra): update search-status design doc for decomposed architecture
 [2026-05-25T16:55:12+02:00] chore(deps): add @mastra/core@0.10, node-fetch, and update lockfile
+[2026-05-25T16:27:08+02:00] chore(mastra): add FULLENRICH_API_KEY and OPENAI_BASE_URL to env template
