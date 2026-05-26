@@ -2777,3 +2777,4 @@
 [2026-05-26T20:59:37+02:00] test(companies): refresh company-summary-website snapshot for date drift
 [2026-05-26T19:02:33Z] docs: update changelog
 [2026-05-26T21:30:11+02:00] perf(tholex): default reasoning_effort=minimal for faster NLP parsing
+[2026-05-26T19:32:41Z] docs: update changelog
