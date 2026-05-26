@@ -2774,3 +2774,4 @@
 [2026-05-25T16:31:54+02:00] docs(config): add internal-mastra to module map in CLAUDE.md
 [2026-05-25T17:48:31+02:00] docs(mastra): add architecture evolution and search engine gap-closures design docs
 [2026-05-26T20:56:16+02:00] feat(recherche): unified sidebar /recherche/avancee + /recherche/personnes
+[2026-05-26T20:59:37+02:00] test(companies): refresh company-summary-website snapshot for date drift
