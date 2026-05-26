@@ -2775,3 +2775,4 @@
 [2026-05-25T17:48:31+02:00] docs(mastra): add architecture evolution and search engine gap-closures design docs
 [2026-05-26T20:56:16+02:00] feat(recherche): unified sidebar /recherche/avancee + /recherche/personnes
 [2026-05-26T20:59:37+02:00] test(companies): refresh company-summary-website snapshot for date drift
+[2026-05-26T19:02:33Z] docs: update changelog
