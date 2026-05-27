@@ -2780,3 +2780,4 @@
 [2026-05-26T19:32:41Z] docs: update changelog
 [2026-05-26T22:07:00+02:00] feat(recherche): align /recherche/entreprises sidebar with /recherche/avancee
 [2026-05-26T20:08:34Z] docs: update changelog
+[2026-05-27T11:36:50+02:00] fix(company): check backend cache before re-triggering financial deepsearch
