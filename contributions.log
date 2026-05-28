@@ -2784,3 +2784,4 @@
 [2026-05-28T11:13:27+02:00] feat(packs): enforce pack consumption via interceptor with dedup
 [2026-05-28T11:13:39+02:00] feat(fund-intelligence): SSRF defense + Zod validation + pack consumption
 [2026-05-28T11:13:56+02:00] feat(contacts): resume contact enrichment + dedup by LinkedIn URL
+[2026-05-28T11:14:08+02:00] fix(ui): graceful AI fallback + Dialog/Command a11y warnings
