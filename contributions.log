@@ -2786,3 +2786,4 @@
 [2026-05-28T11:13:56+02:00] feat(contacts): resume contact enrichment + dedup by LinkedIn URL
 [2026-05-28T11:14:08+02:00] fix(ui): graceful AI fallback + Dialog/Command a11y warnings
 [2026-05-28T11:14:26+02:00] refactor(fund-detail): strip NLP layer from portfolio search
+[2026-05-28T11:23:05+02:00] test(companies): refresh company-summary-website snapshot for date drift
