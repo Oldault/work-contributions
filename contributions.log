@@ -2782,3 +2782,4 @@
 [2026-05-26T20:08:34Z] docs: update changelog
 [2026-05-27T11:36:50+02:00] fix(company): check backend cache before re-triggering financial deepsearch
 [2026-05-28T11:13:27+02:00] feat(packs): enforce pack consumption via interceptor with dedup
+[2026-05-28T11:13:39+02:00] feat(fund-intelligence): SSRF defense + Zod validation + pack consumption
