@@ -2789,3 +2789,4 @@
 [2026-05-28T11:23:05+02:00] test(companies): refresh company-summary-website snapshot for date drift
 [2026-05-28T13:49:13+02:00] fix(tholex): scope history endpoint by role like Pappers
 [2026-05-28T14:00:42+02:00] Merge pull request #210 from Tailorlead/feat/packs-fonds-hardening
+[2026-05-28T12:01:20Z] docs: update changelog
