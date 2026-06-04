@@ -2794,3 +2794,4 @@
 [2026-06-04T11:11:41+02:00] fix(server): scope chat throttlers to /api/chat so enrichment isn't capped at 4/min
 [2026-06-04T11:16:04+02:00] test(companies): refresh company-summary-website snapshot for date drift
 [2026-06-04T09:17:57Z] docs: update changelog
+[2026-06-04T11:45:22+02:00] test(companies): freeze clock in company-summary snapshot to stop date drift
