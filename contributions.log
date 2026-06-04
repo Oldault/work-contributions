@@ -2791,3 +2791,4 @@
 [2026-05-28T14:00:42+02:00] Merge pull request #210 from Tailorlead/feat/packs-fonds-hardening
 [2026-05-28T12:01:20Z] docs: update changelog
 [2026-06-02T00:02:38Z] deps(frontend): bump the minor-and-patch group across 1 directory with 66 updates
+[2026-06-04T11:11:41+02:00] fix(server): scope chat throttlers to /api/chat so enrichment isn't capped at 4/min
