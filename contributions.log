@@ -2796,3 +2796,4 @@
 [2026-06-04T09:17:57Z] docs: update changelog
 [2026-06-04T11:45:22+02:00] test(companies): freeze clock in company-summary snapshot to stop date drift
 [2026-06-04T09:48:19Z] docs: update changelog
+[2026-06-05T15:16:45+02:00] fix(deepsearch): guard against JSON.parse(null) in GeminiExtraction response parsing
