@@ -2854,3 +2854,4 @@
 [2026-06-08T15:36:06Z] docs: update changelog
 [2026-06-08T17:45:22+02:00] Merge pull request #215 from Tailorlead/chore/dependabot-integration
 [2026-06-09T00:25:56+02:00] docs(designs): AI-native capability-agents + Mastra integration plan
+[2026-06-09T00:25:57+02:00] feat(agent): Mastra AI-agent sidecar — orchestrators, specialists, tools, workflows
