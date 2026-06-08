@@ -2843,3 +2843,4 @@
 [2026-06-08T15:45:20+02:00] chore(deps): reconcile root lockfile after integrating 15 dependabot updates
 [2026-06-08T16:05:50+02:00] fix(deps): pin biome to 2.4.6 and silence TS6 deprecations in server tsconfig
 [2026-06-08T16:22:31+02:00] feat(admin): cross-user activity feed, summary aggregates, company-name resolution
+[2026-06-08T16:22:52+02:00] feat(frontend): global activity page (dashboard + feed + date presets)
