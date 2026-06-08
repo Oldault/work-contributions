@@ -2813,3 +2813,4 @@
 [2026-06-08T14:25:42+02:00] Merge remote-tracking branch 'origin/main' into db-148
 [2026-06-08T14:30:00+02:00] Merge remote-tracking branch 'origin/main' into db-142
 [2026-06-08T14:33:14+02:00] deps(backend): sync workspace lockfile for server jsdom 29
+[2026-06-08T14:33:25+02:00] Merge remote-tracking branch 'origin/main' into db-144
