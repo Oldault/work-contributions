@@ -2826,3 +2826,4 @@
 [2026-06-08T14:50:12+02:00] Merge remote-tracking branch 'origin/main' into db-147
 [2026-06-08T15:03:50+02:00] deps(server): bump express to 5 and make the router proxy version-safe
 [2026-06-08T15:40:54+02:00] Merge remote-tracking branch 'origin/dependabot/github_actions/pnpm/action-setup-6' into chore/dependabot-integration
+[2026-06-08T15:40:54+02:00] Merge remote-tracking branch 'origin/dependabot/github_actions/codecov/codecov-action-7' into chore/dependabot-integration
