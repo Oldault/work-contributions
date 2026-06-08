@@ -2845,3 +2845,4 @@
 [2026-06-08T16:22:31+02:00] feat(admin): cross-user activity feed, summary aggregates, company-name resolution
 [2026-06-08T16:22:52+02:00] feat(frontend): global activity page (dashboard + feed + date presets)
 [2026-06-08T16:22:53+02:00] refactor(frontend): harmonize settings hub into Mon espace / Administration
+[2026-06-08T16:22:53+02:00] feat(frontend): severity (critical/normal) for audited actions journal
