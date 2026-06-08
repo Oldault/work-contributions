@@ -2850,3 +2850,4 @@
 [2026-06-08T14:24:42Z] docs: update changelog
 [2026-06-08T16:57:02+02:00] fix(frontend): load recent searches from backend so they survive logout
 [2026-06-08T14:58:50Z] docs: update changelog
+[2026-06-08T17:34:32+02:00] fix(company): re-fetch beneficial owners when restoring from sync cache
