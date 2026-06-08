@@ -2805,3 +2805,4 @@
 [2026-06-08T10:26:39+02:00] fix(global): short-circuit LLM for plain SIREN/SIRET/company-name queries
 [2026-06-08T08:28:27Z] docs: update changelog
 [2026-06-08T11:13:22+02:00] fix(frontend): isolate current search state per tab to stop cross-tab pollution
+[2026-06-08T09:15:34Z] docs: update changelog
