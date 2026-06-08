@@ -2811,3 +2811,4 @@
 [2026-06-08T14:13:02+02:00] deps(backend): sync workspace root lockfile with server bumps
 [2026-06-08T14:19:56+02:00] Merge remote-tracking branch 'origin/main' into db-153
 [2026-06-08T14:25:42+02:00] Merge remote-tracking branch 'origin/main' into db-148
+[2026-06-08T14:30:00+02:00] Merge remote-tracking branch 'origin/main' into db-142
