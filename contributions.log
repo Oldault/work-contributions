@@ -2817,3 +2817,4 @@
 [2026-06-08T14:36:30+02:00] deps(backend): sync workspace lockfile for server isomorphic-dompurify 3
 [2026-06-08T14:36:40+02:00] Merge remote-tracking branch 'origin/main' into db-146
 [2026-06-08T14:40:14+02:00] Merge remote-tracking branch 'origin/main' into db-143
+[2026-06-08T14:40:41+02:00] deps(backend): sync workspace lockfile for server typescript 6
