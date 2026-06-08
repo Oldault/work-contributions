@@ -2856,3 +2856,4 @@
 [2026-06-09T00:25:56+02:00] docs(designs): AI-native capability-agents + Mastra integration plan
 [2026-06-09T00:25:57+02:00] feat(agent): Mastra AI-agent sidecar — orchestrators, specialists, tools, workflows
 [2026-06-09T00:25:59+02:00] feat(agent): user-to-agent SSE ingress, internal-mastra bridge, usage metering
+[2026-06-09T00:26:02+02:00] feat(ui): agent search page, SSE client/store, and skill palette
