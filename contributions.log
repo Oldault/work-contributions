@@ -2824,3 +2824,4 @@
 [2026-06-08T14:48:21+02:00] deps(frontend): bump typescript to 6 and silence baseUrl deprecation
 [2026-06-08T14:48:44+02:00] Merge remote-tracking branch 'origin/main' into db-151
 [2026-06-08T14:50:12+02:00] Merge remote-tracking branch 'origin/main' into db-147
+[2026-06-08T15:03:50+02:00] deps(server): bump express to 5 and make the router proxy version-safe
