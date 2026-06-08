@@ -2798,3 +2798,4 @@
 [2026-06-04T09:48:19Z] docs: update changelog
 [2026-06-05T15:16:45+02:00] fix(deepsearch): guard against JSON.parse(null) in GeminiExtraction response parsing
 [2026-06-05T13:38:20Z] docs: update changelog
+[2026-06-08T07:08:12Z] ci: bump codecov/codecov-action from 5 to 7
