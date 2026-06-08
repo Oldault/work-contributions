@@ -2847,3 +2847,4 @@
 [2026-06-08T16:22:53+02:00] refactor(frontend): harmonize settings hub into Mon espace / Administration
 [2026-06-08T16:22:53+02:00] feat(frontend): severity (critical/normal) for audited actions journal
 [2026-06-08T16:22:54+02:00] feat(api): dormant M2M tracking API with API-key auth
+[2026-06-08T14:24:42Z] docs: update changelog
