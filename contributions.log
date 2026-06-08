@@ -2806,3 +2806,4 @@
 [2026-06-08T08:28:27Z] docs: update changelog
 [2026-06-08T11:13:22+02:00] fix(frontend): isolate current search state per tab to stop cross-tab pollution
 [2026-06-08T09:15:34Z] docs: update changelog
+[2026-06-08T13:55:12+02:00] Merge remote-tracking branch 'origin/main' into db-140
