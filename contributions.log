@@ -2800,3 +2800,4 @@
 [2026-06-05T13:38:20Z] docs: update changelog
 [2026-06-08T07:08:12Z] ci: bump codecov/codecov-action from 5 to 7
 [2026-06-08T07:16:53Z] deps(backend): bump the minor-and-patch group across 1 directory with 37 updates
+[2026-06-08T10:26:26+02:00] fix(financial-deepsearch): reset table updates when company changes
