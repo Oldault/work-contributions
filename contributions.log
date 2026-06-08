@@ -2808,3 +2808,4 @@
 [2026-06-08T09:15:34Z] docs: update changelog
 [2026-06-08T13:55:12+02:00] Merge remote-tracking branch 'origin/main' into db-140
 [2026-06-08T14:12:19+02:00] deps(frontend): hold @biomejs/biome at 2.4.6
+[2026-06-08T14:13:02+02:00] deps(backend): sync workspace root lockfile with server bumps
