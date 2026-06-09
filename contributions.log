@@ -2869,3 +2869,4 @@
 [2026-06-09T18:37:07+02:00] docs(mastra): AI-native transition plan (roadmap + scorecard)
 [2026-06-09T18:37:08+02:00] fix(mastra): cluster dirigeants on a normalized person name
 [2026-06-09T18:37:09+02:00] test(mastra): offline eval harness, suite runner, cost/latency baseline
+[2026-06-09T18:38:00+02:00] fix(agent): thread the per-tenant org token to every mastra egress tool
