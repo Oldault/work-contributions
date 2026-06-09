@@ -2864,3 +2864,4 @@
 [2026-06-09T13:44:33+02:00] docs(mastra): agent model-selection analysis and pipeline reference map
 [2026-06-09T14:03:01+02:00] chore(mastra): env-configurable server port via MASTRA_PORT
 [2026-06-09T14:03:18+02:00] docs(mastra): operational + debugging guide; surface agent layer in root map
+[2026-06-09T14:21:14+02:00] fix(frontend): repair detail cache persistence so beneficial owners survive re-navigation
