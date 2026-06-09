@@ -2860,3 +2860,4 @@
 [2026-06-09T00:26:04+02:00] feat(docker): Mastra sidecar service for local/staging/prod
 [2026-06-09T13:44:04+02:00] feat(agent): group finances reads Pappers finances[] via webapp tool
 [2026-06-09T13:44:13+02:00] fix(agent): enable jsonPromptInjection on structured-output agents
+[2026-06-09T13:44:26+02:00] chore(agent): live-trace harness and HTML trace renderer
