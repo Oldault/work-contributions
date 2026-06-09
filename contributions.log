@@ -2863,3 +2863,4 @@
 [2026-06-09T13:44:26+02:00] chore(agent): live-trace harness and HTML trace renderer
 [2026-06-09T13:44:33+02:00] docs(mastra): agent model-selection analysis and pipeline reference map
 [2026-06-09T14:03:01+02:00] chore(mastra): env-configurable server port via MASTRA_PORT
+[2026-06-09T14:03:18+02:00] docs(mastra): operational + debugging guide; surface agent layer in root map
