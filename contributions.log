@@ -2871,3 +2871,4 @@
 [2026-06-09T18:37:09+02:00] test(mastra): offline eval harness, suite runner, cost/latency baseline
 [2026-06-09T18:38:00+02:00] fix(agent): thread the per-tenant org token to every mastra egress tool
 [2026-06-09T19:14:44+02:00] feat(linkedin-discovery): Google-first profile search with gender-aware matching
+[2026-06-09T19:15:18+02:00] fix(linkedin-discovery): scope LinkedIn photo search to the exact profile URL
