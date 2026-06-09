@@ -2858,3 +2858,4 @@
 [2026-06-09T00:25:59+02:00] feat(agent): user-to-agent SSE ingress, internal-mastra bridge, usage metering
 [2026-06-09T00:26:02+02:00] feat(ui): agent search page, SSE client/store, and skill palette
 [2026-06-09T00:26:04+02:00] feat(docker): Mastra sidecar service for local/staging/prod
+[2026-06-09T13:44:04+02:00] feat(agent): group finances reads Pappers finances[] via webapp tool
