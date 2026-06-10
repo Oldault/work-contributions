@@ -2885,3 +2885,4 @@
 [2026-06-10T15:39:54+02:00] feat(security): étend l'audit trail et durcit l'auth
 [2026-06-10T13:40:57Z] docs: update changelog
 [2026-06-10T16:00:41+02:00] fix(admin): resolve consultation entity name via tholex fallback
+[2026-06-10T14:01:27Z] docs: update changelog
