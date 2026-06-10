@@ -2884,3 +2884,4 @@
 [2026-06-10T15:39:29+02:00] fix(admin): refonte de la vue activité globale
 [2026-06-10T15:39:54+02:00] feat(security): étend l'audit trail et durcit l'auth
 [2026-06-10T13:40:57Z] docs: update changelog
+[2026-06-10T16:00:41+02:00] fix(admin): resolve consultation entity name via tholex fallback
