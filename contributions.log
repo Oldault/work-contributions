@@ -2880,3 +2880,4 @@
 [2026-06-10T12:57:55+02:00] fix(tholex): don't infer categorie_entreprise from sector/tech terms
 [2026-06-10T10:58:49Z] docs: update changelog
 [2026-06-10T13:26:32+02:00] fix(frontend): sync tholex messages to store via effect, not in setState updater
+[2026-06-10T11:28:17Z] docs: update changelog
