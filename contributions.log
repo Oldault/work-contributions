@@ -2887,3 +2887,4 @@
 [2026-06-10T16:00:41+02:00] fix(admin): resolve consultation entity name via tholex fallback
 [2026-06-10T14:01:27Z] docs: update changelog
 [2026-06-10T16:45:54+02:00] feat(tholex): conversational refine mode (add / modify / remove filters)
+[2026-06-10T14:47:03Z] docs: update changelog
