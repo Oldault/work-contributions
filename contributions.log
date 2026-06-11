@@ -2897,3 +2897,4 @@
 [2026-06-11T09:33:07+02:00] Merge origin/main into staging
 [2026-06-11T07:40:33Z] docs: update changelog
 [2026-06-11T09:53:58+02:00] fix(build): widen jest overrides so the staging frozen-lockfile install passes
+[2026-06-11T07:56:44Z] docs: update changelog
