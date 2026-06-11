@@ -2898,3 +2898,4 @@
 [2026-06-11T07:40:33Z] docs: update changelog
 [2026-06-11T09:53:58+02:00] fix(build): widen jest overrides so the staging frozen-lockfile install passes
 [2026-06-11T07:56:44Z] docs: update changelog
+[2026-06-11T10:15:49+02:00] fix(server): drop content-length when proxying /ingest to PostHog
