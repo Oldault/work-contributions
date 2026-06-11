@@ -2901,3 +2901,4 @@
 [2026-06-11T10:15:49+02:00] fix(server): drop content-length when proxying /ingest to PostHog
 [2026-06-11T08:53:42Z] docs: update changelog
 [2026-06-11T11:18:25+02:00] Merge pull request #216 from Tailorlead/staging
+[2026-06-11T11:46:50+02:00] docs: complete tracking API reference for external integrators
