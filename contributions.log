@@ -2943,3 +2943,4 @@
 [2026-06-15T18:08:28+02:00] feat(ui): show Lusha partial result in the card during enrichment
 [2026-06-15T18:17:07+02:00] fix(ui): hide enrichment provider names (Lusha/FullEnrich) from users
 [2026-06-15T18:17:07+02:00] fix(deepsearch): replace leaking pg advisory lock with in-memory lock
+[2026-06-15T19:35:30+02:00] fix(contacts): stop photo contamination from fetchLinkedInPhoto
