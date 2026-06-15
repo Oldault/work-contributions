@@ -2924,3 +2924,4 @@
 [2026-06-15T07:32:17Z] deps(frontend): Bump undici from 7.27.2 to 8.4.1
 [2026-06-15T07:33:03Z] deps(frontend): Bump isolated-vm from 6.1.2 to 7.0.0
 [2026-06-15T07:33:55Z] deps(frontend): Bump vite from 7.3.5 to 8.0.16
+[2026-06-15T13:21:27+02:00] feat(linkedin-discovery): owner-only photos, Exa enrichment & signal-based confidence
