@@ -2945,3 +2945,4 @@
 [2026-06-15T18:17:07+02:00] fix(deepsearch): replace leaking pg advisory lock with in-memory lock
 [2026-06-15T19:35:30+02:00] fix(contacts): stop photo contamination from fetchLinkedInPhoto
 [2026-06-15T21:32:23+02:00] fix(deepsearch): dedupe repeated words in actu entity name
+[2026-06-15T21:37:57+02:00] fix(deepsearch): release lock on client disconnect + retry once on 409
