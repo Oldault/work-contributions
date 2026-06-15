@@ -2936,3 +2936,4 @@
 [2026-06-15T17:31:02+02:00] fix(linkedin-discovery): match short brand vs longer legal name (CoinShares)
 [2026-06-15T17:36:50+02:00] feat(ui): spacious profile card for single-contact enrichment
 [2026-06-15T17:43:20+02:00] fix(linkedin-discovery): match first-name initials (JM = Jean-Marie)
+[2026-06-15T17:47:00+02:00] fix(linkedin-discovery): Serper photo fallback via name+company query
