@@ -2930,3 +2930,4 @@
 [2026-06-15T12:46:09Z] docs: update changelog
 [2026-06-15T15:06:59+02:00] feat(contacts): add Lusha enrichment service (Person API V2)
 [2026-06-15T15:40:28+02:00] feat(contacts): run Lusha + FullEnrich in parallel and merge (union)
+[2026-06-15T16:02:17+02:00] fix(linkedin-discovery): dedupe candidates by slug + after Exa enrichment
