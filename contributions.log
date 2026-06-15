@@ -2941,3 +2941,4 @@
 [2026-06-15T17:54:23+02:00] fix(linkedin-discovery): drop Serper photo fallback (returned connection faces)
 [2026-06-15T18:01:48+02:00] fix(linkedin-discovery): restore Serper photos, gated by Exa ghost signal
 [2026-06-15T18:08:28+02:00] feat(ui): show Lusha partial result in the card during enrichment
+[2026-06-15T18:17:07+02:00] fix(ui): hide enrichment provider names (Lusha/FullEnrich) from users
