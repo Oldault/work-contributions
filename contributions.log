@@ -2957,3 +2957,4 @@
 [2026-06-15T22:19:09+02:00] fix(deepsearch): always relaunch actu search so the résumé (profiles) loads
 [2026-06-15T22:23:57+02:00] feat(synthese): show actu DeepSearch recap in the Synthèse tab
 [2026-06-15T22:38:54+02:00] fix(linkedin-discovery): whole-word surname match (Guerber != Guerbé)
+[2026-06-15T22:49:47+02:00] fix(contacts): retry resumes enrichment instead of restarting from discovery
