@@ -2952,3 +2952,4 @@
 [2026-06-15T21:57:16+02:00] fix(deepsearch): dedupe query+entity name at the single choke point (startSearch)
 [2026-06-15T22:03:13+02:00] fix(deepsearch): keep articles when entity filter is over-aggressive (<=2 of >=6)
 [2026-06-15T22:05:18+02:00] fix(deepsearch): disable the 409 dedup that kept blocking searches
+[2026-06-15T22:08:03+02:00] fix(deepsearch): emit 'complete' with results on cache hit (UI was empty)
