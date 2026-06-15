@@ -2947,3 +2947,4 @@
 [2026-06-15T21:32:23+02:00] fix(deepsearch): dedupe repeated words in actu entity name
 [2026-06-15T21:37:57+02:00] fix(deepsearch): release lock on client disconnect + retry once on 409
 [2026-06-15T21:43:55+02:00] fix(deepsearch): keep low-confidence articles instead of showing 0
+[2026-06-15T21:47:48+02:00] fix(deepsearch): don't serve empty (0-result) cached searches
