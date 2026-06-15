@@ -2955,3 +2955,4 @@
 [2026-06-15T22:08:03+02:00] fix(deepsearch): emit 'complete' with results on cache hit (UI was empty)
 [2026-06-15T22:13:43+02:00] fix(deepsearch): canonical company name so actu results actually render
 [2026-06-15T22:19:09+02:00] fix(deepsearch): always relaunch actu search so the résumé (profiles) loads
+[2026-06-15T22:23:57+02:00] feat(synthese): show actu DeepSearch recap in the Synthèse tab
