@@ -2949,3 +2949,4 @@
 [2026-06-15T21:43:55+02:00] fix(deepsearch): keep low-confidence articles instead of showing 0
 [2026-06-15T21:47:48+02:00] fix(deepsearch): don't serve empty (0-result) cached searches
 [2026-06-15T21:53:04+02:00] fix(deepsearch): low-confidence fallback in _buildFinalResults (the real final filter)
+[2026-06-15T21:57:16+02:00] fix(deepsearch): dedupe query+entity name at the single choke point (startSearch)
