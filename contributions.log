@@ -2916,3 +2916,4 @@
 [2026-06-15T07:13:27Z] deps(backend): Bump isolated-vm from 6.1.2 to 7.0.0 in /server
 [2026-06-15T07:13:42Z] deps(backend): Bump testcontainers from 11.14.0 to 12.0.2 in /server
 [2026-06-15T07:26:52Z] deps(frontend): Bump testcontainers from 11.14.0 to 12.0.2
+[2026-06-15T07:27:51Z] deps(frontend): Bump tsparticles from 3.9.1 to 4.1.3
