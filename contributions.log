@@ -2932,3 +2932,4 @@
 [2026-06-15T15:40:28+02:00] feat(contacts): run Lusha + FullEnrich in parallel and merge (union)
 [2026-06-15T16:02:17+02:00] fix(linkedin-discovery): dedupe candidates by slug + after Exa enrichment
 [2026-06-15T16:17:06+02:00] feat(contacts): progressive SSE enrichment — show Lusha first, FullEnrich merges
+[2026-06-15T17:24:33+02:00] fix(frontend): dedupe merged candidates on "élargir la recherche"
