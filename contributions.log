@@ -2933,3 +2933,4 @@
 [2026-06-15T16:02:17+02:00] fix(linkedin-discovery): dedupe candidates by slug + after Exa enrichment
 [2026-06-15T16:17:06+02:00] feat(contacts): progressive SSE enrichment — show Lusha first, FullEnrich merges
 [2026-06-15T17:24:33+02:00] fix(frontend): dedupe merged candidates on "élargir la recherche"
+[2026-06-15T17:31:02+02:00] fix(linkedin-discovery): match short brand vs longer legal name (CoinShares)
