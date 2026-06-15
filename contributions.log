@@ -2927,3 +2927,4 @@
 [2026-06-15T13:21:27+02:00] feat(linkedin-discovery): owner-only photos, Exa enrichment & signal-based confidence
 [2026-06-15T11:23:32Z] docs: update changelog
 [2026-06-15T14:33:38+02:00] fix(financial-deepsearch): keep cfnews.net URLs in Firecrawl pool when no API token
+[2026-06-15T12:46:09Z] docs: update changelog
