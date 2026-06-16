@@ -2970,3 +2970,4 @@
 [2026-06-16T14:04:18+02:00] Merge pull request #234 from Tailorlead/feat/lusha-contact-enrichment
 [2026-06-16T12:05:08Z] docs: update changelog
 [2026-06-16T15:10:47+02:00] feat(linkedin-discovery): Harvest profile-search as primary discovery source
+[2026-06-16T15:11:08+02:00] feat(contacts): always-visible Enrich button + skip confirmation for single contact
