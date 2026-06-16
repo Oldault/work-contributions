@@ -2973,3 +2973,4 @@
 [2026-06-16T15:11:08+02:00] feat(contacts): always-visible Enrich button + skip confirmation for single contact
 [2026-06-16T15:15:22+02:00] Merge pull request #236 from Tailorlead/feat/lusha-contact-enrichment
 [2026-06-16T13:16:07Z] docs: update changelog
+[2026-06-16T16:11:06+02:00] fix(contacts): re-enrichment always bypasses the cache (empty + 'Refaire')
