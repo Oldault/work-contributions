@@ -2968,3 +2968,4 @@
 [2026-06-16T13:57:32+02:00] fix(contacts): re-launch restarts discovery + clean slot reuse
 [2026-06-16T14:02:28+02:00] test(contacts): align fan-out test with ContactsService constructor (Lusha DI)
 [2026-06-16T14:04:18+02:00] Merge pull request #234 from Tailorlead/feat/lusha-contact-enrichment
+[2026-06-16T12:05:08Z] docs: update changelog
