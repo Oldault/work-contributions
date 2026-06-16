@@ -2960,3 +2960,4 @@
 [2026-06-15T22:49:47+02:00] fix(contacts): retry resumes enrichment instead of restarting from discovery
 [2026-06-15T22:57:08+02:00] chore(contacts): log Lusha outcome for observability
 [2026-06-16T10:19:42+02:00] feat(contacts): tiered enrichment driven by Lusha completeness
+[2026-06-16T10:19:53+02:00] feat(contacts): photo-left contact display across the company tab
