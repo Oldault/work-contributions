@@ -2964,3 +2964,4 @@
 [2026-06-16T10:32:50+02:00] fix(company): persist active tab via navigation store as single source of truth
 [2026-06-16T11:50:10+02:00] fix(linkedin-discovery): drop Serper image fallback (wrong faces)
 [2026-06-16T11:50:22+02:00] feat(company): disable CFNEWS on the company sheet (calls + UI)
+[2026-06-16T13:56:54+02:00] feat(linkedin-discovery): HarvestAPI profile lookup by URL + 'thibaut' gender fix
