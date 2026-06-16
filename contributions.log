@@ -2966,3 +2966,4 @@
 [2026-06-16T11:50:22+02:00] feat(company): disable CFNEWS on the company sheet (calls + UI)
 [2026-06-16T13:56:54+02:00] feat(linkedin-discovery): HarvestAPI profile lookup by URL + 'thibaut' gender fix
 [2026-06-16T13:57:32+02:00] fix(contacts): re-launch restarts discovery + clean slot reuse
+[2026-06-16T14:02:28+02:00] test(contacts): align fan-out test with ContactsService constructor (Lusha DI)
