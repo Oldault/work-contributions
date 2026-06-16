@@ -2975,3 +2975,4 @@
 [2026-06-16T13:16:07Z] docs: update changelog
 [2026-06-16T16:11:06+02:00] fix(contacts): re-enrichment always bypasses the cache (empty + 'Refaire')
 [2026-06-16T16:11:35+02:00] fix(ui): logo 'idle' variant + visible progress block
+[2026-06-16T16:18:10+02:00] Merge pull request #237 from Tailorlead/feat/lusha-contact-enrichment
