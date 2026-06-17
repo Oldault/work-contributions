@@ -3021,3 +3021,4 @@
 [2026-06-17T12:52:14+02:00] Revert "fix(tholex): authenticate with RFC 6749 client_credentials Basic auth"
 [2026-06-17T16:18:30+02:00] feat(chat,contacts): make LinkedIn URL the canonical identity in the enrichment pipeline
 [2026-06-17T18:11:39+02:00] fix(contacts,chat): stop dropping FullEnrich results that resolve just past the budget
+[2026-06-17T18:38:23+02:00] fix(contacts): ReferenceError on FE empty-profile silently retried for 350s
