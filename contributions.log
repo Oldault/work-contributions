@@ -2986,3 +2986,4 @@
 [2026-06-17T11:17:30+02:00] feat(chat,contacts): add max_tier cap to the tiered contact enrichment pipeline
 [2026-06-17T11:43:28+02:00] fix(contacts,chat): persist enrichment tier so the cache respects max_tier
 [2026-06-17T12:11:11+02:00] fix(docker): trust ISRG Root YE so the backend container can reach api.tholex.co
+[2026-06-17T12:49:58+02:00] fix(tholex): authenticate with RFC 6749 client_credentials Basic auth
