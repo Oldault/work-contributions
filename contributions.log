@@ -3019,3 +3019,4 @@
 [2026-06-17T12:49:58+02:00] fix(tholex): authenticate with RFC 6749 client_credentials Basic auth
 [2026-06-17T12:50:10+02:00] chore(server): tell nodemon to watch .ts files in dev
 [2026-06-17T12:52:14+02:00] Revert "fix(tholex): authenticate with RFC 6749 client_credentials Basic auth"
+[2026-06-17T16:18:30+02:00] feat(chat,contacts): make LinkedIn URL the canonical identity in the enrichment pipeline
