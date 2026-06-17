@@ -3010,3 +3010,4 @@
 [2026-06-22T10:42:16Z] docs: update changelog
 [2026-06-23T10:14:06+02:00] fix(company): don't cache empty BE responses (the reload regression that came back)
 [2026-06-23T08:16:17Z] docs: update changelog
+[2026-06-17T10:02:44+02:00] feat(chat): route /contacts/enrich through tiered Lusha→FullEnrich→web pipeline
