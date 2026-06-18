@@ -2995,3 +2995,4 @@
 [2026-06-17T18:38:23+02:00] fix(contacts): ReferenceError on FE empty-profile silently retried for 350s
 [2026-06-18T12:55:21+02:00] feat(inpi-search): NLP + layout Tholex + pagination cursor
 [2026-06-18T11:08:25Z] docs: update changelog
+[2026-06-18T13:33:04+02:00] feat(inpi-search): client vague 4 — types intel + extension NLP
