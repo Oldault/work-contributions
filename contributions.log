@@ -3026,3 +3026,4 @@
 [2026-06-18T13:48:03+02:00] feat(chat): bill TailorAI enrichments against the org's pack quota
 [2026-06-18T11:52:58Z] docs: update changelog
 [2026-06-18T14:17:33+02:00] fix(admin-activity): single event per TailorAI consultation, not two
+[2026-06-18T12:19:39Z] docs: update changelog
