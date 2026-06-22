@@ -3001,3 +3001,4 @@
 [2026-06-18T14:17:33+02:00] fix(admin-activity): single event per TailorAI consultation, not two
 [2026-06-18T12:19:39Z] docs: update changelog
 [2026-06-18T14:35:36+02:00] feat(inpi-search): NLP mapping secteur → code_naf_prefix
+[2026-06-22T07:07:28Z] ci: Bump actions/checkout from 6 to 7
