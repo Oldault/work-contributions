@@ -3036,3 +3036,4 @@
 [2026-06-23T10:52:53+02:00] feat(coresignal): scaffold Multi-Source Employee API client + CLI smoke test
 [2026-06-23T12:06:27+02:00] feat(coresignal): Multi-Source Company API + exact-match query builder
 [2026-06-24T14:28:07+02:00] feat(inpi-search): LinkedIn (Coresignal) → SIREN INPI cascade + side-search bandeau
+[2026-06-24T15:18:25+02:00] feat(recherche-personnes): mirror LinkedIn cascade for person search + strip UX
